@@ -7,9 +7,7 @@ schema:
   version: "2019.03.09"
   author:
     - 字表作者：神死慟瞑 ˂411325365@qq.com˃
-    - osfans <waxaca@163.com>
-    - 雪心居士 ˂sihsin@live.com˃
-    - Electric Sheep ˂1613023143@qq.com˃
+    - 方案製作：雪心居士 ˂sihsin@live.com˃、Electric Sheep ˂1613023143@qq.com˃
   description: |
     松江吳語注音輸入方案吳語學堂版
     https://www.wugniu.com/
@@ -109,8 +107,11 @@ reverse_lookup:
   overwrite_comment: true     # 覆蓋其他提示
   dictionary: wugniu_sonkaon  # 反查所得爲松江吳拼
   comment_format:
-    - xform/^(.*)\((.*)\)$/$2✔/
-    #- xform ^(.*)$ /$1/
+    # 不顯示單字調
+    - xform/\d//
+
+    ## 聲調上標
+    #- xlit/12345678/¹²³⁴⁵⁶⁷⁸/
 
 punctuator:
   import_preset: symbols # 句讀處理器，統一從外部導入
