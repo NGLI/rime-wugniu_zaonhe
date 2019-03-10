@@ -24,3 +24,13 @@ https://www.wugniu.com/yinxi/shanghai
 
 许宝华、陶寰:《松江方言研究》,复旦大学出版社,2015
 
+
+
+## 聯繫
+
+- [吳語學堂](https://www.wugniu.com/)
+
+## 致謝
+
+- [Rime](https://rime.im/)
+
