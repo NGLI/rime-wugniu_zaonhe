@@ -14,6 +14,12 @@ https://www.wugniu.com/yinxi/shanghai
 
 暫缺
 
+## 安裝方法
+
+- [Windows](https://github.com/NGLI/rime-wugniu#windows-1)
+- [Linux、macOS](https://github.com/NGLI/rime-wugniu#linuxmacos-1)
+- [Android](https://github.com/NGLI/rime-wugniu#android-1)
+
 ## 參考資料
 
 ### 上海
@@ -23,8 +29,6 @@ https://www.wugniu.com/yinxi/shanghai
 ### 松江
 
 许宝华、陶寰:《松江方言研究》,复旦大学出版社,2015
-
-
 
 ## 聯繫
 
