@@ -16,9 +16,10 @@ https://www.wugniu.com/yinxi/shanghai
 
 ## 安裝方法
 
-- [Windows](https://github.com/NGLI/rime-wugniu#windows-1)
-- [Linux、macOS](https://github.com/NGLI/rime-wugniu#linuxmacos-1)
-- [Android](https://github.com/NGLI/rime-wugniu#android-1)
+- [Windows](https://ngli.github.io/rime-wugniu/安装方法/Windows.html)
+- [macOS](https://ngli.github.io/rime-wugniu/安装方法/macOS.html)
+- [Linux](https://ngli.github.io/rime-wugniu/安装方法/Linux.html)
+- [Android](https://ngli.github.io/rime-wugniu/安装方法/Android.html)
 
 ## 參考資料
 
