@@ -1,8 +1,13 @@
 # 上海吳語拼音輸入方案
 
-基於[Rime中州韻輸入法引擎](https://rime.im/)的上海吳語拼音輸入法。
 
-提供上海、松江兩地的輸入法。
+配方： ℞ **wugniu_zaonhe**
+
+基於[Rime](https://rime.im/)的上海吳語拼音輸入方案。
+
+含上海、松江兩地的輸入方案。
+
+學堂式吳語拼音。
 
 ## 音系及拼音方案
 
@@ -31,11 +36,19 @@ https://www.wugniu.com/yinxi/shanghai
 
 许宝华、陶寰:《松江方言研究》,复旦大学出版社,2015
 
-## 聯繫
+## 字詞查詢
 
-- [吳語學堂](https://www.wugniu.com/)
+https://www.wugniu.com/
 
 ## 致謝
 
 - [Rime](https://rime.im/)
+- [Trime](https://github.com/osfans/trime)
 
+## 聯繫
+
+吳語學堂：
+
+- QQ群：46520589
+- 微信公衆號：wu_gniu
+- 微博：吳語學堂
