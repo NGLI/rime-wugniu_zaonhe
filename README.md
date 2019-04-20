@@ -1,7 +1,7 @@
 # 上海吳語拼音輸入方案
 
 
-配方： ℞ **NGLI/wugniu_zaonhe**
+配方： ℞ **NGLI/rime-wugniu_zaonhe**
 
 基於[Rime](https://rime.im/)的上海吳語拼音輸入方案。
 
