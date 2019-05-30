@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_sonkaon
   name: 吳語（松江）
-  version: "2019.05.07"
+  version: "2019.05.30"
   author:
     - 字表作者：神死慟瞑 ˂411325365@qq.com˃
     - 方案製作：雪心居士 ˂sihsin@live.com˃
@@ -63,7 +63,7 @@ speller:
   algebra:
     # 聲母簡拼
     - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([pmtnlszkg]h|[kg]n|ngh?|tsh?|dz).+$/$1/
+    - abbrev/^([pmtnlszckg]h|[kg]n|ngh?|tsh?|dz).+$/$1/
     # 容錯 au => ao
     - derive/au/ao/
     # c組聲母後自動加i

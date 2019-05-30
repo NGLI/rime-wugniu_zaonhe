@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_zaonhe
   name: 吳語（上海）
-  version: "0.18"
+  version: "0.19"
   author:
     - 字表作者：吳飛得 <fededemarco@gmail.com>
     - 方案製作：雪心居士 ˂sihsin@live.com˃
@@ -66,7 +66,7 @@ speller:
 
     # 聲母簡拼
     - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([pmtnlszkg]h|[kg]n|ngh?|tsh?|dz).+$/$1/
+    - abbrev/^([pmtnlszckg]h|[kg]n|ngh?|tsh?|dz).+$/$1/
     # 容錯 au => ao
     - derive/au/ao/
     # 容錯 gn => n （無gni ni對立）
