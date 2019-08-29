@@ -11,7 +11,7 @@
 
 ---
 name: wugniu_sonkaon
-version: "0.8"
+version: "0.9"
 sort: by_weight
 use_preset_vocabulary: true
 ...
