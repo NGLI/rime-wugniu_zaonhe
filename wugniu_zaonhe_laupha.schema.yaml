@@ -67,8 +67,6 @@ speller:
     - abbrev/^([pmtnlszckg]h|gn|ng|tsh?|dz).+$/$1/
     # 容錯 au => ao
     - derive/au/ao/
-    # 容錯 gn => n （無gni ni對立）
-    - derive/gni/ni/
     # c組聲母後自動加i
     - derive/^(c|j|gn|[csz]h)i(?=[aoue])/$1/
     # 容錯 介音、主元音順序調換
