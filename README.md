@@ -63,8 +63,8 @@ https://www.wugniu.com/
 
 ## 聯繫
 
-吳語學堂：
+[吳語學堂](https://www.wugniu.com/)：
 
-- QQ群：46520589
-- 微信公衆號：wu_gniu
-- 微博：吳語學堂
+- QQ羣：46520589
+- 微信公衆號：wugniu_com
+- 微博：[吴语学堂微博](https://weibo.com/u/6541762299)
