@@ -4,10 +4,10 @@
 schema:
   schema_id: wugniu_zaonhe_laupha
   name: 吳語（上海老派）
-  version: "0.1.5"
+  version: "0.1.6"
   author:
-    - 字表作者：吳飛得 <fededemarco@gmail.com>
-    - 方案製作：Electric Sheep <shinzoqchiuq@outlook.com>
+    - 吳飛得 <fededemarco@gmail.com> (dict)
+    - Electric Sheep <shinzoqchiuq@outlook.com> (schema)
   description: |
     老派上海吳語拼音輸入方案
     https://www.wugniu.com/
@@ -81,9 +81,9 @@ speller:
     - derive/oe/eo/
     # 容錯 ao => oa
     - derive/ao/oa/
-    # 容錯 y => ghi
+    # 容錯 y- => ghi-
     - derive/yi|y(?=[aeou])/ghi/
-    # 容錯 w => ghu
+    # 容錯 w- => ghu-
     - derive/wu|w(?=[aeo])/ghu/
 
 # 主翻譯器 吳拼
