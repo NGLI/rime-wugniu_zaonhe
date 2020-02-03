@@ -7,6 +7,7 @@
 #
 # - 吳飛得 <fededemarco@gmail.com>
 # - Electric Sheep <shinzoqchiuq@outlook.com>
+# - 神死慟瞑 <411325365@qq.com>
 #
 # 使用：
 #
@@ -17,7 +18,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.01.01"
+version: "2020.02.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5197,7 +5198,7 @@ use_preset_vocabulary: true
 蓿	soq
 謖	soq
 粟	soq
-塑	soq	0%
+塑	soq
 溯	soq
 叔	soq
 菽	soq
@@ -5313,7 +5314,7 @@ use_preset_vocabulary: true
 𧤼	jioq
 趕	jioq
 𥏘	jioq
-月	gnioq
+月	gnioq	0%
 褥	gnioq
 縟	gnioq
 玉	gnioq
@@ -5876,31 +5877,28 @@ use_preset_vocabulary: true
 # 更多字音
 
 〇	lin
-# 丁	tsen
+丁	tsen	0%
 # 不	feq
 # 不	piq
 # 且	chia
-# 且	ciu
-# 串	kue
+且	ciu	0%
+串	kue	0%
 乂	gni
 么	iau
-# 乘	tshen
 乜	ma
 # 也	ya
 # 了	leq
 亍	tshoq
 亓	ji
 # 亙	ken
-# 些	su
 亟	chi
 亟	ciq
 # 亡	vaon
-# 亡	vu
-# 亨	phen
+亡	vu	0%
+亨	phen	0%
 亳	boq
 亶	de
 亶	te
-# 人	gnian
 # 什	seq
 仂	leq
 仉	tsan
@@ -5919,9 +5917,9 @@ use_preset_vocabulary: true
 # 仿	baon
 伋	ciq
 # 伐	va
-# 休	shiu
+休	shiu	0%
 伢	nga
-# 伯	po
+伯	po	0%
 # 伽	jia	0%
 伾	phi
 佈	pu
@@ -5929,8 +5927,8 @@ use_preset_vocabulary: true
 佗	du
 佗	thu
 # 佚	diq
-# 佛	beq
-# 佛	biq
+佛	beq	0%
+佛	biq	0%
 # 佝	heu
 # 佝	kheu
 佟	don
@@ -5945,7 +5943,7 @@ use_preset_vocabulary: true
 侇	yi
 侉	kho
 例	li
-# 侗	thon
+侗	thon	0%
 # 侮	vu
 係	yi
 係	shi
@@ -5963,7 +5961,7 @@ use_preset_vocabulary: true
 俾	pi
 倈	le
 # 個	koe
-# 個	gheq
+個	gheq
 倌	kuoe
 們	men
 倓	de
@@ -6076,17 +6074,17 @@ use_preset_vocabulary: true
 劐	hoq
 劓	gni
 劜	gaq
-# 助	zy	0%
+助	zy	0%
 劬	jiu
 劭	zau
 柖	zau
 玿	zau
-# 勁	jin
+勁	jin
 勍	jin
 勐	man
 勖	shioq
-# 勘	khoe
-# 務	vu
+勘	khoe
+務	vu
 勜	on
 勯	the
 勰	yaq
@@ -6096,21 +6094,20 @@ use_preset_vocabulary: true
 # 匐	boq
 # 匐	bu
 # 匐	voq
-# 性	ho shin
 # 北	pe
 匜	yi
 匟	khaon
 匭	kue
 匱	gue
 # 匽	ia
-# 十	seq	0%
+十	seq	0%
 卅	saq
 卍	me
 卍	ve
 卐	me
 卐	ve
 # 卒	tsheq
-# 南	na	0%
+南	na	0%
 卟	poq
 卣	yeu
 巵	tsy
@@ -6128,7 +6125,7 @@ use_preset_vocabulary: true
 # 參	se	0%
 # 叉	tshaq	0%
 # 句	keu	0%
-# 叫	kau
+叫	kau
 召	zau
 # 可	kheq	0%
 台	de
@@ -6550,7 +6547,7 @@ use_preset_vocabulary: true
 孌	loe
 孓	ciuq
 孢	pau
-# 孫	san
+孫	san
 孬	nau
 孬	vau	0%
 孱	ze
@@ -7010,7 +7007,7 @@ use_preset_vocabulary: true
 昀	yun
 昃	tseq
 昉	faon
-# 明	men	0%
+明	men
 昕	shin
 昝	tsoe
 昡	yoe
@@ -8172,7 +8169,7 @@ use_preset_vocabulary: true
 舐	zy
 舖	phu
 舛	tshoe
-# 舞	vu
+舞	vu
 舟	tseu
 舨	pe
 # 般	boe
@@ -8335,7 +8332,7 @@ use_preset_vocabulary: true
 # 蕃	bu
 # 蕃	fe
 蕆	tshoe
-# 蕊	gniu	0%
+蕊	gniu	0%
 蕒	ma
 蕘	gniau
 蕘	zau
@@ -8470,8 +8467,8 @@ use_preset_vocabulary: true
 衖	lon
 衩	tsha
 衩	tsho
-# 衰	sa	0%
-# 衰	tshe	0%
+衰	sa	0%
+衰	tshe	0%
 衿	cin
 袗	tsen
 袜	meq
@@ -8535,7 +8532,7 @@ use_preset_vocabulary: true
 觴	saon
 觶	tsy
 # 言	gni
-# 言	ghe	0%
+言	ghe	0%
 訄	jieu
 訇	hon
 訐	ciq
@@ -10946,15 +10943,15 @@ use_preset_vocabulary: true
 一俟	iq zy
 一信	iq shin
 一個	iq ku
-# 一個	iq gheq
-# 一個人	iq gheq gnin
-# 一個字	iq gheq zy
+一個	iq gheq
+一個人	iq gheq gnin
+一個字	iq gheq zy
 一個月	iq geq yuq
-# 一個月	iq gheq yuq
-# 一個省	iq gheq san
+一個月	iq gheq yuq
+一個省	iq gheq san
 一個花甲	iq ku ho ciaq
-# 一個花甲	iq gheq ho ciaq
-# 一兩個	iq lian gheq
+一個花甲	iq gheq ho ciaq
+一兩個	iq lian gheq
 一兩萬	iq lian ve
 一共	iq gon
 一准
@@ -10969,7 +10966,7 @@ use_preset_vocabulary: true
 一區	iq chiu
 一去	iq chi
 一句	iq ciu
-# 一句言話	iq ciu ghe gho
+一句言話	iq ciu ghe gho
 一吹	iq tshy
 一週
 一味	iq vi
@@ -11032,7 +11029,7 @@ use_preset_vocabulary: true
 一桿
 一條	iq diau
 一樂	iq loq
-# 一樣個	iq yan gheq
+一樣個	iq yan gheq
 一樣生	iq yan san
 一機
 一櫃	iq gue
@@ -11051,7 +11048,7 @@ use_preset_vocabulary: true
 一潭	iq de
 一灘
 一炮	iq phau
-# 一無	iq vu
+一無	iq wu
 一照
 一物	iq veq
 一甩	iq huaq
@@ -11083,7 +11080,7 @@ use_preset_vocabulary: true
 一般	iq pe
 一般性	iq pe shin
 一萬	iq ve
-# 一萬個字	iq ve gheq zy
+一萬個字	iq ve gheq zy
 一葉	iq yiq
 一蓋	iq ke
 一行	iq ghaon
@@ -11091,7 +11088,7 @@ use_preset_vocabulary: true
 一被	iq be
 一見	iq ci
 一覺	iq cioq
-# 一言	iq gni
+一言	iq yi
 一計
 一記頭
 一說	iq seq
@@ -11107,7 +11104,7 @@ use_preset_vocabulary: true
 一進宅
 一遍	iq pi
 一道來
-# 一道個	iq dau gheq
+一道個	iq dau gheq
 一道叫	iq dau ciau
 # 一部分	iq bu ven
 一長	iq tsan
@@ -11148,12 +11145,12 @@ use_preset_vocabulary: true
 七人	chiq gnin
 七件
 七個	chiq ku
-# 七個	chiq gheq
+七個	chiq gheq
 七停八當
 七分	chiq fen
 七勿老三
 七勿老起
-# 七十	chiq seq
+七十	chiq seq
 七嘴八搭
 七大	chiq da
 七姐	chiq cia
@@ -11173,9 +11170,9 @@ use_preset_vocabulary: true
 七歪八牽	chiq hua paq chi
 七班
 七翹八裂	chiq jiau paq liq
-# 七老八十	chiq lau paq seq
+七老八十	chiq lau paq seq
 七萬	chiq ve
-# 七言	chiq gni
+七言	chiq yi
 七講八講	chiq kaon paq kaon
 七項
 七高八低
@@ -11190,16 +11187,16 @@ use_preset_vocabulary: true
 三伏	se voq
 三伏天	se voq thi
 三個	se ku
-# 三個	se gheq
-# 三個字	se gheq zy
+三個	se gheq
+三個字	se gheq zy
 三冊
 三分	se fen
 # 三分之一	se ven tsy iq
 三則
 三勿常
 三北	se poq
-# 三十	se seq
-# 三十歲	se seq soe
+三十	se seq
+三十歲	se seq soe
 三叉	se tsho
 三叉路	se tsho lu
 三叉路口	se tsho lu kheu
@@ -11261,7 +11258,7 @@ use_preset_vocabulary: true
 上一屆
 上一界
 上上個月	zaon zaon geq yuq
-# 上上個月	zaon zaon gheq yuq
+上上個月	zaon zaon gheq yuq
 上上落落
 上下	zaon gho
 上不	zaon peq
@@ -11277,7 +11274,7 @@ use_preset_vocabulary: true
 上你
 上個	zaon ku
 上個月	zaon geq yuq
-# 上個月	zaon gheq yuq
+上個月	zaon gheq yuq
 上再
 上出
 上分	zaon fen
@@ -11344,7 +11341,7 @@ use_preset_vocabulary: true
 上每
 上海人	zaon he gnin
 上海唻
-# 上海言話	zaon he ghe gho
+上海言話	zaon he ghe gho
 上海閑話	zaon he ghe gho
 上海音
 上湧
@@ -11394,7 +11391,7 @@ use_preset_vocabulary: true
 上馬	zaon mo
 下一	gho iq
 下一場	gho iq zan
-# 下下個月	gho gho gheq yuq
+下下個月	gho gho gheq yuq
 下世	gho sy
 下之	gho tsy
 下乘	gho zen
@@ -11406,9 +11403,9 @@ use_preset_vocabulary: true
 下令	gho lin
 下任	gho zen
 下作坯	gho tsoq phe
-# 下個	gho gheq
+下個	gho gheq
 下個月	gho geq yuq
-# 下個月	gho gheq yuq
+下個月	gho gheq yuq
 下側	gho tseq
 下傳	gho zoe
 下僚	gho liau
@@ -11831,7 +11828,7 @@ use_preset_vocabulary: true
 不潔	peq ciq
 不濟	peq ci
 不為	peq we
-# 不無	peq vu
+不無	peq wu
 不然	peq zoe
 不煩	peq ve
 不熟	peq zoq
@@ -11910,7 +11907,7 @@ use_preset_vocabulary: true
 不見	peq ci
 不覺	peq cioq
 不解	peq cia
-# 不言	peq gni
+不言	peq yi
 不計	peq ci
 不許	peq shiu
 不訴	peq su
@@ -12040,7 +12037,7 @@ use_preset_vocabulary: true
 並會	bin we
 並未	bin vi
 並為
-# 並無	bin vu
+並無	bin wu
 並獲
 並着	bin zaq
 並罰
@@ -12082,8 +12079,8 @@ use_preset_vocabulary: true
 中古三拼
 中史
 中四
-# 中國人	tson kueq gnin
-# 中國人民共和國	tson kueq zen min gon wu kueq
+中國人	tson koq gnin
+中國人民共和國	tson koq zen min gon wu koq
 中場	tson zan
 中大	tson da
 中學	tson ghoq
@@ -12284,7 +12281,7 @@ use_preset_vocabulary: true
 之虞
 之術	tsy zeq
 之見	tsy ci
-# 之言	tsy gni
+之言	tsy yi
 之誤
 之說	tsy seq
 之論
@@ -12351,10 +12348,10 @@ use_preset_vocabulary: true
 九亭
 九件
 九個	cieu ku
-# 九個	cieu gheq
+九個	cieu gheq
 九分	cieu fen
 九勢
-# 九十	cieu seq
+九十	cieu seq
 九地
 九大	cieu da
 九折	cieu tseq
@@ -12444,8 +12441,8 @@ use_preset_vocabulary: true
 也沒	gha meq
 也沒人做	gha meq gnin tsu
 也為	gha we
-# 也無	gha vu
-# 也無知	ya vu tsy
+也無	gha wu
+# 也無知	ya wu tsy
 也用	gha yon
 也由	gha yeu
 也看	gha khoe
@@ -12597,7 +12594,7 @@ use_preset_vocabulary: true
 事就
 事工
 事干
-# 事無	zy vu
+事無	zy wu
 事物	zy veq
 事相
 事這
@@ -12633,7 +12630,7 @@ use_preset_vocabulary: true
 二副	gni fu
 二劃	gni waq
 二動	gni don
-# 二十	er seq
+二十	er seq
 二千	gni chi
 二半	gni poe
 二叔	gni soq
@@ -12813,7 +12810,7 @@ use_preset_vocabulary: true
 五位	ng we
 五保	ng pau
 五個	ng ku
-# 五個	ng gheq
+五個	ng gheq
 五倍	ng be
 五倫	ng len
 五億	ng i
@@ -12831,7 +12828,7 @@ use_preset_vocabulary: true
 五劃	ng waq
 五力	ng liq
 五匙	ng zy
-# 五十	ng seq
+五十	ng seq
 五千	ng chi
 五原	ng gnioe
 五口	ng kheu
@@ -12844,7 +12841,7 @@ use_preset_vocabulary: true
 五哥	ng ku
 五四	ng sy
 五圈	ng chioe
-# 五國	ng kueq
+五國	ng koq
 五圓	ng yoe
 五坪	ng bin
 五報	ng pau
@@ -12986,7 +12983,7 @@ use_preset_vocabulary: true
 五袋	ng de
 五見	ng ci
 五角	ng koq
-# 五言	ng gni
+五言	ng yi
 五課	ng khu
 五識	ng seq
 五谷	ng koq
@@ -13055,23 +13052,23 @@ use_preset_vocabulary: true
 亟盼	ciq phe
 亟需	ciq shiu
 亟須	ciq shiu
-# 亡了	vaon liau
-# 亡佚	vaon yiq
-# 亡兄	vaon shion
-# 亡友	vaon yeu
-# 亡命	vaon min
-# 亡國	vaon kueq
-# 亡夫	vaon fu
-# 亡失	vaon seq
-# 亡妹	vaon me
-# 亡故	vaon ku
-# 亡歿	vaon meq
-# 亡母	vaon mu
-# 亡父	vaon vu
-# 亡者	vaon tse
-# 亡逝	vaon zy
-# 亡靈	vaon lin
-# 亡魂	vaon wen
+亡了	waon liau
+亡佚	waon yiq
+亡兄	waon shion
+亡友	waon yeu
+亡命	waon min
+亡國	waon koq
+亡夫	waon fu
+亡失	waon seq
+亡妹	waon me
+亡故	waon ku
+亡歿	waon meq
+亡母	waon mu
+亡父	waon vu
+亡者	waon tse
+亡逝	waon zy
+亡靈	waon lin
+亡魂	waon wen
 交上	kau zaon
 交了	kau liau
 交予	kau yu
@@ -13170,7 +13167,7 @@ use_preset_vocabulary: true
 亦曾	yiq zen
 亦會	yiq we
 亦比	yiq pi
-# 亦無	yiq vu
+亦無	yiq wu
 亦算
 亦能	yiq nen
 亦非
@@ -13212,7 +13209,7 @@ use_preset_vocabulary: true
 人介少	gnin ka sau
 人來	gnin le
 人來風	gnin le fon
-# 人個	gnin gheq
+人個	gnin gheq
 人們	zen men
 人倫	gnin len
 人傑	gnin jiq
@@ -13346,7 +13343,7 @@ use_preset_vocabulary: true
 仁愛	gnin e
 仁慈	gnin zy
 仁政	gnin tsen
-# 仁武	gnin vu
+仁武	gnin wu
 仁義	gnin gni
 仁者	gnin tse
 仄愣
@@ -13407,7 +13404,7 @@ use_preset_vocabulary: true
 仍有	gnin yeu
 仍未	gnin vi
 仍為	gnin we
-# 仍無	gnin vu
+仍無	gnin wu
 仍然	gnin zoe
 仍用	gnin yon
 仍由	gnin yeu
@@ -13477,7 +13474,7 @@ use_preset_vocabulary: true
 他本
 他死	tha sy
 他沒
-# 他無	tha vu
+他無	tha wu
 他爸	tha pa
 他物	tha veq
 他生	tha sen
@@ -13522,7 +13519,7 @@ use_preset_vocabulary: true
 代耕	de ken
 代行	de yin
 代表字
-# 代言	de gni
+代言	de yi
 代賣
 代雪
 令人	lin gnin
@@ -13597,7 +13594,7 @@ use_preset_vocabulary: true
 任內	zen ne
 任其	zen ji
 任前	zen zhi
-# 任務	zen vu
+任務	zen vu
 任取	zen chiu
 任君	zen ciun
 任命	zen min
@@ -13633,7 +13630,7 @@ use_preset_vocabulary: true
 伊人	i gnin
 伊仔	i tsy
 伊來付	yi le fu
-# 伊個	yi gheq
+伊個	yi gheq
 伊哥	yi ku
 伊妹	yi me
 伊始	i sy
@@ -13642,7 +13639,7 @@ use_preset_vocabulary: true
 伊川	i tshoe
 伊想	yi shian
 伊拉	yi la
-# 伊拉個	yi la gheq
+伊拉個	yi la gheq
 伊春	i tshen
 伊是	i zy
 伊朗	i laon
@@ -13720,7 +13717,7 @@ use_preset_vocabulary: true
 伯父	paq vu
 伯牙	paq nga
 估單	ku te
-# 伲個	gni gheq
+伲個	gni gheq
 伴你
 伴兒	boe er
 伴嫁
@@ -13814,7 +13811,7 @@ use_preset_vocabulary: true
 低陷	ti ghe
 低階	ti cia
 住下	zy gho
-# 住個	zy gheq
+住個	zy gheq
 住勒	zy leq
 住友	zy yeu
 住嘴	zy tsy
@@ -13890,7 +13887,7 @@ use_preset_vocabulary: true
 佛典	veq ti
 佛協	veq yaq
 佛印	veq in
-# 佛國	veq kueq
+佛國	veq koq
 佛堂	veq daon
 佛塔	veq thaq
 佛學	veq ghoq
@@ -13973,7 +13970,7 @@ use_preset_vocabulary: true
 你會	ni we
 你死	ni sy
 你為
-# 你無	ni vu
+你無	ni wu
 你當
 你給
 你能	ni nen
@@ -14000,7 +13997,7 @@ use_preset_vocabulary: true
 佯動
 佯死	yan sy
 佯細
-# 佯言	yan gni
+佯言	yan yi
 佳人	cia gnin
 佳作	cia tsoq
 佳偶	cia ngeu
@@ -14051,7 +14048,7 @@ use_preset_vocabulary: true
 來便
 來信	le shin
 來個	le ku
-# 來個	le gheq
+來個	le gheq
 來些	le shi
 來西	le shi
 來死	le shi
@@ -14112,7 +14109,7 @@ use_preset_vocabulary: true
 例湯	li thaon
 例舉
 例行	li yin
-# 例言	li gni
+例言	li yi
 侍女	zy gniu
 侍從	zy zon
 侗族	don zoq
@@ -14284,7 +14281,7 @@ use_preset_vocabulary: true
 個不	ku peq
 個中	ku tson
 個人	ku gnin
-# 個人	gheq gnin
+個人	gheq gnin
 個以	ku i
 個位	ku we
 個例	ku li
@@ -14296,7 +14293,7 @@ use_preset_vocabulary: true
 個多	ku tu
 個子	ku tsy
 個字	ku zy
-# 個字	gheq zy
+個字	gheq zy
 個展	ku tsoe
 個很	ku hen
 個性	ku shin
@@ -14394,7 +14391,7 @@ use_preset_vocabulary: true
 倡廉	tshaon li
 倡條	tshaon diau
 倡狂	tshaon guaon
-# 倡言	tshaon gni
+倡言	tshaon yi
 倡議	tshaon gni
 倥侗	khon don
 倦乏
@@ -14415,7 +14412,7 @@ use_preset_vocabulary: true
 假佯頭	ka yan deu
 假使	cia sy
 假使	ka sy
-# 假個	ka gheq
+假個	ka gheq
 假借	ka cia
 假像	ka zhian
 假充	ka tshon
@@ -14454,7 +14451,7 @@ use_preset_vocabulary: true
 假若	ka zaq
 假藥	ka yaq
 假裝	ka tsaon
-# 假言	ka gni
+假言	ka yi
 假託	ka thoq
 假設	ka seq
 假話	ka gho
@@ -14501,7 +14498,7 @@ use_preset_vocabulary: true
 做人家	tsu gnin ka
 # 做什麼	tsu seq moq
 做個	tsu ku
-# 做個	tsu gheq
+做個	tsu gheq
 做假	tsu ka
 做呀
 做呢	tsu gni
@@ -14532,7 +14529,7 @@ use_preset_vocabulary: true
 做課
 做賊
 做賬
-# 做迭個	tsu diq gheq
+做迭個	tsu diq gheq
 做這
 做頭髮
 做題目
@@ -14596,7 +14593,7 @@ use_preset_vocabulary: true
 偽經
 偽藥
 偽裝
-# 偽言	we gni
+偽言	we yi
 偽証
 偽誓
 偽謬
@@ -14669,13 +14666,13 @@ use_preset_vocabulary: true
 傳紀
 傳聞	zoe ven
 傳聲	zoe sen
-# 傳言	zoe gni
+傳言	zoe yi
 傳說	zoe seq
 傳遍	zoe pi
 # 傴僂	iu leu
 傴腰曲背	eu iau chioq pe
 債券	tsa chioe
-# 傷亡	saon vaon
+傷亡	saon waon
 傷人	saon gnin
 傷員	saon yoe
 傷害	saon ghe
@@ -14739,12 +14736,12 @@ use_preset_vocabulary: true
 僻典
 儀仗	gni zan
 儂也	non gha
-# 儂個	non gheq
+儂個	non gheq
 儂叫	non ciau
 儂指
 儂早
 儂有
-# 儂用儂個	non yon non gheq
+儂用儂個	non yon non gheq
 儂要
 儂認得
 億兆
@@ -14763,7 +14760,7 @@ use_preset_vocabulary: true
 儕會	ze we
 儕會得	ze we teq
 儕有
-# 儕有個	ze yeu gheq
+儕有個	ze yeu gheq
 儕用
 儕看
 儕要
@@ -14885,7 +14882,7 @@ use_preset_vocabulary: true
 光棍	kuaon kuen
 光榮	kuaon yon
 光標	kuaon piau
-# 光武	kuaon vu
+光武	kuaon wu
 光波	kuaon pu
 光源	kuaon gnioe
 光滑	kuaon waq
@@ -15030,7 +15027,7 @@ use_preset_vocabulary: true
 內分	ne fen
 內力	ne liq
 內功	ne kon
-# 內務	ne vu
+內務	ne vu
 內勤	ne jin
 內化	ne ho
 內參	ne tshoe
@@ -15167,7 +15164,7 @@ use_preset_vocabulary: true
 全月	zhi yuq
 全校	zhi yau
 全濁
-# 全無	zhi vu
+全無	zhi wu
 全燒
 全盛	zhi zen
 全省	zhi san
@@ -15180,9 +15177,9 @@ use_preset_vocabulary: true
 兩人	lian gnin
 兩伊	lian i
 兩個	lian ku
-# 兩個	lian gheq
-# 兩個字	lian gheq zy
-# 兩個音	lian gheq in
+兩個	lian gheq
+兩個字	lian gheq zy
+兩個音	lian gheq in
 兩分	lian fen
 兩制
 兩區	lian chiu
@@ -15228,9 +15225,9 @@ use_preset_vocabulary: true
 兩龍
 八件
 八個	paq ku
-# 八個	paq gheq
+八個	paq gheq
 八分	paq fen
-# 八十	paq seq
+八十	paq seq
 八大	paq da
 八姑
 八字蘇
@@ -15259,7 +15256,7 @@ use_preset_vocabulary: true
 公共	kon gon
 公冶	kon yi
 公分	kon fen
-# 公務員	kon vu yoe
+公務員	kon vu yoe
 公厘
 公孫	kon sen
 公害	kon ghe
@@ -15285,14 +15282,14 @@ use_preset_vocabulary: true
 公阿爹	kon aq tia
 公頃	kon chin
 公鴨
-# 六七十	loq chiq seq
+六七十	loq chiq seq
 六代
 六件
 六信	loq shin
 六個	loq ku
-# 六個	loq gheq
+六個	loq gheq
 六分	loq fen
-# 六十	loq seq
+六十	loq seq
 六合	loq gheq
 六周
 六大	loq da
@@ -15347,7 +15344,7 @@ use_preset_vocabulary: true
 共約	gon iaq
 共線	gon shi
 共聚	gon zhiu
-# 共舞	gon vu
+共舞	gon vu
 共處	gon tshy
 共計	gon ci
 共識	gon seq
@@ -15395,7 +15392,7 @@ use_preset_vocabulary: true
 其用	ji yon
 其職	ji tseq
 其解	ji cia
-# 其言	ji gni
+其言	ji yi
 其間	ji ci
 其餘	ji yu
 具像
@@ -15616,14 +15613,14 @@ use_preset_vocabulary: true
 出不	tsheq peq
 出乎	tsheq wu
 出事體
-# 出亡	tsheq vaon
+出亡	tsheq waon
 出任	tsheq zen
 出伏	tsheq voq
 出倉
 出個	tsheq ku
 出去	tsheq chi
 出名氣
-# 出啥新個事體	tsheq sa shin gheq zy thi
+出啥新個事體	tsheq sa shin gheq zy thi
 出圈	tsheq chioe
 出場	tsheq zan
 出塞	tsheq se
@@ -15660,8 +15657,8 @@ use_preset_vocabulary: true
 出葬
 出行	tsheq yin
 出街	tsheq ka
-# 出言無常	tsheq gni vu zan
-# 出言話	tsheq ghe gho
+出言無常	tsheq yi wu zan
+出言話	tsheq ghe gho
 出說話	tsheq seq gho
 出趟
 出送
@@ -15704,7 +15701,7 @@ use_preset_vocabulary: true
 分佈	fen pu
 分作	fen tsoq
 分保	fen pau
-# 分個	fen gheq
+分個	fen gheq
 分克	fen kheq
 # 分內	ven ne
 分兵	fen pin
@@ -15912,9 +15909,9 @@ use_preset_vocabulary: true
 別了	biq liau
 別人	biq gnin
 別人家	biq gnin ka
-# 別個	biq gheq
-# 別個人	biq gheq gnin
-# 別個字	biq gheq zy
+別個	biq gheq
+別個人	biq gheq gnin
+別個字	biq gheq zy
 別價
 別勿着	biq veq zaq
 別勿轉
@@ -15930,7 +15927,7 @@ use_preset_vocabulary: true
 別慌
 別提	biq di
 別為
-# 別無	biq vu
+別無	biq wu
 別相
 別致
 別被	biq be
@@ -16041,7 +16038,7 @@ use_preset_vocabulary: true
 則曰
 則會	tseq we
 則為
-# 則無	tseq vu
+則無	tseq wu
 則稱
 則能	tseq nen
 則被	tseq be
@@ -16094,7 +16091,7 @@ use_preset_vocabulary: true
 前繞
 前腳後腳
 前行	zhi yin
-# 前言	zhi gni
+前言	zhi yi
 前記
 前識	zhi seq
 前車	zhi tsho
@@ -16115,7 +16112,7 @@ use_preset_vocabulary: true
 剖解	pheu cia
 剖開	pheu khe
 剖面	pheu mi
-# 剛剛來個	kaon kaon le gheq
+剛剛來個	kaon kaon le gheq
 剛勁	kaon cin
 剛去	kaon chi
 剛學	kaon ghoq
@@ -16243,7 +16240,7 @@ use_preset_vocabulary: true
 加以	ka i
 加侖	ka len
 加個	ka ku
-# 加個	ka gheq
+加個	ka gheq
 加倍	ka be
 加值	ka zeq
 加價	ka ka
@@ -16259,7 +16256,7 @@ use_preset_vocabulary: true
 加厚	ka gheu
 加回去	ka we chi
 加固	ka ku
-# 加國	ka kueq
+加國	ka koq
 加在	ka ze
 加塞	ka seq
 加壓	ka aq
@@ -16378,7 +16375,7 @@ use_preset_vocabulary: true
 勁歌	cin ku
 勁烈	cin liq
 勁爆	cin bau
-# 勁舞	cin vu
+勁舞	cin vu
 勁草	cin tshau
 勁頭	cin deu
 勁風	cin fon
@@ -16413,11 +16410,11 @@ use_preset_vocabulary: true
 動能	don nen
 動車	don tsho
 動銷
-# 勘查	khoe zo
-# 勘校	khoe yau
-# 務員	vu yoe
+勘查	khoe zo
+勘校	khoe yau
+務員	vu yoe
 務局
-# 務期	vu ji
+務期	vu ji
 務處
 務要
 勝仗	sen tsan
@@ -16633,7 +16630,7 @@ use_preset_vocabulary: true
 北去	poq chi
 北吳	poq wu
 北周	poq tseu
-# 北國	poq kueq
+北國	poq koq
 北園	poq yoe
 北埔	poq phu
 北壗	poq he
@@ -16755,7 +16752,7 @@ use_preset_vocabulary: true
 十佳	zeq cia
 十信	zeq shin
 十個	zeq ku
-# 十個	zeq gheq
+十個	zeq gheq
 十倍	zeq be
 十傑	zeq jiq
 十億	zeq i
@@ -16904,7 +16901,7 @@ use_preset_vocabulary: true
 南吳	noe wu
 南味	noe vi
 南唐	noe daon
-# 南國	noe kueq
+南國	noe koq
 南園	noe yoe
 南壗	noe he
 南大	noe da
@@ -16944,7 +16941,7 @@ use_preset_vocabulary: true
 南海	noe he
 南港	noe kaon
 南湖	noe wu
-# 南無	noe vu
+南無	noe wu
 # 南無阿彌陀佛	na mo u mi du veq
 南特	noe deq
 南瓜	noe ko
@@ -17027,13 +17024,13 @@ use_preset_vocabulary: true
 印鑑	in ci
 印鑒	in ci
 印順
-# 危亡	we vaon
+危亡	we waon
 危厄
 危害	we ghe
 危峰
 危怠
 危矣
-# 危言	we gni
+危言	we yi
 危象
 危迫	we phaq
 即一
@@ -17088,7 +17085,7 @@ use_preset_vocabulary: true
 卻更	chiaq ken
 卻會	chiaq we
 卻比	chiaq pi
-# 卻無	chiaq vu
+卻無	chiaq wu
 卻給
 卻能	chiaq nen
 卻與
@@ -17117,7 +17114,7 @@ use_preset_vocabulary: true
 原指
 原於	gnioe yu
 原為
-# 原無	gnioe vu
+原無	gnioe wu
 原物	gnioe veq
 原生	gnioe sen
 原系
@@ -17145,8 +17142,8 @@ use_preset_vocabulary: true
 # 去了	chi leq
 去了	chi liau
 # 去了	chiu leq
-# 去個	chi gheq
-# 去個人	chi gheq gnin
+去個	chi gheq
+去個人	chi gheq gnin
 去做	chi tsu
 去冬	chi ton
 去函	chi ghoe
@@ -17161,7 +17158,7 @@ use_preset_vocabulary: true
 去啦	chi la
 去喫	chi chiq
 去嗎	chi mo
-# 去國	chi kueq
+去國	chi koq
 去垢	chi keu
 去夏	chi gho
 去學	chi ghoq
@@ -17310,7 +17307,7 @@ use_preset_vocabulary: true
 又比	yeu pi
 又沒	yeu meq
 又為	yeu we
-# 又無	yeu vu
+又無	yeu wu
 又熱	yeu gniq
 又燃	yeu zoe
 # 又獲	yeu weq
@@ -17417,7 +17414,7 @@ use_preset_vocabulary: true
 取飯
 取齊	chiu zhi
 受了	zeu liau
-# 受傷個	zeu saon gheq
+受傷個	zeu saon gheq
 受凍
 受刺激
 受動
@@ -17536,7 +17533,7 @@ use_preset_vocabulary: true
 叫到	ciau tau
 叫勁	ciau cin
 叫化	ciau ho
-# 叫化子	kau ho tsy
+叫化子	kau ho tsy
 叫名	ciau min
 叫名叫姓	ciau min ciau shin
 叫哥哥	ciau ku ku
@@ -17628,7 +17625,7 @@ use_preset_vocabulary: true
 可能性	khu nen shin
 可行	khu yin
 可見	khu ci
-# 可言	khu gni
+可言	khu yi
 可說	khu seq
 可調	khu diau
 可讀	khu doq
@@ -17678,7 +17675,7 @@ use_preset_vocabulary: true
 叼起
 叼鑽促掐
 吁吁	shiu shiu
-# 吃個	chiq gheq
+吃個	chiq gheq
 吃價
 吃光光	chiq kuaon kuaon
 吃准
@@ -17828,7 +17825,7 @@ use_preset_vocabulary: true
 吉日	ciq zeq
 吉期	ciq ji
 吉藏
-# 吉言	ciq gni
+吉言	ciq yi
 吉通
 吊勾
 吊在
@@ -17843,7 +17840,7 @@ use_preset_vocabulary: true
 吊臂
 吊車	tiau tsho
 吊鹽水
-# 同一個	don iq gheq
+同一個	don iq gheq
 同了	don liau
 同仁	don gnin
 同住	don zy
@@ -17918,7 +17915,7 @@ use_preset_vocabulary: true
 名腳
 名茶
 名表
-# 名言	min gni
+名言	min yi
 名諺
 名貴	min kue
 名車	min tsho
@@ -17992,7 +17989,7 @@ use_preset_vocabulary: true
 吱聲	tsy sen
 吳中	wu tson
 吳人	wu gnin
-# 吳國	wu kueq
+吳國	wu koq
 吳川	wu tshoe
 吳廣	wu kuaon
 吳梅	wu me
@@ -18286,7 +18283,7 @@ use_preset_vocabulary: true
 咽喉	i gheu
 咽炎	i yi
 咽頭	i deu
-# 咿個	i gheq
+咿個	i gheq
 咿呀	i ia
 咿唔	i n
 咿啞	i o
@@ -18298,8 +18295,8 @@ use_preset_vocabulary: true
 咿隻	i tsaq
 咿面	i mi
 咿頭	i deu
-# 哀個	e gheq
-# 哀個辰光	e gheq zen kuaon
+哀個	e gheq
+哀個辰光	e gheq zen kuaon
 哀叫	e ciau
 哀呼
 哀咽	e i
@@ -18399,13 +18396,13 @@ use_preset_vocabulary: true
 哪能	na nen
 哪能加	na nen ka
 哪能回事體	na nen we zy thi
-# 哪能想個	na nen shian gheq
+哪能想個	na nen shian gheq
 哪能話頭	na nen gho deu
 哪能辦	na nen be
 哪恁	na nen
 哪恁加	na nen ka
 哪恁回事體	na nen we zy thi
-# 哪恁想個	na nen shian gheq
+哪恁想個	na nen shian gheq
 哪恁話頭	na nen gho deu
 哪恁辦	na nen be
 哪落	na loq
@@ -18603,9 +18600,9 @@ use_preset_vocabulary: true
 啟齒
 啥事體
 啥人	sa gnin
-# 啥個地方	sa gheq di faon
-# 啥個場化	sa gheq zan ho
-# 啥個路道	sa gheq lu dau
+啥個地方	sa gheq di faon
+啥個場化	sa gheq zan ho
+啥個路道	sa gheq lu dau
 啥叫	sa ciau
 啥地方
 啥場化	sa zan ho
@@ -18643,7 +18640,7 @@ use_preset_vocabulary: true
 善於	zoe yu
 善業
 善睞
-# 善言	zoe gni
+善言	zoe yi
 善逝
 善遇
 善飛
@@ -18700,7 +18697,7 @@ use_preset_vocabulary: true
 喧用
 喧雜
 喧響
-# 喪亡	saon vaon
+喪亡	saon waon
 喪假	saon ka
 喪夫	saon fu
 喪家	saon ka
@@ -18912,7 +18909,7 @@ use_preset_vocabulary: true
 嘉興	ka shin
 嘉良	ka lian
 嘉華	ka gho
-# 嘉言	ka gni
+嘉言	ka yi
 嘉許	ka shiu
 嘉賓	ka pin
 嘉陵	ka lin
@@ -18964,7 +18961,7 @@ use_preset_vocabulary: true
 嘸日嘸夜	m gniq m ya
 嘸沒	m meq
 嘸沒勒	m meq leq
-# 嘸沒言話	m meq ghe gho
+嘸沒言話	m meq ghe gho
 嘸沒關係	m meq kue yi
 嘸清頭	m chin deu
 嘸纏頭	m zoe deu
@@ -19030,7 +19027,7 @@ use_preset_vocabulary: true
 嚡裏
 嚡裏一種
 嚡裏一隻
-# 嚡裏個	gha li gheq
+嚡裏個	gha li gheq
 嚡裏墶
 嚡裏搭
 嚡裏面
@@ -19073,16 +19070,16 @@ use_preset_vocabulary: true
 四件
 四份	sy ven
 四個	sy ku
-# 四個	sy gheq
+四個	sy gheq
 四元
 四分	sy fen
 四化	sy ho
 四區	sy chiu
-# 四十	sy seq
+四十	sy seq
 四句	sy ciu
 四合	sy gheq
 四因
-# 四國大戰	sy kueq da tsoe
+四國大戰	sy koq da tsoe
 四圍	sy we
 四垛
 四堡	sy pau
@@ -19222,30 +19219,30 @@ use_preset_vocabulary: true
 圈選	chioe shi
 圈閱	chioe yuq
 圈點	chioe ti
-# 國人	kueq gnin
-# 國仇	kueq zeu
-# 國光	kueq kuaon
-# 國內	kueq ne
+國人	koq gnin
+國仇	koq zeu
+國光	koq kuaon
+國內	koq ne
 國圖
-# 國大	kueq da
-# 國學	kueq ghoq
-# 國家	kueq cia
+國大	koq da
+國學	koq ghoq
+國家	koq cia
 國平
-# 國強	kueq jian
-# 國教	kueq ciau
-# 國會	kueq we
+國強	koq jian
+國教	koq ciau
+國會	koq we
 國服
-# 國樂	kueq yaq
-# 國粹	kueq tshoe
-# 國粹	kueq zoe
+國樂	koq yaq
+國粹	koq tshoe
+# 國粹	koq zoe
 國紀
 國罵
 國與
 國良
-# 國華	kueq gho
-# 國術	kueq zeq
-# 國防	kueq vaon
-# 國鳥	kueq gniau
+國華	koq gho
+國術	koq zeq
+國防	koq vaon
+國鳥	koq gniau
 圍上	we zaon
 圍下	we gho
 圍了	we liau
@@ -19404,7 +19401,7 @@ use_preset_vocabulary: true
 在朝	ze zau
 在校	ze yau
 在法
-# 在無	ze vu
+在無	ze wu
 在生	ze sen
 在當
 在給
@@ -19448,7 +19445,7 @@ use_preset_vocabulary: true
 地底下	di ti gho
 地志
 地效
-# 地方個	di faon gheq
+地方個	di faon gheq
 地會	di we
 地栗
 地梁
@@ -19494,7 +19491,7 @@ use_preset_vocabulary: true
 均未	ciun vi
 均比	ciun pi
 均為
-# 均無	ciun vu
+均無	ciun wu
 均獲
 均系
 均能	ciun nen
@@ -19532,7 +19529,7 @@ use_preset_vocabulary: true
 坦摯	the tsy
 坦率	the se
 坦眼
-# 坦言	the gni
+坦言	the yi
 坯胎
 坳坳
 坳坳塘塘
@@ -19970,7 +19967,7 @@ use_preset_vocabulary: true
 外化	nga ho
 外區	nga chiu
 外圈	nga chioe
-# 外國紅	nga kueq ghon
+外國紅	nga koq ghon
 外圍	nga we
 外埔	nga phu
 外堡	nga pau
@@ -19979,7 +19976,7 @@ use_preset_vocabulary: true
 外外
 外她
 外嫌
-# 外孫囡	nga san noe
+外孫囡	nga san noe
 外學	nga ghoq
 外家	nga ka
 外宿	nga soq
@@ -20035,7 +20032,7 @@ use_preset_vocabulary: true
 多但
 多俊
 多個	tu ku
-# 多個	tu gheq
+多個	tu gheq
 多分	tu fen
 多前
 多加	tu ka
@@ -20087,7 +20084,7 @@ use_preset_vocabulary: true
 多虧	tu khue
 多要
 多見	tu ci
-# 多言	tu gni
+多言	tu yi
 多說	tu seq
 多說多話	tu seq tu gho
 多講	tu kaon
@@ -20136,7 +20133,7 @@ use_preset_vocabulary: true
 夜頭點
 夠了	keu liau
 夠事
-# 夠個	keu gheq
+夠個	keu gheq
 夠勁	keu cin
 夠味	keu vi
 夠慘	keu tshoe
@@ -20268,7 +20265,7 @@ use_preset_vocabulary: true
 大嚼	du zhiaq
 大四	da sy
 大圈子	du chioe tsy
-# 大國	da kueq
+大國	da koq
 大園	da yoe
 大地	da di
 大地方	du di faon
@@ -20346,7 +20343,7 @@ use_preset_vocabulary: true
 大年	da gni
 大年	du gni
 大年三十	da gni se zeq
-# 大年三十	du gni se seq
+大年三十	du gni se seq
 大年三十	du gni se zeq
 大年初一	da gni tshu iq
 大年初一	du gni tshu iq
@@ -20767,7 +20764,7 @@ use_preset_vocabulary: true
 夫子	fu tsy
 夫家	fu ka
 夫權	fu jioe
-# 夭亡	iau vaon
+夭亡	iau waon
 夭壽	iau zeu
 夭夭	iau iau
 夭折	iau tseq
@@ -20785,7 +20782,7 @@ use_preset_vocabulary: true
 失約	seq iaq
 失群
 失聲	seq sen
-# 失言	seq gni
+失言	seq yi
 失調	seq diau
 失貞
 失責	seq tseq
@@ -20893,7 +20890,7 @@ use_preset_vocabulary: true
 # 奢華	so gho
 # 奢靡	so mi
 奧匈	au shion
-# 奧國	au kueq
+奧國	au koq
 奧妙	au miau
 奧拓	au thoq
 奧援	au yoe
@@ -20924,8 +20921,8 @@ use_preset_vocabulary: true
 女仔	gniu tse
 女伴	gniu boe
 女侍	gniu zy
-# 女個	gniu gheq
-# 女個淮	gniu gheq wa
+女個	gniu gheq
+女個淮	gniu gheq wa
 女傭	gniu yon
 女僕	gniu boq
 女儐	gniu pin
@@ -21077,8 +21074,8 @@ use_preset_vocabulary: true
 # 好伐	hau va
 好佬
 好個	hau ku
-# 好個	hau gheq
-# 好個懷	hau gheq wa
+好個	hau gheq
+好個懷	hau gheq wa
 好到
 好勒
 好去	hau chi
@@ -21225,7 +21222,7 @@ use_preset_vocabulary: true
 # 妄為	vaon we
 # 妄稱	vaon tshen
 # 妄自	vaon zy
-# 妄言	vaon gni
+# 妄言	vaon yi
 # 妄語	vaon gniu
 # 妄說	vaon seq
 # 妄談	vaon de
@@ -21242,7 +21239,7 @@ use_preset_vocabulary: true
 妖物	iau veq
 妖艷
 妖術	iau zeq
-# 妖言	iau gni
+妖言	iau yi
 妖邪	iau zhia
 妖鬼	iau kue
 妖魔鬼怪	iau mu ciu kua
@@ -21361,7 +21358,7 @@ use_preset_vocabulary: true
 娘舅
 娘親
 娛樂	gniu loq
-# 娜個	na gheq
+娜個	na gheq
 娟媚
 娟麗
 娶了	chiu liau
@@ -21379,7 +21376,7 @@ use_preset_vocabulary: true
 婉然
 婉約	uoe iaq
 婉蜒
-# 婉言	uoe gni
+婉言	uoe yi
 婚介	huen ka
 婚假	huen ka
 婚內	huen ne
@@ -21398,7 +21395,7 @@ use_preset_vocabulary: true
 婦會	vu we
 媒人	me gnin
 媒介	me ka
-# 媒言	me gni
+媒言	me yi
 媚人	mi gnin
 媚悅
 媚氣
@@ -21500,7 +21497,7 @@ use_preset_vocabulary: true
 字長	zy zan
 存下	zen gho
 # 存了	zen leq
-# 存亡	zen vaon
+存亡	zen waon
 存勒
 存吳	zen wu
 存單	zen te
@@ -21570,7 +21567,7 @@ use_preset_vocabulary: true
 孫孫	sen sen
 孫文	sen ven
 孫權	sen jioe
-# 孫武	sen vu
+孫武	sen wu
 孫氏	sen zy
 孫策	sen tshaq
 孫臏	sen bin
@@ -21799,7 +21796,7 @@ use_preset_vocabulary: true
 定下	din gho
 定下來	din gho le
 定住	din zy
-# 定個	din gheq
+定個	din gheq
 定制
 定勝糕
 定受
@@ -21832,7 +21829,7 @@ use_preset_vocabulary: true
 宛延	uoe yi
 宛然	uoe zoe
 宛若	uoe zaq
-# 宛言	uoe gni
+宛言	uoe yi
 宛轉	uoe tsoe
 宜人	gni gnin
 宜家	gni ka
@@ -21850,7 +21847,7 @@ use_preset_vocabulary: true
 客邦人	khaq paon gnin
 客隆
 宣教	shi ciau
-# 宣言	shi gni
+宣言	shi yi
 宣講	shi kaon
 宣讀	shi doq
 室內	seq ne
@@ -21900,7 +21897,7 @@ use_preset_vocabulary: true
 家傳	ka zoe
 家兔	ka thu
 家公	ka kon
-# 家務	cia vu
+家務	cia vu
 家去	cia chi
 家口	cia kheu
 家史	cia sy
@@ -22073,7 +22070,7 @@ use_preset_vocabulary: true
 寓教	gniu ciau
 寓於	gniu yu
 寓義
-# 寓言	gniu gni
+寓言	gniu yi
 寞然
 察覺	tshaq cioq
 寡人	ko gnin
@@ -22082,7 +22079,7 @@ use_preset_vocabulary: true
 寡妻
 寡孀
 寡聞	ko ven
-# 寡言	ko gni
+寡言	ko yi
 寢車	chin tsho
 寥寂
 實修
@@ -22095,7 +22092,7 @@ use_preset_vocabulary: true
 實景	zeq cin
 實歸
 實為
-# 實無	zeq vu
+實無	zeq wu
 實然
 實物	zeq veq
 實結
@@ -22111,7 +22108,7 @@ use_preset_vocabulary: true
 寧日	gnin zeq
 # 寧波	gnin poq
 # 寧波人	gnin poq gnin
-# 寧波言話	gnin poq ghe gho
+寧波言話	gnin poq ghe gho
 # 寧波灘黃	gnin poq the waon
 寧神
 審問	sen men
@@ -22129,7 +22126,7 @@ use_preset_vocabulary: true
 寫他
 寫信	shia shin
 寫個	shia ku
-# 寫個	shia gheq
+寫個	shia gheq
 寫光	shia kuaon
 寫勒多
 寫字間	shia zy ke
@@ -22210,7 +22207,7 @@ use_preset_vocabulary: true
 射出	zo tsheq
 射到	zo tau
 # 射尿	za sy
-射屙	zo
+射屙	zo u
 射干	zo koe
 射影	zo in
 射手	zo seu
@@ -22269,7 +22266,7 @@ use_preset_vocabulary: true
 將死	cian sy
 將比	cian pi
 將為	cian we
-# 將無	cian vu
+將無	cian wu
 # 將獲	cian weq
 將由	cian yeu
 將略	cian liaq
@@ -22315,7 +22312,7 @@ use_preset_vocabulary: true
 尊長	tsen tsan
 尊駕	tsen ka
 尋人	zhin gnin
-# 尋個	zhin gheq
+尋個	zhin gheq
 尋到
 尋味	zhin vi
 尋齁私	zhin heu sy
@@ -22351,8 +22348,8 @@ use_preset_vocabulary: true
 對人	te gnin
 對仗	te zan
 對伊	te yi
-# 對個	te gheq
-# 對個淮	te gheq wa
+對個	te gheq
+對個淮	te gheq wa
 對側
 對像
 對儂
@@ -22403,7 +22400,7 @@ use_preset_vocabulary: true
 導標
 導發
 導碼
-# 導言	dau gni
+導言	dau yi
 導課
 導讀	dau doq
 導通
@@ -22416,7 +22413,7 @@ use_preset_vocabulary: true
 小他
 小但
 小侯
-# 小個	shiau gheq
+小個	shiau gheq
 小兒	shiau er
 小八辣子
 小公
@@ -22536,7 +22533,7 @@ use_preset_vocabulary: true
 少些	sau shi
 少來來
 少保
-# 少個	sau gheq
+少個	sau gheq
 少做
 少兒	sau er
 少受
@@ -22587,7 +22584,7 @@ use_preset_vocabulary: true
 尚早
 尚未	zaon vi
 尚欠
-# 尚無	zaon vu
+尚無	zaon wu
 尚能	zaon nen
 尤佳	yeu cia
 尤其	yeu ji
@@ -22635,7 +22632,7 @@ use_preset_vocabulary: true
 尺蠖	tshaq oq
 尼亞	gni ia
 尼克	gni kheq
-# 尼國	gni kueq
+尼國	gni koq
 尼姑	gni ku
 尼庵	gni oe
 尼康	gni khaon
@@ -22807,7 +22804,7 @@ use_preset_vocabulary: true
 履行	liu yin
 屬下	zoq gho
 屬員	zoq yoe
-# 屬國	zoq kueq
+屬國	zoq koq
 屬地	zoq di
 屬實	zoq zeq
 屬對	zoq te
@@ -22993,7 +22990,7 @@ use_preset_vocabulary: true
 巧思	chiau sy
 巧果
 巧用
-# 巧言	chiau gni
+巧言	chiau yi
 巧雲
 巨人	jiu gnin
 巨作
@@ -23211,7 +23208,7 @@ use_preset_vocabulary: true
 常莊
 常被	zan be
 常見	zan ci
-# 常言	zan gni
+常言	zan yi
 常說	zan seq
 常識	zan seq
 常銷
@@ -23220,7 +23217,7 @@ use_preset_vocabulary: true
 幕僚	mu liau
 # 幫了	paon leq
 幫人	paon gnin
-# 幫個忙	paon gheq maon
+幫個忙	paon gheq maon
 幫其	paon ji
 幫助	paon zu
 幫口
@@ -23259,7 +23256,7 @@ use_preset_vocabulary: true
 平衍
 平調	bin diau
 平車	bin tsho
-# 年三十夜	gni se seq ya
+年三十夜	gni se seq ya
 年下	gni gho
 年中心
 年五	gni ng
@@ -23307,7 +23304,7 @@ use_preset_vocabulary: true
 幷州
 幸慶
 幸未	yin vi
-# 幸無	yin vu
+幸無	yin wu
 幸虧	yin khue
 幹仔	koe tsy
 幹仗	koe zan
@@ -23365,12 +23362,12 @@ use_preset_vocabulary: true
 幾人	ci gnin
 幾份	ci ven
 幾個	ci ku
-# 幾個	ci gheq
+幾個	ci gheq
 幾兆
 幾兒	ci er
 幾分	ci fen
 幾化	ci ho
-# 幾十	ci seq
+幾十	ci seq
 幾句	ci ciu
 幾可
 幾台	ci de
@@ -23413,7 +23410,7 @@ use_preset_vocabulary: true
 床橫頭	zaon wan deu
 床頭櫃	zaon deu gue
 庎廚
-# 序言	zhiu gni
+序言	zhiu yi
 底下	ti gho
 底下頭	ti gho deu
 底倉
@@ -23581,7 +23578,7 @@ use_preset_vocabulary: true
 引者
 引荐
 引見	yin ci
-# 引言	yin gni
+引言	yin yi
 引避
 引頸	yin cin
 勿一定
@@ -23735,7 +23732,7 @@ use_preset_vocabulary: true
 強咽	jian i
 強嘴	jian tsy
 強固	jian ku
-# 強國	jian kueq
+強國	jian koq
 強壓	jian aq
 強壯	jian tsaon
 強多	jian tu
@@ -23872,7 +23869,7 @@ use_preset_vocabulary: true
 影圈	in chioe
 影射	in zo
 影從	in zon
-# 影息無蹤	in shiq vu tson
+影息無蹤	in shiq wu tson
 影戲	in shi
 影照
 影相
@@ -24006,7 +24003,7 @@ use_preset_vocabulary: true
 後街
 後這
 後防	gheu vaon
-# 後頭個	gheu deu gheq
+後頭個	gheu deu gheq
 後首來
 徐來
 徐彙
@@ -24170,7 +24167,7 @@ use_preset_vocabulary: true
 微行	vi yin
 微視	vi zy
 微觀	vi kuoe
-# 微言	vi gni
+微言	vi yi
 微詞	vi zy
 微調	vi diau
 微賤	vi zhi
@@ -24348,7 +24345,7 @@ use_preset_vocabulary: true
 忠心度
 忠於	tson yu
 忠牲	tson san
-# 忠言	tson gni
+忠言	tson yi
 忤逆	ng gniq
 忤逆種	ng gniq tson
 忤違	ng we
@@ -24503,7 +24500,7 @@ use_preset_vocabulary: true
 怨望	ioe waon
 怨毒	ioe doq
 怨聲	ioe sen
-# 怨言	ioe gni
+怨言	ioe yi
 怨鬼	ioe kue
 怪人	kua gnin
 怪人頭	kua gnin deu
@@ -24683,7 +24680,7 @@ use_preset_vocabulary: true
 惡臭	oq tsheu
 惡行	oq yin
 惡補	oq pu
-# 惡言	oq gni
+惡言	oq yi
 惡語	oq gniu
 惡賊	oq zeq
 惡質	oq tseq
@@ -24702,7 +24699,7 @@ use_preset_vocabulary: true
 想些	shian shi
 想他
 想個	shian ku
-# 想個	shian gheq
+想個	shian gheq
 想去	shian chi
 想問	shian ven
 想喫
@@ -24856,7 +24853,7 @@ use_preset_vocabulary: true
 感覺	koe cioq
 感觀	koe kuoe
 感觸	koe tshoq
-# 感言	koe gni
+感言	koe yi
 感謝	koe zhia
 感通	koe thon
 # 感遇	koe gniu
@@ -24878,7 +24875,7 @@ use_preset_vocabulary: true
 慎思	zen sy
 慎於	zen yu
 慎行	zen yin
-# 慎言	zen gni
+慎言	zen yi
 慎防	zen vaon
 慕道
 慘不	tshoe peq
@@ -25105,7 +25102,7 @@ use_preset_vocabulary: true
 我人	ngu gnin
 我仍	ngu gnin
 我伲
-# 我個	ngu gheq
+我個	ngu gheq
 我倪
 我勒想
 我勸
@@ -25132,7 +25129,7 @@ use_preset_vocabulary: true
 我會	ngu we
 我校	ngu yau
 我溜	ngu lieu
-# 我無	ngu vu
+我無	ngu wu
 我爸	ngu pa
 我省	ngu san
 我社
@@ -25235,7 +25232,7 @@ use_preset_vocabulary: true
 戲衣	shi i
 戲裝	shi tsaon
 戲裡	shi li
-# 戲言	shi gni
+戲言	shi yi
 戲評	shi bin
 戲說	shi seq
 戲論	shi len
@@ -25291,7 +25288,7 @@ use_preset_vocabulary: true
 所歸
 所殺
 所為
-# 所無	su vu
+所無	su wu
 所畫
 所立
 所系
@@ -25303,7 +25300,7 @@ use_preset_vocabulary: true
 所花
 所藏
 所見	su ci
-# 所言	su gni
+所言	su yi
 所訂
 所設
 所誤
@@ -25467,7 +25464,7 @@ use_preset_vocabulary: true
 扣環
 扣眼
 扣繳	kheu ciau
-# 扣脫個	kheu theq gheq
+扣脫個	kheu theq gheq
 扭扯
 扭搭
 扭斷	gnieu doe
@@ -25517,7 +25514,7 @@ use_preset_vocabulary: true
 找岔
 找死	tsau sy
 找着	tsau zaq
-找碴	tsau zo
+# 找碴	tsau zo
 找贖
 找遍	tsau pi
 找齊	tsau zhi
@@ -25956,7 +25953,7 @@ use_preset_vocabulary: true
 拷機
 拷浜
 拷邊
-# 拼個	phin gheq
+拼個	phin gheq
 拼攏來
 拼爭	phin tsen
 拼盆
@@ -26302,7 +26299,7 @@ use_preset_vocabulary: true
 控罪	khon zoe
 推下	the gho
 推介	the ka
-# 推個	the gheq
+推個	the gheq
 推刨
 推問	the ven
 推坐
@@ -26433,14 +26430,14 @@ use_preset_vocabulary: true
 插檔
 插滿
 插蠟燭
-# 插言	tshaq gni
+插言	tshaq yi
 插髮簪
 揖別
 揖客
 揚樹頭
 揚波	yan pu
 揚聲	yan sen
-# 揚言	yan gni
+揚言	yan yi
 揚鑣
 揚長	yan zan
 揚麥
@@ -26664,8 +26661,8 @@ use_preset_vocabulary: true
 搿一搶	geq iq chian
 搿代
 搿件
-# 搿個	geq gheq
-# 搿個是	geq gheq zy
+搿個	geq gheq
+搿個是	geq gheq zy
 搿先
 搿句	geq ciu
 搿墶
@@ -26691,7 +26688,7 @@ use_preset_vocabulary: true
 搿總
 搿能	geq nen
 搿能介	geq nen ka
-# 搿能個	geq nen gheq
+搿能個	geq nen gheq
 搿腰
 搿記
 搿趟
@@ -27078,7 +27075,7 @@ use_preset_vocabulary: true
 收骨頭
 收齊	seu zhi
 改任	ke zen
-# 改個	ke gheq
+改個	ke gheq
 改前日	ke zhi gniq
 改叫	ke ciau
 改呀
@@ -27128,7 +27125,7 @@ use_preset_vocabulary: true
 放聲	faon sen
 放蛇	faon zo
 放行	faon yin
-# 放言	faon gni
+放言	faon yi
 放逸
 放過門
 放還	faon we
@@ -27152,7 +27149,7 @@ use_preset_vocabulary: true
 效率	yau liq
 效能	yau nen
 敏感	min koe
-# 救亡	cieu vaon
+救亡	cieu waon
 救人	cieu gnin
 救他
 救助	cieu zu
@@ -27162,7 +27159,7 @@ use_preset_vocabulary: true
 救溺	cieu gniq
 救生	cieu sen
 救駕	cieu ka
-# 敗亡	ba vaon
+敗亡	ba waon
 敗仗	ba tsan
 敗北	ba poq
 敗壞	ba wa
@@ -27183,7 +27180,7 @@ use_preset_vocabulary: true
 教內	ciau ne
 教具	ciau jiu
 教出	kau tsheq
-# 教務	ciau vu
+教務	ciau vu
 教化	ciau ho
 教區	ciau chiu
 教參	ciau tshoe
@@ -27247,7 +27244,7 @@ use_preset_vocabulary: true
 敢是
 敢為
 敢煩
-# 敢言	koe gni
+敢言	koe yi
 敢說	koe seq
 敢講	koe kaon
 敢鬥
@@ -27390,7 +27387,7 @@ use_preset_vocabulary: true
 文華	ven gho
 文萃
 文號
-# 文言	ven gni
+文言	ven yi
 文言文	ven yi ven
 文論
 文讀	ven doq
@@ -27448,12 +27445,12 @@ use_preset_vocabulary: true
 新交	shin ciau
 新人	shin gnin
 新任	shin zen
-# 新個	shin gheq
+新個	shin gheq
 新光	shin kuaon
 新加坡	shin ka phu
 新化	shin ho
 新區	shin chiu
-新垌	shin thon
+# 新垌	shin thon
 新埔	shin phu
 新報
 新多
@@ -27556,7 +27553,7 @@ use_preset_vocabulary: true
 斷落	doe loq
 斷裂	doe liq
 斷見	doe ci
-# 斷言	doe gni
+斷言	doe yi
 斷語	doe gniu
 斷貨	doe hu
 斷路	doe lu
@@ -27591,7 +27588,6 @@ use_preset_vocabulary: true
 方臘	faon laq
 方華	faon gho
 方術	faon zeq
-# 方言	faon gni
 方言	faon yi
 方言歌	faon yi ku
 方鋼
@@ -27653,7 +27649,7 @@ use_preset_vocabulary: true
 旗鼓
 既不	ci peq
 既懂
-# 既無	ci vu
+既無	ci wu
 既當
 既給
 既經
@@ -27899,12 +27895,12 @@ use_preset_vocabulary: true
 明是
 明晚	min ue
 明月	min yuq
-# 明朝	men tsau
-# 明朝	men zau
+明朝	men tsau
+明朝	men zau
 明朝仔	min tsau tsy
-# 明朝仔	men tsau tsy
+明朝仔	men tsau tsy
 明朝會	min tsau we
-# 明朝會	men tsau we
+明朝會	men tsau we
 明槍
 明正
 明潔
@@ -27912,7 +27908,7 @@ use_preset_vocabulary: true
 明瓦
 明眼
 明膠	min kau
-# 明言	min gni
+明言	min yi
 明說	min seq
 明講	min kaon
 明起
@@ -28025,8 +28021,8 @@ use_preset_vocabulary: true
 是令
 # 是伐	zy va
 是個	zy ku
-# 是個	zy gheq
-# 是個淮	zy gheq wa
+是個	zy gheq
+是個淮	zy gheq wa
 是倒是
 是假	zy ka
 是兩
@@ -28138,7 +28134,7 @@ use_preset_vocabulary: true
 時間	zy ci
 時需
 晃了	huaon liau
-# 晃個	huaon gheq
+晃個	huaon gheq
 晃出
 晃如
 晃着	huaon zaq
@@ -28244,7 +28240,7 @@ use_preset_vocabulary: true
 普益
 普米
 普訪
-# 普通言話	phu thon ghe gho
+普通言話	phu thon ghe gho
 普適
 普金
 普門
@@ -28340,14 +28336,14 @@ use_preset_vocabulary: true
 暢演
 暢聚
 暢行	tshan yin
-# 暢言	tshan gni
+暢言	tshan yi
 暨南	ci noe
 暨大	ci da
 暫不	ze peq
 # 暫且	ze chia
 暫住	ze zy
 暫未	ze vi
-# 暫無	ze vu
+暫無	ze wu
 暫行	ze yin
 暮景	mu cin
 暮露
@@ -28369,8 +28365,8 @@ use_preset_vocabulary: true
 曆遭
 曆陳
 曉喻
-# 曉得個	shiau teq gheq
-# 曉得個懷	shiau teq gheq wa
+曉得個	shiau teq gheq
+曉得個懷	shiau teq gheq wa
 # 曉得呢	shiau teq ne
 曉得過
 曉敏
@@ -28584,7 +28580,7 @@ use_preset_vocabulary: true
 最晚	tsoe ue
 最淺	tsoe chi
 最為
-# 最無	tsoe vu
+最無	tsoe wu
 最矮
 最碰
 最窮
@@ -28619,7 +28615,7 @@ use_preset_vocabulary: true
 會兒	we er
 會前	we zhi
 會剿
-# 會務	we vu
+會務	we vu
 會及	we jiq
 會友	we yeu
 會合	we gheq
@@ -28823,7 +28819,7 @@ use_preset_vocabulary: true
 月餅	yuq pin
 月黑	yuq heq
 月齡	yuq lin
-# 有一個	yeu iq gheq
+有一個	yeu iq gheq
 有一條	yeu iq diau
 有下	yeu gho
 有主
@@ -28841,7 +28837,7 @@ use_preset_vocabulary: true
 有信	yeu shin
 有信心	yeu shin shin
 有個	yeu ku
-# 有個	yeu gheq
+有個	yeu gheq
 有假	yeu ka
 有備份	yeu be ven
 有傷害	yeu saon ghe
@@ -28931,7 +28927,7 @@ use_preset_vocabulary: true
 有清頭
 有漏
 有為
-# 有無	yeu vu
+有無	yeu wu
 有熬頭
 有生	yeu sen
 有用場	yeu yon zan
@@ -28968,7 +28964,7 @@ use_preset_vocabulary: true
 有規範
 有解	yeu cia
 有解釋	yeu ka seq
-# 有言	yeu gni
+有言	yeu yi
 有詩
 有說	yeu seq
 有講究	yeu kaon cieu
@@ -28986,7 +28982,7 @@ use_preset_vocabulary: true
 有較
 有辰光	yeu zen kuaon
 有近
-# 有迭個	yeu diq gheq
+有迭個	yeu diq gheq
 有這
 有道伴
 有還價	yeu we ka
@@ -29009,7 +29005,7 @@ use_preset_vocabulary: true
 服下	voq gho
 服了	voq liau
 服人	voq gnin
-# 服務員	voq vu yoe
+服務員	voq vu yoe
 服從	voq zon
 服毒	voq doq
 服罪	voq zoe
@@ -29156,7 +29152,7 @@ use_preset_vocabulary: true
 未亂	vi loe
 未了	vi liau
 未予	vi yu
-# 未亡	vi vaon
+未亡	vi waon
 未交	vi kau
 未付	vi fu
 未作	vi tsoq
@@ -29293,7 +29289,7 @@ use_preset_vocabulary: true
 本校	pen yau
 本條	pen diau
 本派
-# 本無	pen vu
+本無	pen wu
 本生	pen san
 本畫
 本省	pen san
@@ -29491,7 +29487,7 @@ use_preset_vocabulary: true
 某人	meu gnin
 某件
 某個	meu ku
-# 某個	meu gheq
+某個	meu gheq
 某女	meu gniu
 某宗
 某家	meu ka
@@ -29541,7 +29537,7 @@ use_preset_vocabulary: true
 查出	zo tsheq
 查分	zo fen
 查到	zo tau
-# 查勘	zo khoe
+查勘	zo khoe
 查勤	zo jin
 查卷	zo cioe
 查哨	zo sau
@@ -29573,7 +29569,7 @@ use_preset_vocabulary: true
 查毅勇	tso gni ion
 查毒	zo doq
 查清	zo chin
-# 查無	zo vu
+查無	zo wu
 查照	zo tsau
 # 查獲	zo weq
 查理	zo li
@@ -29642,8 +29638,8 @@ use_preset_vocabulary: true
 校中	yau tson
 校內	yau ne
 校刊	yau khe
-# 校勘	yau khoe
-# 校務	yau vu
+校勘	yau khoe
+校務	yau vu
 校區	yau chiu
 校友	yau yeu
 校史	yau sy
@@ -29733,7 +29729,7 @@ use_preset_vocabulary: true
 格柵	kaq saq
 格物	kaq veq
 格裡
-# 格言	kaq gni
+格言	kaq yi
 格調	kaq diau
 格賤
 格錚	kaq tsen
@@ -30081,7 +30077,7 @@ use_preset_vocabulary: true
 樂聖	yaq sen
 樂聲	loq sen
 樂育	loq yoq
-# 樂舞	yaq vu
+樂舞	yaq vu
 樂觀	loq kuoe
 樂記	loq ci
 樂評	yaq bin
@@ -30415,7 +30411,7 @@ use_preset_vocabulary: true
 正而巴緊	tsen er pa cin
 正肥	tsen vi
 正被	tsen be
-# 正言	tsen gni
+正言	tsen yi
 正詞
 正負	tsen veu
 正賽
@@ -30448,7 +30444,7 @@ use_preset_vocabulary: true
 此行	tshy ghaon
 此行	tshy yin
 此表
-# 此言	tshy gni
+此言	tshy yi
 此誠
 此論
 此謂
@@ -30462,19 +30458,19 @@ use_preset_vocabulary: true
 步行	bu yin
 步調	bu diau
 步長	bu tsan
-# 武人	vu gnin
-# 武場	vu zan
-# 武大	vu da
-# 武夫	vu fu
-# 武學	vu ghoq
-# 武將	vu cian
+武人	wu gnin
+武場	wu zan
+武大	wu da
+武夫	wu fu
+武學	wu ghoq
+武將	wu cian
 武後
-# 武戲	vu shi
+武戲	wu shi
 武技
-# 武斷	vu doe
-# 武生	vu sen
-# 武行	vu ghaon
-# 武術	vu zeq
+武斷	wu doe
+武生	wu sen
+武行	wu ghaon
+武術	wu zeq
 歧化	ji ho
 歧意
 歧管
@@ -30536,7 +30532,7 @@ use_preset_vocabulary: true
 歹怪
 歹毒	te doq
 死了	sy liau
-# 死亡	sy vaon
+死亡	sy waon
 死人	shi gnin
 死人勿關	shi gnin veq kue
 死他	sy tha
@@ -30701,7 +30697,7 @@ use_preset_vocabulary: true
 每人	me gnin
 每份	me ven
 每個	me ku
-# 每個人	me gheq gnin
+每個人	me gheq gnin
 每兩
 每出
 每分	me fen
@@ -30785,7 +30781,7 @@ use_preset_vocabulary: true
 比及	pi jiq
 比反	pi fe
 比喻	pi yu
-# 比國	pi kueq
+比國	pi koq
 比在	pi ze
 比增	pi tsen
 比多	pi tu
@@ -30802,7 +30798,7 @@ use_preset_vocabulary: true
 比擬	pi gni
 比數	pi su
 比方	pi faon
-# 比武	pi vu
+比武	pi wu
 比法	pi faq
 比為	pi we
 比照	pi tsau
@@ -30847,7 +30843,7 @@ use_preset_vocabulary: true
 毫分	ghau fen
 毫巴	ghau pa
 毫法
-# 毫無	ghau vu
+毫無	ghau wu
 毻脫
 氏族	zy zoq
 民主沙龍
@@ -30947,7 +30943,7 @@ use_preset_vocabulary: true
 永備
 永嘉	ion ka
 永樂	ion loq
-# 永無	ion vu
+永無	ion wu
 永生	ion sen
 永碼
 永續
@@ -31040,7 +31036,7 @@ use_preset_vocabulary: true
 決不	ciuq peq
 決乎	ciuq wu
 決死	ciuq sy
-# 決無	ciuq vu
+決無	ciuq wu
 決斷	ciuq toe
 汽化	chi ho
 汽槍
@@ -31073,7 +31069,7 @@ use_preset_vocabulary: true
 沒人	meq gnin
 沒人去	meq gnin chi
 # 沒什麼	meq seq moq
-# 沒個	meq gheq
+沒個	meq gheq
 沒准
 沒分	meq fen
 沒勁	meq cin
@@ -31314,7 +31310,7 @@ use_preset_vocabulary: true
 法而
 法英
 法術	faq zeq
-# 法言	faq gni
+法言	faq yi
 法象
 法這
 法難
@@ -31487,7 +31483,7 @@ use_preset_vocabulary: true
 派頭一六
 流下	lieu gho
 流乾	lieu koe
-# 流亡	lieu vaon
+流亡	lieu waon
 流光	lieu kuaon
 流寓
 流式
@@ -31504,7 +31500,7 @@ use_preset_vocabulary: true
 流滿
 流紅	lieu ghon
 流行	lieu yin
-# 流言	lieu gni
+流言	lieu yi
 流金
 流飛
 流食	lieu zeq
@@ -31590,7 +31586,7 @@ use_preset_vocabulary: true
 浸濕
 涅波	gniq pu
 涅盤
-# 消亡	shiau vaon
+消亡	shiau waon
 消化	shiau ho
 消去	shiau chi
 消地光	shiau di kuaon
@@ -31690,7 +31686,7 @@ use_preset_vocabulary: true
 淨白
 淩凙兒	lin doq ng
 淩宕
-# 淪亡	len vaon
+淪亡	len waon
 淪為
 淪陷	len ghe
 淫佚	yin yiq
@@ -31985,7 +31981,7 @@ use_preset_vocabulary: true
 溜溜	lieu lieu
 溜號	lieu ghau
 溜走	lieu tseu
-溜躂	lieu taq
+# 溜躂	lieu taq
 溜達	lieu daq
 溜長	lieu zan
 溜門	lieu men
@@ -32036,7 +32032,7 @@ use_preset_vocabulary: true
 滁縣
 滂沱	baon du
 滂胱	baon kuaon
-# 滅亡	miq vaon
+滅亡	miq waon
 滅害	miq ghe
 滅寂
 滅燈
@@ -32091,7 +32087,7 @@ use_preset_vocabulary: true
 滿了	moe liau
 滿人	moe gnin
 滿分	moe fen
-# 滿口言話	moe kheu ghe gho
+滿口言話	moe kheu ghe gho
 滿員	moe yoe
 滿屋	moe oq
 滿席
@@ -32648,216 +32644,216 @@ use_preset_vocabulary: true
 焙制
 焚化	ven ho
 焚燬
-# 無一	vu iq
-# 無上	vu zaon
-# 無不	vu peq
-# 無主	vu tsy
-# 無事	vu zy
-# 無亮	vu lian
-# 無人	vu gnin
-# 無他	vu tha
-# 無以	vu i
-# 無任	vu zen
-# 無何	vu wu
-# 無依	vu i
-# 無傷	vu saon
-# 無價	vu ka
-# 無償	vu zaon
-# 無光	vu kuaon
-# 無出	vu tsheq
-# 無分	vu fen
-# 無別	vu biq
-# 無利	vu li
-# 無前	vu zhi
-# 無力	vu liq
-# 無功	vu kon
-# 無助	vu zu
-# 無及	vu jiq
-# 無可	vu khu
-# 無名	vu min
-# 無味	vu vi
-# 無土	vu thu
-# 無地	vu di
-# 無垠	vu gnin
-# 無垢	vu keu
-# 無多	vu tu
-# 無天野地	vu thi ya di
-# 無夫	vu fu
-# 無奇	vu ji
-# 無奈	vu ne
-# 無如	vu zy
-# 無妨	vu faon
-# 無妻	vu chi
-# 無它	vu tha
-# 無定	vu din
-# 無害	vu ghe
-# 無對	vu te
-# 無己	vu ci
-# 無常	vu zan
-# 無干	vu koe
-# 無幾	vu ci
-# 無序	vu zhiu
-# 無底	vu ti
-# 無度	vu du
-# 無庸	vu yon
-# 無形	vu yin
-# 無往	vu uaon
-# 無待	vu de
-# 無後	vu gheu
-# 無從	vu zon
-# 無心	vu shin
-# 無性	vu shin
-# 無怨	vu ioe
-# 無怪	vu kua
-# 無恙	vu yan
-# 無恥	vu tshy
-# 無恨	vu ghen
-# 無息	vu shiq
-# 無悔	vu hue
-# 無情	vu zhin
-# 無想	vu shian
-# 無意	vu i
-# 無愛	vu e
-# 無愧	vu gue
-# 無慮	vu liu
-# 無憂	vu ieu
-# 無憑	vu bin
-# 無懈	vu shia
-# 無懼	vu jiu
-# 無成	vu zen
-# 無我	vu ngu
-# 無所	vu su
-# 無所謂	vu su we
-# 無措	vu tshu
-# 無援	vu yoe
-# 無損	vu sen
-# 無故	vu ku
-# 無效	vu yau
-# 無敵	vu diq
-# 無數	vu su
-# 無方	vu faon
-# 無日	vu zeq
-# 無明	vu min
-# 無時	vu zy
-# 無暇	vu ya
-# 無望	vu waon
-# 無期	vu ji
-# 無核	vu gheq
-# 無梁	vu lian
-# 無業	vu gniq
-# 無極	vu jiq
-# 無樹	vu zy
-# 無機	vu ci
-# 無權	vu jioe
-# 無此	vu tshy
-# 無歸	vu kue
-# 無毒	vu doq
-# 無比	vu pi
-# 無水	vu sy
-# 無法	vu faq
-# 無涉	vu zeq
-# 無涯	vu nga
-# 無漏	vu leu
-# 無為	vu we
-# 無煙	vu i
-# 無照	vu tsau
-# 無父	vu vu
-# 無物	vu veq
-# 無狀	vu zaon
-# 無猜	vu tshe
-# 無理	vu li
-# 無瑕	vu ya
-# 無用	vu yon
-# 無由	vu yeu
-# 無界	vu ka
-# 無畏	vu ue
-# 無異	vu yi
-# 無疆	vu cian
-# 無疑	vu gni
-# 無疵	vu tshy
-# 無病	vu bin
-# 無痛	vu thon
-# 無益	vu iq
-# 無盡	vu zhin
-# 無相	vu shian
-# 無眠	vu mi
-# 無知	vu tsy
-# 無礙	vu nge
-# 無神	vu zen
-# 無禮	vu li
-# 無私	vu sy
-# 無稽	vu ci
-# 無窮	vu jion
-# 無端	vu toe
-# 無約	vu iaq
-# 無級	vu ciq
-# 無終	vu tson
-# 無結	vu ciq
-# 無線	vu shi
-# 無緣	vu yoe
-# 無縫	vu von
-# 無缺	vu chiuq
-# 無罪	vu zoe
-# 無羈	vu ci
-# 無翼	vu yiq
-# 無聊	vu liau
-# 無聞	vu ven
-# 無聲	vu sen
-# 無能	vu nen
-# 無腦	vu nau
-# 無腳	vu ciaq
-# 無良	vu lian
-# 無色	vu seq
-# 無花	vu ho
-# 無莊	vu tsaon
-# 無菌	vu ciun
-# 無華	vu gho
-# 無蓋	vu ke
-# 無處	vu tshy
-# 無虞	vu gniu
-# 無行	vu yin
-# 無補	vu pu
-# 無規	vu kue
-# 無視	vu zy
-# 無角	vu koq
-# 無解	vu cia
-# 無言	vu gni
-# 無話	vu gho
-# 無語	vu gniu
-# 無誤	vu ngu
-# 無論	vu len
-# 無論如何	vu len zy wu
-# 無謂	vu we
-# 無賴	vu la
-# 無趣	vu chiu
-# 無跡	vu ciq
-# 無路	vu lu
-# 無軌	vu kue
-# 無辜	vu ku
-# 無過	vu ku
-# 無道	vu dau
-# 無遺	vu yi
-# 無邊	vu pi
-# 無那	vu na
-# 無邪	vu zhia
-# 無量	vu lian
-# 無錫	vu shiq
-# 無間	vu ci
-# 無關	vu kue
-# 無阻	vu tsu
-# 無限	vu ghe
-# 無際	vu ci
-# 無雙	vu saon
-# 無雪	vu shiq
-# 無需	vu shiu
-# 無非	vu fi
-# 無須	vu shiu
-# 無題	vu di
-# 無風	vu fon
-# 無餘	vu yu
-# 無饜	vu i
-# 無黨	vu taon
-# 無齒	vu tshy
+無一	wu iq
+無上	wu zaon
+無不	wu peq
+無主	wu tsy
+無事	wu zy
+無亮	wu lian
+無人	wu gnin
+無他	wu tha
+無以	wu i
+無任	wu zen
+無何	wu wu
+無依	wu i
+無傷	wu saon
+無價	wu ka
+無償	wu zaon
+無光	wu kuaon
+無出	wu tsheq
+無分	wu fen
+無別	wu biq
+無利	wu li
+無前	wu zhi
+無力	wu liq
+無功	wu kon
+無助	wu zu
+無及	wu jiq
+無可	wu khu
+無名	wu min
+無味	wu vi
+無土	wu thu
+無地	wu di
+無垠	wu gnin
+無垢	wu keu
+無多	wu tu
+無天野地	wu thi ya di
+無夫	wu fu
+無奇	wu ji
+無奈	wu ne
+無如	wu zy
+無妨	wu faon
+無妻	wu chi
+無它	wu tha
+無定	wu din
+無害	wu ghe
+無對	wu te
+無己	wu ci
+無常	wu zan
+無干	wu koe
+無幾	wu ci
+無序	wu zhiu
+無底	wu ti
+無度	wu du
+無庸	wu yon
+無形	wu yin
+無往	wu uaon
+無待	wu de
+無後	wu gheu
+無從	wu zon
+無心	wu shin
+無性	wu shin
+無怨	wu ioe
+無怪	wu kua
+無恙	wu yan
+無恥	wu tshy
+無恨	wu ghen
+無息	wu shiq
+無悔	wu hue
+無情	wu zhin
+無想	wu shian
+無意	wu i
+無愛	wu e
+無愧	wu gue
+無慮	wu liu
+無憂	wu ieu
+無憑	wu bin
+# 無懈	wu shia
+無懼	wu jiu
+無成	wu zen
+無我	wu ngu
+無所	wu su
+無所謂	wu su we
+無措	wu tshu
+無援	wu yoe
+無損	wu sen
+無故	wu ku
+無效	wu yau
+無敵	wu diq
+無數	wu su
+無方	wu faon
+無日	wu zeq
+無明	wu min
+無時	wu zy
+# 無暇	wu ya
+無望	wu waon
+無期	wu ji
+無核	wu gheq
+無梁	wu lian
+無業	wu gniq
+無極	wu jiq
+無樹	wu zy
+無機	wu ci
+無權	wu jioe
+無此	wu tshy
+無歸	wu kue
+無毒	wu doq
+無比	wu pi
+無水	wu sy
+無法	wu faq
+無涉	wu zeq
+# 無涯	wu nga
+無漏	wu leu
+無為	wu we
+無煙	wu i
+無照	wu tsau
+無父	wu vu
+無物	wu veq
+無狀	wu zaon
+# 無猜	wu tshe
+無理	wu li
+# 無瑕	wu ya
+無用	wu yon
+無由	wu yeu
+無界	wu ka
+無畏	wu ue
+無異	wu yi
+無疆	wu cian
+無疑	wu gni
+無疵	wu tshy
+無病	wu bin
+無痛	wu thon
+無益	wu iq
+無盡	wu zhin
+無相	wu shian
+無眠	wu mi
+無知	wu tsy
+無礙	wu nge
+無神	wu zen
+無禮	wu li
+無私	wu sy
+無稽	wu ci
+無窮	wu jion
+無端	wu toe
+無約	wu iaq
+無級	wu ciq
+無終	wu tson
+無結	wu ciq
+無線	wu shi
+無緣	wu yoe
+無縫	wu von
+無缺	wu chiuq
+無罪	wu zoe
+無羈	wu ci
+無翼	wu yiq
+無聊	wu liau
+無聞	wu ven
+無聲	wu sen
+無能	wu nen
+無腦	wu nau
+無腳	wu ciaq
+無良	wu lian
+無色	wu seq
+無花	wu ho
+無莊	wu tsaon
+無菌	wu ciun
+無華	wu gho
+無蓋	wu ke
+無處	wu tshy
+無虞	wu gniu
+無行	wu yin
+無補	wu pu
+無規	wu kue
+無視	wu zy
+無角	wu koq
+無解	wu cia
+無言	wu yi
+無話	wu gho
+無語	wu gniu
+無誤	wu ngu
+無論	wu len
+無論如何	wu len zy wu
+無謂	wu we
+無賴	wu la
+無趣	wu chiu
+無跡	wu ciq
+無路	wu lu
+無軌	wu kue
+無辜	wu ku
+無過	wu ku
+無道	wu dau
+無遺	wu yi
+無邊	wu pi
+無那	wu na
+無邪	wu zhia
+無量	wu lian
+無錫	wu shiq
+無間	wu ci
+無關	wu kue
+無阻	wu tsu
+無限	wu ghe
+無際	wu ci
+無雙	wu saon
+無雪	wu shiq
+無需	wu shiu
+無非	wu fi
+無須	wu shiu
+無題	wu di
+無風	wu fon
+無餘	wu yu
+無饜	wu i
+無黨	wu taon
+無齒	wu tshy
 焦屑
 焦干
 焦爛
@@ -32955,7 +32951,7 @@ use_preset_vocabulary: true
 煩神
 煩老太婆
 煩膩
-# 煩言	ve gni
+煩言	ve yi
 煮湯	tsy thaon
 煮粥	tsy tsoq
 煮食	tsy zeq
@@ -33371,7 +33367,7 @@ use_preset_vocabulary: true
 狂歌
 狂瀉
 狂舞
-# 狂言	guaon gni
+狂言	guaon yi
 # 狎姘頭	gaq phin deu
 # 狎鬧猛	gaq nau man
 # 狎道	gaq dau
@@ -33436,7 +33432,7 @@ use_preset_vocabulary: true
 獨幕
 獨愛
 獨斷	doq doe
-# 獨有個	doq yeu gheq
+獨有個	doq yeu gheq
 獨生	doq san
 獨腳蟹
 獨行	doq yin
@@ -33752,7 +33748,7 @@ use_preset_vocabulary: true
 生息	sen shiq
 生意	san i
 生態	sen the
-# 生成個	sen zen gheq
+生成個	sen zen gheq
 生手	san seu
 生擒	sen jin
 生效	sen yau
@@ -33836,7 +33832,7 @@ use_preset_vocabulary: true
 用下來	yon gho le
 用不	yon peq
 用人	yon gnin
-# 用個	yon gheq
+用個	yon gheq
 用光	yon kuaon
 用典
 用勁	yon cin
@@ -33846,7 +33842,7 @@ use_preset_vocabulary: true
 用去	yon chi
 用可
 用場	yon zan
-# 用場個	yon zan gheq
+用場個	yon zan gheq
 用多
 用家	yon cia
 # 用弗了	yon feq liau
@@ -33878,7 +33874,7 @@ use_preset_vocabulary: true
 甩乾	huaq koe
 甩出	huaq tsheq
 甩動	huaq don
-甩叮甩咚	hue tin hue ton
+# 甩叮甩咚	hue tin hue ton
 甩得	huaq teq
 甩手	huaq seu
 甩掉	huaq diau
@@ -33961,7 +33957,7 @@ use_preset_vocabulary: true
 男丁	noe tin
 男人	noe gnin
 男人家	noe gnin ka
-# 男個	noe gheq
+男個	noe gheq
 男儐
 男優
 男兒	noe er
@@ -34006,7 +34002,7 @@ use_preset_vocabulary: true
 留歸
 留痕
 留蘇
-# 留言	lieu gni
+留言	lieu yi
 留足
 留辦
 留院
@@ -34106,7 +34102,7 @@ use_preset_vocabulary: true
 異行	yi ghaon
 異術	yi zeq
 異見	yi ci
-# 異言	yi gni
+異言	yi yi
 異說	yi seq
 異趣	yi chiu
 當一
@@ -34357,7 +34353,7 @@ use_preset_vocabulary: true
 發行	faq yin
 發西風
 發覺	faq cioq
-# 發言	faq gni
+發言	faq yi
 發踱
 發車	faq tsho
 發還	faq we
@@ -34434,7 +34430,7 @@ use_preset_vocabulary: true
 百條	paq diau
 百次
 百氏	paq zy
-# 百無一能	paq vu iq nen
+百無一能	paq wu iq nen
 百片
 百物	paq veq
 百腳
@@ -34470,7 +34466,7 @@ use_preset_vocabulary: true
 皆同
 皆曰
 皆為
-# 皆無	cia vu
+皆無	cia wu
 皆由
 皆能	cia nen
 皇家	waon ka
@@ -34575,7 +34571,7 @@ use_preset_vocabulary: true
 盡責	zhin tseq
 監事	ke zy
 監印	ke in
-# 監國	ke kueq
+監國	ke koq
 監委	ke ue
 監守	ke seu
 監察	ke tshaq
@@ -34657,7 +34653,7 @@ use_preset_vocabulary: true
 直裏
 直裏向
 直覺	zeq cioq
-# 直言	zeq gni
+直言	zeq yi
 直說	zeq seq
 直講	zeq kaon
 # 直轄	zeq yaq
@@ -34770,7 +34766,7 @@ use_preset_vocabulary: true
 # 看伐	khoe va
 看住	khoe zy
 看個	khoe ku
-# 看個人	khoe gheq gnin
+看個人	khoe gheq gnin
 看冷眼
 看到過
 看去	khoe chi
@@ -34810,7 +34806,7 @@ use_preset_vocabulary: true
 真人	tsen gnin
 真係
 真個	tsen ku
-# 真個	tsen gheq
+真個	tsen gheq
 真假	tsen ka
 真偽
 真壞	tsen wa
@@ -34827,7 +34823,7 @@ use_preset_vocabulary: true
 # 真生活	tsen san weq
 真細
 真能	tsen nen
-# 真言	tsen gni
+真言	tsen yi
 真陡
 真靈
 真靚	tsen lian
@@ -35041,7 +35037,7 @@ use_preset_vocabulary: true
 矜憐	cin li
 矜持	cin zy
 矜誇	cin kho
-# 矢言	sy gni
+矢言	sy yi
 知了	tsy liau
 知交	tsy ciau
 知人	tsy gnin
@@ -35128,7 +35124,7 @@ use_preset_vocabulary: true
 石獅	zaq sy
 石碇	zaq din
 石碑	zaq pe
-石碴	zaq zo
+# 石碴	zaq zo
 石磨	zaq mu
 石礦	zaq khuaon
 石筍	zaq sen
@@ -35184,7 +35180,7 @@ use_preset_vocabulary: true
 研碎	gni se
 研磨	gni mu
 研究	gni cieu
-# 研究個	gni cieu gheq
+研究個	gni cieu gheq
 研究生	gni cieu san
 研習	gni zhiq
 研藥	gni yaq
@@ -35488,7 +35484,7 @@ use_preset_vocabulary: true
 神學	zen ghoq
 神將	zen cian
 神工
-# 神志無主	zen tsy vu tsy
+神志無主	zen tsy wu tsy
 神志野舞
 神思	zen sy
 神授
@@ -35764,10 +35760,10 @@ use_preset_vocabulary: true
 空樓
 空海
 空炮	khon phau
-# 空無	khon vu
+空無	khon wu
 # 空疏	khon sy
 空箱
-# 空言	khon gni
+空言	khon yi
 空調	khon diau
 空費	khon fi
 空郵
@@ -35851,7 +35847,7 @@ use_preset_vocabulary: true
 立標準
 立櫃	liq gue
 立約	liq iaq
-# 立言	liq gni
+立言	liq yi
 立說	liq seq
 立賬
 立顯
@@ -35940,7 +35936,7 @@ use_preset_vocabulary: true
 笑煞
 笑答
 笑聲	shiau sen
-# 笑言	shiau gni
+笑言	shiau yi
 笑話奇談
 笑說	shiau seq
 笑誰
@@ -36021,10 +36017,10 @@ use_preset_vocabulary: true
 答復
 答曰
 答茬
-# 答言	taq gni
+答言	taq yi
 答酬
 筵會	yi we
-# 箇個	geq gheq
+箇個	geq gheq
 箇墶	geq taq
 箇墶裏	geq taq li
 箇手	geq seu
@@ -36060,7 +36056,7 @@ use_preset_vocabulary: true
 管了	kuoe liau
 管住	kuoe zy
 管你
-# 管個	kuoe gheq
+管個	kuoe gheq
 管內	kuoe ne
 管區	kuoe chiu
 管卡
@@ -36079,7 +36075,7 @@ use_preset_vocabulary: true
 # 管轄	kuoe yaq
 管顧
 箱等
-# 箴言	tsen gni
+箴言	tsen yi
 箸籠
 節下	ciq gho
 節假	ciq ka
@@ -36196,7 +36192,7 @@ use_preset_vocabulary: true
 粗胖	tshu phaon
 粗茶
 粗莽
-# 粗言	tshu gni
+粗言	tshu yi
 粗讀	tshu doq
 粗貨
 粗飯
@@ -36333,7 +36329,7 @@ use_preset_vocabulary: true
 約翰	iaq ghoe
 約莫	iaq moq
 約見	iaq ci
-# 約言	iaq gni
+約言	iaq yi
 約計	iaq ci
 約談	iaq de
 約請	iaq chin
@@ -36612,7 +36608,7 @@ use_preset_vocabulary: true
 終於	tson yu
 終日	tson gniq
 # 終歸是弗錯個	tson kue zy feq tshu gheq
-# 終歸是勿錯個	tson kue zy veq tshu gheq
+終歸是勿錯個	tson kue zy veq tshu gheq
 終獲
 終生	tson sen
 終能	tson nen
@@ -36648,7 +36644,7 @@ use_preset_vocabulary: true
 結籽
 結脫
 結蛛
-# 結言	ciq gni
+結言	ciq yi
 結識	ciq seq
 結足
 結體
@@ -36664,7 +36660,7 @@ use_preset_vocabulary: true
 絕徑
 絕望	zhiq waon
 絕決
-# 絕無	zhiq vu
+絕無	zhiq wu
 絕病
 絕的
 絕細
@@ -36868,7 +36864,7 @@ use_preset_vocabulary: true
 緊追	cin tsoe
 緋紅	fi ghon
 緋聞	fi ven
-# 緒言	zhiu gni
+緒言	zhiu yi
 線人	shi gnin
 線列
 線呢	shi gni
@@ -36962,7 +36958,7 @@ use_preset_vocabulary: true
 縴夫	chi fu
 總不	tson peq
 總也	tson gha
-# 總個	tson gheq
+總個	tson gheq
 總共	tson gon
 總分	tson fen
 總功
@@ -36988,7 +36984,7 @@ use_preset_vocabulary: true
 總章
 總第
 總給
-# 總而言之	tson er gni tsy
+總而言之	tson er yi tsy
 總肯
 總能	tson nen
 總行	tson ghaon
@@ -37253,7 +37249,7 @@ use_preset_vocabulary: true
 美芹
 美萍
 美術	me zeq
-# 美言	me gni
+美言	me yi
 美食	me zeq
 羞於	shieu yu
 羞死	shieu sy
@@ -37325,7 +37321,7 @@ use_preset_vocabulary: true
 翌日	yiq gniq
 翌晨
 習得
-# 習慣個	zhiq kue gheq
+習慣個	zhiq kue gheq
 習染	zhiq gni
 習訓
 翠屏	tshoe bin
@@ -37389,7 +37385,7 @@ use_preset_vocabulary: true
 老伯	lau paq
 老侯
 老便當
-# 老個	lau gheq
+老個	lau gheq
 老充份	lau tshon ven
 老光	lau kuaon
 老兒	lau er
@@ -37400,7 +37396,7 @@ use_preset_vocabulary: true
 老十三	lau zeq se
 老卵	lau loe
 老古板氣
-# 老古言話	lau ku ghe gho
+老古言話	lau ku ghe gho
 老右
 老吃老做
 老嗆
@@ -37410,7 +37406,7 @@ use_preset_vocabulary: true
 老大	lau du
 老夫	lau fu
 老奎
-# 老好個	lau hau gheq
+老好個	lau hau gheq
 老姐	lau cia
 老姑
 老姨
@@ -37433,7 +37429,7 @@ use_preset_vocabulary: true
 老撾	lau u
 老教授	lau ciau zeu
 老早底
-# 老明個	lau min gheq
+老明個	lau min gheq
 老景	lau cin
 老槍
 老死	lau sy
@@ -37537,7 +37533,7 @@ use_preset_vocabulary: true
 而況	er huaon
 而活
 而為
-# 而無	er vu
+而無	er wu
 而生	er san
 而知
 而精
@@ -37546,7 +37542,7 @@ use_preset_vocabulary: true
 而臥
 而落
 而行	er yin
-# 而言	er gni
+而言	er yi
 而設
 而逃
 而顯
@@ -37774,7 +37770,7 @@ use_preset_vocabulary: true
 聲聞	sen ven
 聲能	sen nen
 聲色	sen seq
-# 聲言	sen gni
+聲言	sen yi
 聲討	sen thau
 聲調	sen diau
 聲譽	sen yu
@@ -37976,7 +37972,7 @@ use_preset_vocabulary: true
 胃袋
 背人	pe gnin
 背信	pe shin
-# 背個	be gheq
+背個	be gheq
 背光	pe kuaon
 背包	pe pau
 背反	pe fe
@@ -38056,7 +38052,7 @@ use_preset_vocabulary: true
 胡普
 胡淆
 胡瓜	wu ko
-# 胡言	wu gni
+胡言	wu yi
 胡說	wu seq
 胡鍛
 胭脂紅	i tsy ghon
@@ -38069,7 +38065,7 @@ use_preset_vocabulary: true
 胸有
 # 胸椎	shion tsoe
 胸次
-# 胸無	shion vu
+胸無	shion wu
 胸片
 胸痛
 胸脯	shion bu
@@ -38549,7 +38545,7 @@ use_preset_vocabulary: true
 與總
 與聞	yu ven
 與誰
-# 興亡	shin vaon
+興亡	shin waon
 興化	shin ho
 興味	shin vi
 興妖
@@ -38616,11 +38612,11 @@ use_preset_vocabulary: true
 舒翼
 舒聲	sy sen
 舒齊	sy zhi
-# 舞場	vu zan
-# 舞女	vu gniu
+舞場	vu zan
+舞女	vu gniu
 舞孃
-# 舞會	vu we
-# 舞棍	vu kuen
+舞會	vu we
+舞棍	vu kuen
 舞獅子
 舞臂
 舟橋
@@ -38799,7 +38795,7 @@ use_preset_vocabulary: true
 若再
 若夫	zaq fu
 若失
-# 若無	zaq vu
+若無	zaq wu
 若用
 若素
 若能	zaq nen
@@ -39108,7 +39104,7 @@ use_preset_vocabulary: true
 萬古	ve ku
 萬名	ve min
 萬噸	ve ten
-# 萬國	ve kueq
+萬國	ve koq
 萬圓	ve yoe
 萬壽	ve zeu
 萬夫	ve fu
@@ -39146,7 +39142,7 @@ use_preset_vocabulary: true
 萬段	ve doe
 萬民	ve min
 萬源	ve gnioe
-# 萬無	ve vu
+萬無	ve wu
 萬物	ve veq
 萬狀	ve zaon
 萬用	ve yon
@@ -39169,7 +39165,7 @@ use_preset_vocabulary: true
 萬華	ve gho
 萬萬	ve ve
 萬行	ve ghaon
-# 萬言	ve gni
+萬言	ve yi
 萬變	ve pi
 萬象	ve zhian
 萬貫	ve kue
@@ -39379,7 +39375,7 @@ use_preset_vocabulary: true
 # 蕃茄	fe ga
 # 蕃薯	fe zy
 蕃衍	ve yi
-# 蕊頭	gniu deu
+蕊頭	gniu deu
 蕩河船
 蕩滌
 蕩漾
@@ -39515,7 +39511,7 @@ use_preset_vocabulary: true
 蘇區	su chiu
 蘇南	su noe
 蘇州人	su tseu gnin
-# 蘇州言話	su tseu ghe gho
+蘇州言話	su tseu ghe gho
 蘇松
 蘇浙
 蘇醒
@@ -39555,12 +39551,12 @@ use_preset_vocabulary: true
 虛偽
 虛套
 # 虛妄	shiu vaon
-# 虛無	shiu vu
+虛無	shiu wu
 虛的
 虛練
 虛腫
 虛衰	shiu se
-# 虛言	shiu gni
+虛言	shiu yi
 虛誇	shiu kho
 虛開
 虛雲
@@ -39885,7 +39881,7 @@ use_preset_vocabulary: true
 表裡
 表計
 衰亂	se loe
-# 衰亡	se vaon
+衰亡	se waon
 衰弱	se zaq
 衰微	se vi
 衰憊	se be
@@ -39895,8 +39891,8 @@ use_preset_vocabulary: true
 衰歇	se shiq
 衰殘	se ze
 衰減	se ke
-# 衰瘏	sa du
-# 衰瘏煞儂	sa du saq non
+衰瘏	sa du
+衰瘏煞儂	sa du saq non
 衰竭	se jiq
 衰老	se lau
 衰草	se tshau
@@ -40140,7 +40136,7 @@ use_preset_vocabulary: true
 要位
 要作
 要供
-# 要個	iau gheq
+要個	iau gheq
 要分	iau fen
 要區	iau chiu
 要去	iau chi
@@ -40177,7 +40173,7 @@ use_preset_vocabulary: true
 要持
 # 要挾	iau yaq
 要換
-# 要搬個	iau poe gheq
+要搬個	iau poe gheq
 要收
 要放
 要救
@@ -40189,7 +40185,7 @@ use_preset_vocabulary: true
 要活
 要淘汰
 要為
-# 要用個人	iau yon gheq gnin
+要用個人	iau yon gheq gnin
 要畫
 要知
 要管
@@ -40203,7 +40199,7 @@ use_preset_vocabulary: true
 要落
 要見	iau ci
 要視
-# 要言	iau gni
+要言	iau yi
 要誰
 要講	iau kaon
 要變
@@ -40220,7 +40216,7 @@ use_preset_vocabulary: true
 覅拿	viau ne
 覅用
 覅緊
-# 覆亡	foq vaon
+覆亡	foq waon
 覆信	foq shin
 覆去	foq chi
 覆有
@@ -40472,35 +40468,35 @@ use_preset_vocabulary: true
 觸鍵
 觸霉頭
 觸鬚	tshoq shiu
-# 言下	gni gho
-# 言之	gni tsy
-# 言傳	gni zoe
-# 言及	gni jiq
-# 言和	gni wu
-# 言喻	gni yu
-# 言外	gni nga
-# 言官	gni kuoe
-# 言對	gni te
-# 言情	gni zhin
-# 言教	gni ciau
-# 言明	gni min
-# 言歡	gni huoe
-# 言歸	gni kue
-# 言煩	gni ve
-# 言笑	gni shiau
-# 言筌	gni chi
-# 言者	gni tse
-# 言行	gni yin
-# 言詞	gni zy
-# 言話	ghe gho
-# 言語	gni gniu
-# 言說	gni seq
-# 言談	gni de
-# 言論	gni len
-# 言路	gni lu
-# 言辭	gni zy
-# 言道	gni dau
-# 言重	gni zon
+言下	yi gho
+言之	yi tsy
+言傳	yi zoe
+言及	yi jiq
+言和	yi wu
+言喻	yi yu
+言外	yi nga
+言官	yi kuoe
+言對	yi te
+言情	yi zhin
+言教	yi ciau
+言明	yi min
+言歡	yi huoe
+言歸	yi kue
+言煩	yi ve
+言笑	yi shiau
+言筌	yi chi
+言者	yi tse
+言行	yi yin
+言詞	yi zy
+言話	ghe gho
+# 言語	yi gniu
+言說	yi seq
+言談	yi de
+言論	yi len
+言路	yi lu
+言辭	yi zy
+言道	yi dau
+言重	yi zon
 訂下	tin gho
 訂了	tin liau
 訂制
@@ -40550,7 +40546,7 @@ use_preset_vocabulary: true
 託媒
 託幼
 託盤
-# 託言	thoq gni
+託言	thoq yi
 託辦
 記下	ci gho
 記下來	ci gho le
@@ -40565,7 +40561,7 @@ use_preset_vocabulary: true
 記識	ci seq
 訛人	ngu gnin
 訛算
-# 訛言	ngu gni
+訛言	ngu yi
 訛錯
 訟案	zon oe
 訟費	zon fi
@@ -40673,7 +40669,7 @@ use_preset_vocabulary: true
 話要
 話說	gho seq
 話費	gho fi
-# 該個	ke gheq
+該個	ke gheq
 該去	ke chi
 該喝	ke heq
 該批
@@ -40723,7 +40719,7 @@ use_preset_vocabulary: true
 誓由
 誓約	zy iaq
 誓與
-# 誓言	zy gni
+誓言	zy yi
 誕生	te sen
 誘人	yeu gnin
 誘迫	yeu phaq
@@ -40737,7 +40733,7 @@ use_preset_vocabulary: true
 語業
 語群
 語聲	gniu sen
-# 語言	gniu gni
+語言	gniu yi
 語調	gniu diau
 語象
 誠信	zen shin
@@ -40869,7 +40865,7 @@ use_preset_vocabulary: true
 誰手
 誰會	zoe we
 誰沒
-# 誰無	zoe vu
+誰無	zoe wu
 誰看
 誰能	zoe nen
 誰說	zoe seq
@@ -41015,7 +41011,7 @@ use_preset_vocabulary: true
 諧調	ya diau
 諫勸
 諫阻
-# 諱言	hue gni
+諱言	hue yi
 諳識	oe seq
 諳達
 諸佛	tsy veq
@@ -41029,7 +41025,7 @@ use_preset_vocabulary: true
 諸親六眷
 諺云
 諺曰
-# 諾言	noq gni
+諾言	noq yi
 諾頓	noq ten
 謀害	meu ghe
 謀生	meu sen
@@ -41040,7 +41036,7 @@ use_preset_vocabulary: true
 謄印
 謄抄
 謊花
-# 謊言	huaon gni
+謊言	huaon yi
 謎團	mi doe
 謎底	mi ti
 謎案	mi oe
@@ -41051,8 +41047,8 @@ use_preset_vocabulary: true
 講一聲	kaon iq san
 講他	kaon tha
 講來	kaon le
-# 講個	kaon gheq
-# 講個人	kaon gheq gnin
+講個	kaon gheq
+講個人	kaon gheq gnin
 講內容	kaon ne yon
 講出	kaon tsheq
 講出來	kaon tsheq le
@@ -41063,7 +41059,7 @@ use_preset_vocabulary: true
 講喪	kaon saon
 講堂	kaon daon
 講壇	kaon de
-# 講好個	kaon hau gheq
+講好個	kaon hau gheq
 講學	kaon ghoq
 講師	kaon sy
 講幾句	kaon ci ciu
@@ -41101,13 +41097,13 @@ use_preset_vocabulary: true
 講習	kaon zhiq
 講臺	kaon de
 講解	kaon cia
-# 講言話	kaon ghe gho
+講言話	kaon ghe gho
 講評	kaon bin
 講詞	kaon zy
 講話	kaon gho
 講課	kaon khu
 講講	kaon kaon
-# 講講個	kaon kaon gheq
+講講個	kaon kaon gheq
 講起	kaon chi
 講起來	kaon chi le
 講述	kaon zeq
@@ -41122,7 +41118,7 @@ use_preset_vocabulary: true
 謝軍
 謝非
 謠俗
-# 謠言	yau gni
+謠言	yau yi
 謠諺
 謫守
 謫降	tsaq ghaon
@@ -41209,7 +41205,7 @@ use_preset_vocabulary: true
 讀了	doq liau
 讀作	doq tsoq
 讀來	doq le
-# 讀個	doq gheq
+讀個	doq gheq
 讀入	doq zeq
 讀出	doq tsheq
 讀出來	doq tsheq le
@@ -41273,7 +41269,7 @@ use_preset_vocabulary: true
 讎是
 讎讎
 讒害	ze ghe
-# 讒言	ze gni
+讒言	ze yi
 讓人	gnian gnin
 讓人家	gnian gnin ka
 讓伊	gnian yi
@@ -41282,7 +41278,7 @@ use_preset_vocabulary: true
 讓茶
 讓車	gnian tsho
 讓道
-# 讕言	le gni
+讕言	le yi
 讖緯	tshen we
 讚許	tse shiu
 谷米
@@ -41462,7 +41458,7 @@ use_preset_vocabulary: true
 貳心	gni shin
 貳臣	gni zen
 貴人	kue gnin
-# 貴國	kue kueq
+貴國	kue koq
 貴妃	kue fi
 貴姓	kue shin
 貴婦	kue vu
@@ -41488,7 +41484,7 @@ use_preset_vocabulary: true
 買了	ma liau
 買些	ma shi
 買人情	ma gnin zhin
-# 買個	ma gheq
+買個	ma gheq
 買光	ma kuaon
 買去	ma chi
 買單	ma te
@@ -41676,11 +41672,11 @@ use_preset_vocabulary: true
 賽況	se khuaon
 賽車	se tsho
 賽馬	se mo
-# 贅言	tsoe gni
+贅言	tsoe yi
 贈予	zen yu
 贈物	zen veq
 贈票
-# 贈言	zen gni
+贈言	zen yi
 贈賜
 贊佩
 贊助	tse zu
@@ -41892,7 +41888,7 @@ use_preset_vocabulary: true
 跑遍	bau pi
 跑馬	bau mo
 跔頭縮頸	geu deu soq cin
-# 跟個	ken gheq
+跟個	ken gheq
 跟儂
 跟嘴跟舌
 # 跟弗上	ken feq zaon
@@ -41953,7 +41949,7 @@ use_preset_vocabulary: true
 跳繩	thiau zen
 跳脫	thiau theq
 跳臺	thiau de
-# 跳舞	thiau vu
+跳舞	thiau vu
 跳蚤	thiau tsau
 跳蝨	thiau seq
 跳蟲	thiau zon
@@ -42015,7 +42011,7 @@ use_preset_vocabulary: true
 躍陞
 躍馬	yaq mo
 躥紅	tshoe ghon
-# 身亡	sen vaon
+身亡	sen waon
 身份	sen ven
 身家	sen ka
 身感	sen koe
@@ -42027,7 +42023,7 @@ use_preset_vocabulary: true
 身殘
 身浪
 身為
-# 身無	sen vu
+身無	sen wu
 身相
 身纏
 身胚
@@ -42288,7 +42284,7 @@ use_preset_vocabulary: true
 輕聲	chin sen
 輕薄	chin boq
 輕觸
-# 輕言	chin gni
+輕言	chin yi
 輕讀	chin doq
 輕財
 輕軟
@@ -42420,7 +42416,7 @@ use_preset_vocabulary: true
 近乎	jin wu
 近了	jin liau
 近人	jin gnin
-# 近個	jin gheq
+近個	jin gheq
 近山
 近幾
 近於	jin yu
@@ -42456,9 +42452,9 @@ use_preset_vocabulary: true
 迫近	phaq jin
 迫降	phaq kaon
 迫降	phaq ghaon
-# 迭個	diq gheq
-# 迭個字	diq gheq zy
-# 迭個詞	diq gheq zy
+迭個	diq gheq
+迭個字	diq gheq zy
+迭個詞	diq gheq zy
 迭出	diq tsheq
 迭創	diq tshaon
 迭墶	diq taq
@@ -42596,7 +42592,7 @@ use_preset_vocabulary: true
 送院
 送電
 送靈
-# 逃亡	dau vaon
+逃亡	dau waon
 逃去	dau chi
 逃學	dau ghoq
 逃家	dau ka
@@ -42731,7 +42727,7 @@ use_preset_vocabulary: true
 速讀	soq doq
 速達
 速食	soq zeq
-# 造個	zau gheq
+造個	zau gheq
 造假	zau ka
 造化	zau ho
 造反到
@@ -42798,7 +42794,7 @@ use_preset_vocabulary: true
 進給
 進線
 進行	cin yin
-# 進言	cin gni
+進言	cin yi
 進身
 進迫	cin phaq
 進針
@@ -43075,7 +43071,7 @@ use_preset_vocabulary: true
 遺臣	yi zen
 遺落	yi loq
 遺著	yi tsy
-# 遺言	yi gni
+遺言	yi yi
 遺訓	yi shiun
 遺詔	yi tsau
 遺贈	yi zen
@@ -44112,7 +44108,7 @@ use_preset_vocabulary: true
 閏月	gnin yuq
 閏秒	gnin miau
 閑事
-# 閑個	ghe gheq
+閑個	ghe gheq
 閑員	ghe yoe
 閑文
 閑步
@@ -44215,7 +44211,7 @@ use_preset_vocabulary: true
 防備	baon be
 防凍	vaon ton
 防制	vaon tsy
-# 防務	vaon vu
+防務	vaon vu
 防化	vaon ho
 防區	vaon chiu
 防地	vaon di
@@ -44395,7 +44391,7 @@ use_preset_vocabulary: true
 附着	vu zaq
 附約	vu iaq
 附耳	vu er
-# 附言	vu gni
+附言	vu yi
 附頁
 陋屋	leu oq
 陌生	maq san
@@ -44485,7 +44481,7 @@ use_preset_vocabulary: true
 院部
 院長	yoe tsan
 院風
-# 陣亡	zen vaon
+陣亡	zen waon
 陣兒	zen er
 陣形
 陣發
@@ -44615,7 +44611,7 @@ use_preset_vocabulary: true
 陳禕
 陳紅	zen ghon
 陳虎
-# 陳言	zen gni
+陳言	zen yi
 陳說	zen seq
 陳賬
 陳軍
@@ -44649,7 +44645,7 @@ use_preset_vocabulary: true
 陷阱	yi cin
 陷阱	ghe cin
 陷陣	ghe zen
-# 陸做個	loq tsu gheq
+陸做個	loq tsu gheq
 陸棚
 陸獨
 陸羽
@@ -44785,7 +44781,7 @@ use_preset_vocabulary: true
 雅樂	ia yaq
 雅致
 雅苑
-# 雅言	ia gni
+雅言	ia yi
 雅趣	ia chiu
 集合	zhiq gheq
 集會	zhiq we
@@ -44821,7 +44817,7 @@ use_preset_vocabulary: true
 雖把
 雖未	soe vi
 雖為
-# 雖無	soe vu
+雖無	soe wu
 雖短
 雖經
 雖能	soe nen
@@ -44830,12 +44826,12 @@ use_preset_vocabulary: true
 雖過
 雖長	soe zan
 雖高
-# 雙亡	saon vaon
+雙亡	saon waon
 雙人	saon gnin
 雙份	saon ven
 雙休	saon shieu
 雙創
-# 雙十	saon seq
+雙十	saon seq
 雙唇
 雙基
 雙屏	saon bin
@@ -44948,7 +44944,7 @@ use_preset_vocabulary: true
 難尋
 難屬	ne zoq
 難平
-# 難得個是	ne teq gheq zy
+難得個是	ne teq gheq zy
 難忍	ne zen
 # 難忘	ne vaon
 難抑
@@ -44976,7 +44972,7 @@ use_preset_vocabulary: true
 難行	ne ghan
 難被	ne be
 難解	ne cia
-# 難言	ne gni
+難言	ne yi
 難說	ne seq
 難講	ne kaon
 難越
@@ -45106,7 +45102,7 @@ use_preset_vocabulary: true
 電線木頭
 電耗
 電能	di nen
-# 電腦個問題	di nau gheq ven di
+電腦個問題	di nau gheq ven di
 電複
 電解	di cia
 電費	di fi
@@ -45163,7 +45159,7 @@ use_preset_vocabulary: true
 霸實
 # 靈伐	lin va
 靈修
-# 靈個	lin gheq
+靈個	lin gheq
 靈傑
 靈光	lin kuaon
 靈啊	lin a
@@ -45248,7 +45244,7 @@ use_preset_vocabulary: true
 面朝	mi zau
 面架子
 面湯水	mi thaon sy
-# 面無	mi vu
+面無	mi wu
 面熟陌生	mi zoq maq san
 面生	mi san
 面皮
@@ -45293,7 +45289,7 @@ use_preset_vocabulary: true
 韓家	ghoe ka
 韭芽
 音信	in shin
-# 音個	in gheq
+音個	in gheq
 音分	in fen
 音區	in chiu
 音叉	in tsho
@@ -45394,7 +45390,7 @@ use_preset_vocabulary: true
 預繳	yu ciau
 預考
 預見	yu ci
-# 預言	yu gni
+預言	yu yi
 預防	yu vaon
 頑健	woe ji
 頑劣	woe liq
@@ -45463,7 +45459,7 @@ use_preset_vocabulary: true
 領銜	lin ghe
 頜腮	gheq se
 頡頏	ciaq khaon
-# 頭個	deu gheq
+頭個	deu gheq
 頭兒	deu er
 頭初裏
 頭塔
@@ -45591,7 +45587,7 @@ use_preset_vocabulary: true
 風沙	fon so
 風波	fon pu
 風涼日腳	fon lian gniq ciaq
-# 風涼言話	fon lian ghe gho
+風涼言話	fon lian ghe gho
 風涼鞋子
 風濕
 風燭
@@ -45682,7 +45678,7 @@ use_preset_vocabulary: true
 食缽	zeq peq
 食肆	zeq sy
 食肉	zeq gnioq
-# 食言	zeq gni
+食言	zeq yi
 食譜	zeq pu
 食道	zeq dau
 食邑	zeq iq
@@ -45859,7 +45855,7 @@ use_preset_vocabulary: true
 馬可	mo khu
 馬嘶	mo sy
 馬圈	mo jioe
-# 馬國	mo kueq
+馬國	mo koq
 馬堡	mo pau
 馬場	mo zan
 馬太	mo tha
@@ -46618,7 +46614,7 @@ use_preset_vocabulary: true
 齊力	zhi liq
 齊名	zhi min
 齊唱	zhi tshaon
-# 齊國	zhi kueq
+齊國	zhi koq
 齊夜快	zhi ya khua
 齊天	zhi thi
 齊奏	zhi tseu
@@ -46712,8 +46708,8 @@ use_preset_vocabulary: true
 嗰一搶	geq iq chian
 嗰代
 嗰件
-# 嗰個	geq gheq
-# 嗰個是	geq gheq zy
+嗰個	geq gheq
+嗰個是	geq gheq zy
 嗰先
 嗰句	geq ciu
 嗰墶
@@ -46739,7 +46735,7 @@ use_preset_vocabulary: true
 嗰總
 嗰恁	geq nen
 嗰恁介	geq nen ka
-# 嗰恁個	geq nen gheq
+嗰恁個	geq nen gheq
 嗰記
 嗰趟
 嗰辰光	geq zen kuaon
