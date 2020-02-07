@@ -11728,7 +11728,7 @@ use_preset_vocabulary: true
 不復	peq voq
 不必	peq piq
 不忍	peq zen
-# 不忘	peq vaon
+不忘	peq waon
 不忙	peq maon
 不忠	peq tson
 不快	peq khua
@@ -14545,7 +14545,7 @@ use_preset_vocabulary: true
 健壯	ji tsaon
 健實
 健將	ji cian
-# 健忘	ji vaon
+健忘	ji waon
 側崖
 側後
 側方
@@ -14612,7 +14612,7 @@ use_preset_vocabulary: true
 備下	be gho
 備份	be ven
 備存
-# 備忘	be vaon
+備忘	be waon
 備感	be koe
 備查	be zo
 備款
@@ -15920,7 +15920,7 @@ use_preset_vocabulary: true
 別姬
 別學	biq ghoq
 別家	biq ka
-# 別忘	biq vaon
+別忘	biq waon
 別慌
 別提	biq di
 別為
@@ -16489,7 +16489,7 @@ use_preset_vocabulary: true
 勿尷勿尬
 勿庸
 勿得勿然
-# 勿忘	veq vaon
+勿忘	veq waon
 勿快
 勿悲
 勿想
@@ -18629,7 +18629,7 @@ use_preset_vocabulary: true
 喂馬	ue mo
 善人	zoe gnin
 善哉	zoe tse
-# 善忘	zoe vaon
+善忘	zoe waon
 善惡	zoe oq
 善感	zoe koe
 善否	zoe phi
@@ -24298,33 +24298,33 @@ use_preset_vocabulary: true
 志異
 志行	tsy yin
 志趣	tsy chiu
-# 忘不	vaon peq
-# 忘乎	vaon wu
-# 忘了	vaon liau
-# 忘光	vaon kuaon
-# 忘八	vaon paq
-# 忘卻	vaon chiaq
-# 忘年	vaon gni
-# 忘形	vaon yin
-# 忘得	vaon teq
-# 忘性	vaon shin
-# 忘恩	vaon en
-# 忘悼	vaon dau
-# 忘情	vaon zhin
-# 忘憂	vaon ieu
-# 忘懷	vaon we
-# 忘我	vaon ngu
-# 忘掉	vaon diau
-# 忘本	vaon pen
-# 忘盡	vaon zhin
-# 忘神	vaon zen
-# 忘私	vaon sy
-# 忘舊	vaon jieu
+忘不	waon peq
+忘乎	waon wu
+忘了	waon liau
+忘光	waon kuaon
+忘八	waon paq
+忘卻	waon chiaq
+忘年	waon gni
+忘形	waon yin
+忘得	waon teq
+忘性	waon shin
+忘恩	waon en
+忘悼	waon dau
+忘情	waon zhin
+忘憂	waon ieu
+忘懷	waon we
+忘我	waon ngu
+忘掉	waon diau
+忘本	waon pen
+忘盡	waon zhin
+忘神	waon zen
+忘私	waon sy
+忘舊	waon jieu
 忘記心	maon ci shin
 忘記脫	maon ci theq
-# 忘詞	vaon zy
-# 忘返	vaon fe
-# 忘逝	vaon zy
+忘詞	waon zy
+忘返	waon fe
+忘逝	waon zy
 忙上
 忙乎	maon wu
 # 忙伐	maon va
@@ -30677,7 +30677,7 @@ use_preset_vocabulary: true
 毈命
 # 毋寧	vu gnin
 # 毋庸	vu yon
-# 毋忘	vu vaon
+# 毋忘	vu waon
 # 毋躁	vu tsau
 # 毋需	vu shiu
 # 毋須	vu shiu
@@ -31658,7 +31658,7 @@ use_preset_vocabulary: true
 淡了	de liau
 淡化	de ho
 淡市
-# 淡忘	de vaon
+淡忘	de waon
 淡抹
 淡施
 淡月	de yuq
@@ -38970,7 +38970,7 @@ use_preset_vocabulary: true
 莫嫌
 莫將	moq cian
 莫屬	moq zoq
-# 莫忘	moq vaon
+莫忘	moq waon
 莫愁
 莫笑
 莫能	moq nen
@@ -40486,7 +40486,7 @@ use_preset_vocabulary: true
 言行	yi yin
 言詞	yi zy
 言話	ghe gho
-# 言語	yi gniu
+言語	yi gniu
 言說	yi seq
 言談	yi de
 言論	yi len
@@ -43038,7 +43038,7 @@ use_preset_vocabulary: true
 遺少	yi sau
 遺尿	yi gniau
 遺志	yi tsy
-# 遺忘	yi vaon
+遺忘	yi waon
 遺念	yi gni
 遺恨	yi ghen
 遺患	yi we
@@ -44943,7 +44943,7 @@ use_preset_vocabulary: true
 難平
 難得個是	ne teq gheq zy
 難忍	ne zen
-# 難忘	ne vaon
+難忘	ne waon
 難抑
 難料
 難斷	ne doe
