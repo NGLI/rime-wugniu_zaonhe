@@ -5530,11 +5530,11 @@ use_preset_vocabulary: true
 闊	khueq
 擴	khueq
 寣	hueq
-𣝗	wueq
-囫	wueq
-活	wueq
-獲	wueq
-穫	wueq
+𣝗	weq
+囫	weq
+活	weq
+獲	weq
+穫	weq
 𩑦	ueq
 殟	ueq
 鱉	piq
@@ -6372,7 +6372,6 @@ use_preset_vocabulary: true
 囝	noe
 囝	ci	0%
 囧	cion
-# 囫	weq
 # 圃	pu
 # 圈	cioe
 圉	gniu
@@ -7277,7 +7276,6 @@ use_preset_vocabulary: true
 洵	shin
 洹	woe
 洺	min
-# 活	weq
 # 浚	shin	0%
 浞	tsoq
 浠	shi
@@ -7558,7 +7556,6 @@ use_preset_vocabulary: true
 獬	ya
 獮	shi
 獯	shiun
-# 獲	weq
 獴	mon
 獷	kuaon
 獾	huoe
@@ -13289,7 +13286,7 @@ use_preset_vocabulary: true
 人物	gnin veq
 人犯	gnin ve
 人猿	gnin yoe
-# 人獲	gnin weq
+人獲	gnin weq
 人瑞	gnin zoe
 人生	gnin san
 人生	gnin sen
@@ -13926,7 +13923,7 @@ use_preset_vocabulary: true
 作家	tsoq cia
 作惡	tsoq oq
 作樂	tsoq loq
-# 作死作活	tsoq shi tsoq weq
+作死作活	tsoq shi tsoq weq
 作氣
 作泛
 作派
@@ -14520,7 +14517,7 @@ use_preset_vocabulary: true
 做月子	tsu yuq tsy
 做模
 做生日	tsu san gniq
-# 做生活	tsu san weq
+做生活	tsu san weq
 做着	tsu zaq
 做脫
 做脫儂
@@ -16503,7 +16500,7 @@ use_preset_vocabulary: true
 勿曾	veq zen
 勿會	veq we
 勿歡喜
-# 勿死勿活	veq shi veq weq
+勿死勿活	veq shi veq weq
 勿比	veq pi
 勿求人	veq jieu gnin
 勿消
@@ -16855,7 +16852,7 @@ use_preset_vocabulary: true
 半月	poe yuq
 半桶
 半死	poe sy
-# 半死半活	poe shi poe weq
+半死半活	poe shi poe weq
 半江	poe kaon
 半爿天
 半生	poe sen
@@ -17310,7 +17307,7 @@ use_preset_vocabulary: true
 又無	yeu wu
 又熱	yeu gniq
 又燃	yeu zoe
-# 又獲	yeu weq
+又獲	yeu weq
 又生	yeu sen
 又用	yeu yon
 又發	yeu faq
@@ -17695,7 +17692,7 @@ use_preset_vocabulary: true
 吃沒
 吃火車	chiq hu tsho
 吃牌頭
-# 吃生活	chiq san weq
+吃生活	chiq san weq
 吃白食	chiq baq zeq
 吃着受用	chiq tsaq zeu yon
 吃老酒
@@ -22267,7 +22264,7 @@ use_preset_vocabulary: true
 將比	cian pi
 將為	cian we
 將無	cian wu
-# 將獲	cian weq
+將獲	cian weq
 將由	cian yeu
 將略	cian liaq
 將相	cian shian
@@ -22332,7 +22329,7 @@ use_preset_vocabulary: true
 尋查	zhin zo
 尋樂	zhin loq
 尋死	zhin sy
-# 尋死尋活	zhin shi zhin weq
+尋死尋活	zhin shi zhin weq
 尋生意	zhin san i
 尋相罵
 尋秦記
@@ -25965,7 +25962,7 @@ use_preset_vocabulary: true
 拾掇	zeq teq
 拾柴	zeq za
 拾滿	zeq moe
-# 拾獲	zeq weq
+拾獲	zeq weq
 拾穗	zeq zoe
 拾級	zeq ciq
 拾荒	zeq huaon
@@ -28544,7 +28541,7 @@ use_preset_vocabulary: true
 曾是	zen zy
 曾有	zen yeu
 曾為	zen we
-# 曾獲	zen weq
+曾獲	zen weq
 曾用	zen yon
 曾祖	tsen tsu
 曾祖父	tsen tsu vu
@@ -29223,7 +29220,7 @@ use_preset_vocabulary: true
 未炒	vi tshau
 未然	vi zoe
 未熟	vi zoq
-# 未獲	vi weq
+未獲	vi weq
 未留	vi lieu
 未盡	vi zhin
 未看	vi khoe
@@ -29571,7 +29568,7 @@ use_preset_vocabulary: true
 查清	zo chin
 查無	zo wu
 查照	zo tsau
-# 查獲	zo weq
+查獲	zo weq
 查理	zo li
 查的	zo tiq
 查看	zo khoe
@@ -30603,7 +30600,7 @@ use_preset_vocabulary: true
 死規矩	shi kue ciu
 死角	shi koq
 死訊	sy shin
-# 死賴活纏	shi la weq zoe
+死賴活纏	shi la weq zoe
 死路	shi lu
 死鎖	sy su
 死難	sy ne
@@ -30878,7 +30875,7 @@ use_preset_vocabulary: true
 氣歌
 氣殺	chi saq
 氣死	chi sy
-# 氣死氣活	chi shi chi weq
+氣死氣活	chi shi chi weq
 # 氣氛	chi ven
 氣滯
 # 氣煞了	chi saq leq
@@ -31448,25 +31445,25 @@ use_preset_vocabulary: true
 洪音
 洪魔
 洶湧
-# 活下來	weq gho le
+活下來	weq gho le
 # 活了	weq leq
-# 活人	weq gnin
-# 活佛	weq veq
-# 活兒	weq er
-# 活分	weq fen
-# 活剝鮮跳	weq poq shi thiau
-# 活化	weq ho
-# 活塞	weq seq
-# 活會	weq we
-# 活期	weq ji
+活人	weq gnin
+活佛	weq veq
+活兒	weq er
+活分	weq fen
+活剝鮮跳	weq poq shi thiau
+活化	weq ho
+活塞	weq seq
+活會	weq we
+活期	weq ji
 活棋
-# 活着	weq zaq
+活着	weq zaq
 活筆剝
-# 活罪	weq zoe
+活罪	weq zoe
 活脫勢象
 活膩
 活裏活絡
-# 活覺	weq cioq
+活覺	weq cioq
 洼亮
 洽談	chiaq de
 派了	pha liau
@@ -33138,7 +33135,7 @@ use_preset_vocabulary: true
 爬式
 爬昇
 爬檯擱腳	bo de koq ciaq
-# 爬死爬活	bo shi bo weq
+爬死爬活	bo shi bo weq
 爬牆摸壁
 爬蟹
 爬行	bo yin
@@ -33441,7 +33438,7 @@ use_preset_vocabulary: true
 獨闖	doq tshaon
 獨養兒子	doq yan gni tsy
 獰惡	gnin oq
-# 獲罪	weq zoe
+獲罪	weq zoe
 獵人	laq gnin
 獵物	laq veq
 獸孩
@@ -33768,7 +33765,7 @@ use_preset_vocabulary: true
 生母	sen mu
 生毛病	san mau bin
 生氣	san chi
-# 生活勢勁	san weq sy cin
+生活勢勁	san weq sy cin
 # 生涯	san nga
 生漆	san chiq
 生為	san we
@@ -34820,7 +34817,7 @@ use_preset_vocabulary: true
 真混
 真為
 真率	tsen se
-# 真生活	tsen san weq
+真生活	tsen san weq
 真細
 真能	tsen nen
 真言	tsen yi
@@ -35221,7 +35218,7 @@ use_preset_vocabulary: true
 破浪	phu laon
 破滅	phu miq
 破爛	phu le
-# 破獲	phu weq
+破獲	phu weq
 破瓜	phu ko
 破產	phu tshe
 破的	phu tiq
@@ -37082,7 +37079,7 @@ use_preset_vocabulary: true
 繳款	ciau khuoe
 繳清	ciau chin
 繳滿	ciau moe
-# 繳獲	ciau weq
+繳獲	ciau weq
 繳租	ciau tsu
 繳稅	ciau soe
 繳納	ciau naq
@@ -40601,7 +40598,7 @@ use_preset_vocabulary: true
 詐人	tso gnin
 詐唬	tso hu
 詐死	tso sy
-# 詐死詐活	tso shi tso weq
+詐死詐活	tso shi tso weq
 詐降	tso ghaon
 評介	bin ka
 評分	bin fen
@@ -43923,7 +43920,7 @@ use_preset_vocabulary: true
 長波	zan pu
 長波浪	zan pu laon
 長洲	zan tseu
-# 長活	tsan weq
+長活	tsan weq
 長清	zan chin
 長滿	tsan moe
 長濱	zan pin
@@ -46283,7 +46280,7 @@ use_preset_vocabulary: true
 鮮貝
 鮮食	shi zeq
 鮮魚	shi ng
-# 鮮龍活跳	shi lon weq thiau
+鮮龍活跳	shi lon weq thiau
 鯉魚	li ng
 鯉魚斑	li ng pe
 鯊魚	so ng
