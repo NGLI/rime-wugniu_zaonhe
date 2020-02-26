@@ -9,6 +9,10 @@
 
 拼音方案爲 [吳語學堂式拼音](https://github.com/NGLI/rime-wugniu_zaonhe/wiki/音系及拼音方案)，同時兼容 [吳語協會式拼音](http://wu-chinese.com/romanization/)。
 
+參考了以下項目：
+
+- [Rime 吳語輸入方案](https://github.com/rime/rime-wugniu)
+
 ## 幫助文檔
 
 [rime-wugniu_zaonhe Wiki](https://github.com/NGLI/rime-wugniu_zaonhe/wiki)
