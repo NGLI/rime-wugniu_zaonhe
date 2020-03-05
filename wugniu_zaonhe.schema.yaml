@@ -69,6 +69,9 @@ speller:
     - derive/gni(?=[aoue])/ny/
     - derive/er/r/
 
+    # iun ion 互讀
+    - derive/(i|y)un/$1on/
+    - derive/(i|y)on/$1un/
     # 干官不分
     - derive/uoe/oe/
     # 余圓不分
