@@ -4,11 +4,12 @@
 schema:
   schema_id: wugniu_zaonhe
   name: 吳語（上海）
-  version: "0.28"
+  version: "0.29"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
+    - 神死慟瞑 <411325365@qq.com> (dict)
     - 雪心居士 <sihsin@live.com> (schema)
-    - Electric Sheep <shinzoqchiuq@outlook.com> (schema)
+    - Electric Sheep <shinzoqchiuq@outlook.com> (dict, schema)
   description: |
     上海吳語注音輸入方案吳語學堂版
     https://www.wugniu.com/
