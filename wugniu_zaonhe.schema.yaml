@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_zaonhe
   name: 吳語（上海）
-  version: "0.27"
+  version: "0.28"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
     - 雪心居士 <sihsin@live.com> (schema)
@@ -74,6 +74,7 @@ speller:
     - derive/(i|y)on/$1un/
     # 干官不分
     - derive/uoe/oe/
+    - derive/woe/ghoe/
     # 余圓不分
     - derive/(?<=[iy])oe$/u/
     # 打黨不分
