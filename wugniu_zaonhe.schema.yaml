@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_zaonhe
   name: 吳語（上海）
-  version: "0.30"
+  version: "0.31"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
     - 神死慟瞑 <411325365@qq.com> (dict)
@@ -70,9 +70,6 @@ speller:
     - derive/([gk])ni(?=[aoue])/ny/
     - derive/er/r/
 
-    # iun ion 互讀
-    - derive/(i|y)un/$1on/
-    - derive/(i|y)on/$1un/
     # 干官不分
     - derive/uoe/oe/
     - derive/woe/ghoe/
