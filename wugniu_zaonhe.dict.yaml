@@ -8,6 +8,7 @@
 # - 吳飛得 <fededemarco@gmail.com>
 # - Electric Sheep <shinzoqchiuq@outlook.com>
 # - 神死慟瞑 <411325365@qq.com>
+# - 沪语角 <930702500@qq.com>
 #
 # 使用：
 #
@@ -18,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.04.11"
+version: "2020.05.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2604,8 +2605,8 @@ use_preset_vocabulary: true
 漫	me
 謾	me
 萬	me	0%
-玩	me
-頑	me
+玩	me	0%
+頑	me	0%
 晚	me	0%
 翻	fe
 番	fe
@@ -6252,7 +6253,7 @@ use_preset_vocabulary: true
 哴	laon
 哿	ku
 # 唁	gni
-唄	ba
+唄	ba	1%
 唆	su
 唉	e
 唊	kaq
@@ -6424,7 +6425,7 @@ use_preset_vocabulary: true
 圮	bi
 圯	yi
 圻	ji
-# 圾	seq
+圾	seq	1%
 # 坊	vaon
 坏	be
 坏	phe
@@ -6432,7 +6433,7 @@ use_preset_vocabulary: true
 坭	gni
 坻	ti
 坻	zy
-# 垃	laq
+垃	laq
 垌	don
 垍	ji
 垓	ke
@@ -11036,6 +11037,17 @@ use_preset_vocabulary: true
 𢯹	kaq
 㨣	on
 塕	on
+
+# 補充字音
+
+唄	pe
+玩	we	10%
+蹦	pon	10%
+咯	loq	1%
+咋	tso	5%
+咋	tsua	1%
+咋	za	1%
+禱	dau	6%
 
 # 詞彙
 
@@ -17682,7 +17694,7 @@ use_preset_vocabulary: true
 古漢語
 古物	ku veq
 古獸
-古玩	ku woe
+古玩
 古船
 古跡
 句中	ciu tson
@@ -19780,16 +19792,16 @@ use_preset_vocabulary: true
 垂淚	zoe li
 垂盼
 垂范
-# 垃做	laq tsu
-# 垃圾	laq seq
+垃做	laq tsu
+垃圾	laq seq
 垃圾	la shi
 垃圾癟三	la shi piq se
-# 垃壗	laq he
-# 垃想	laq shian
-# 垃拉	laq laq
-# 垃末	laq meq
-# 垃該	laq ke
-# 垃陌生頭	laq maq san deu
+垃壗	laq he
+垃想	laq shian
+垃拉	laq laq
+垃末	laq meq
+垃該	laq ke
+垃陌生頭	laq maq san deu
 型的
 垓下	ke gho
 垢服
@@ -21369,7 +21381,7 @@ use_preset_vocabulary: true
 好求
 好燒
 好爺好娘
-好玩	hau woe
+好玩
 好生	hau sen
 好生意經	hau san i cin
 好用方言字	hau yon faon yi zy
@@ -21753,7 +21765,7 @@ use_preset_vocabulary: true
 存勒
 存吳	zen wu
 存單	zen te
-# 存垃	zen laq
+存垃	zen laq
 存執
 存摺	zen tseq
 存據
@@ -25008,7 +25020,7 @@ use_preset_vocabulary: true
 想望	shian maon
 想死	shian sy
 想為
-想玩	shian woe
+想玩
 想眼
 想着吃	shian zaq chiq
 想知
@@ -25095,7 +25107,7 @@ use_preset_vocabulary: true
 愛欲
 愛死	e sy
 愛物	e veq
-愛玩	e woe
+愛玩
 愛生	e sen
 愛的真諦
 愛着	e zaq
@@ -25844,7 +25856,7 @@ use_preset_vocabulary: true
 把恆
 把戲	po shi
 把滑
-把玩	po woe
+把玩
 把細
 抑殺
 抑菌
@@ -27255,10 +27267,10 @@ use_preset_vocabulary: true
 擺奎勁	pa khue cin
 擺弗平	pa veq bin
 擺攤頭
-# 擺明垃個	pa min laq gheq
+擺明垃個	pa min laq gheq
 擺晃
 擺渡口
-# 擺煞垃壗	pa saq laq he
+擺煞垃壗	pa saq laq he
 擺腿
 擺臂
 擺蕩
@@ -27689,7 +27701,7 @@ use_preset_vocabulary: true
 文教	ven ciau
 文料
 文物	ven veq
-文玩	ven woe
+文玩
 文生	ven sen
 文石	ven zaq
 文華	ven gho
@@ -28202,7 +28214,7 @@ use_preset_vocabulary: true
 明打明
 明扣
 明搶	min chian
-# 明擺垃個	min pa laq gheq
+明擺垃個	min pa laq gheq
 明教	min ciau
 明斷	min doe
 明日	min gniq
@@ -28511,7 +28523,7 @@ use_preset_vocabulary: true
 晚生	ue sen
 晚睡	ue zoe
 晚福	ue foq
-晚禱	ue tau
+晚禱
 晚秋	ue chieu
 晚稻	ue dau
 晚節	ue ciq
@@ -30869,9 +30881,9 @@ use_preset_vocabulary: true
 正北	tsen poq
 正午	tsen wu
 正南	tsen noe
-# 正垃	tsen laq
+正垃	tsen laq
 正大	tsen da
-# 正好垃拉	tsen hau laq lha
+正好垃拉	tsen hau laq lha
 正屋	tsen oq
 正席
 正手
@@ -32321,7 +32333,7 @@ use_preset_vocabulary: true
 清湯麵	chin thaon mi
 清漣
 清澄	chin zen
-清玩	chin woe
+清玩
 清神
 清籟	chin le
 清繳	chin ciau
@@ -32382,7 +32394,7 @@ use_preset_vocabulary: true
 游民
 游澡
 游牧
-游玩	yeu woe
+游玩
 游盪
 游移
 游絲
@@ -34026,62 +34038,67 @@ use_preset_vocabulary: true
 王翦
 王華	waon gho
 王駕	waon ka
-玩世	woe sy
+玩世
 玩了	woe liau
+玩了	we liau
 玩什麼
-玩伴	woe boe
-玩偶	woe ngeu
+玩伴
+玩偶
 玩兒	woe er
-玩具	woe jiu
-玩出	woe tsheq
-玩到	woe tau
-玩劍	woe ci
-玩厭	woe i
-玩友	woe yeu
-玩味	woe vi
-玩命	woe min
-玩器	woe chi
-玩好	woe hau
+玩兒	we er
+玩具
+玩出
+玩到
+玩劍
+玩厭
+玩友
+玩味
+玩命
+玩器
+玩好
 玩家	woe ka
-玩弄	woe lon
-玩得	woe teq
-玩心	woe shin
-玩忽	woe hoq
-玩意	woe i
-玩慣	woe kue
-玩手	woe seu
-玩月	woe yuq
-玩月	woe yoq
-玩棋	woe ji
-玩槍	woe chian
+玩家	we ka
+玩弄
+玩得
+玩心
+玩忽
+玩意
+玩慣
+玩手
+玩月
+玩棋
+玩槍
 玩樂	woe loq
-玩水	woe sy
-玩法	woe faq
-玩火	woe hu
-玩牌	woe ba
-玩物	woe veq
+玩樂	we loq
+玩水
+玩法
+玩火
+玩牌
+玩物
 玩玩	woe woe
-玩球	woe jieu
-玩的	woe tiq
+玩玩	we we
+玩球
+玩的
 玩着	woe zaq
-玩票	woe phiau
-玩笑	woe shiau
-玩耍	woe sa
-玩興	woe shin
-玩藝	woe gni
-玩賞	woe saon
-玩起	woe chi
-玩轉	woe tsoe
-玩過	woe ku
-玩錢	woe zhi
-玩鎗	woe chian
-玩雪	woe shiq
+玩着	we zaq
+玩票
+玩笑
+玩耍
+玩興
+玩藝
+玩賞
+玩起
+玩轉
+玩過
+玩錢
+玩鎗
+玩雪
 玻耳	pu er
 珍味	tsen vi
 珍存
 珍攝	tsen seq
 珍版
-珍玩	tsen woe
+珍玩
 珍貴	tsen kue
 珞巴	loq pa
 珠兒	tsy er
@@ -35997,7 +36014,7 @@ use_preset_vocabulary: true
 祝您	tsoq gnin
 祝捷	tsoq zhiq
 祝福	tsoq foq
-祝禱	tsoq tau
+祝禱
 祝融	tsoq yon
 祝詞	tsoq zy
 祝賀	tsoq wu
@@ -36375,7 +36392,7 @@ use_preset_vocabulary: true
 立住	liq zy
 立出
 立囤
-# 立垃	liq laq
+立垃	liq laq
 立場	liq zan
 立夏	liq gho
 立契	liq chi
@@ -38103,7 +38120,7 @@ use_preset_vocabulary: true
 耍奸	sa ke
 耍帥
 耍橫	sa wan
-耍玩	sa woe
+耍玩
 耍賴	sa la
 耐乾	ne koe
 耐住	ne zy
@@ -40677,7 +40694,7 @@ use_preset_vocabulary: true
 褶子	zhiq tsy
 褶褲	zhiq khu
 褻瀆	shiq doq
-褻玩	shiq woe
+褻玩
 襄助	shian zu
 襖兒	au er
 襟懷	cin we
@@ -42057,7 +42074,7 @@ use_preset_vocabulary: true
 販毒	fe doq
 貪吃懶做
 貪喫
-貪玩	thoe woe
+貪玩
 貪逸
 貫串	kue tshoe
 貫標
@@ -42200,7 +42217,7 @@ use_preset_vocabulary: true
 賞景	saon cin
 賞月	saon yuq
 賞月	saon yoq
-賞玩	saon woe
+賞玩
 賞識	saon seq
 賞贈
 賞鑒	saon ci
@@ -42628,9 +42645,9 @@ use_preset_vocabulary: true
 蹌踉
 蹌蹌
 蹗起來
-蹦兒	pan er
+蹦兒
 蹦床
-蹦跳	pan thiau
+蹦跳
 蹩腰
 蹩腳貨
 蹩進蹩出
@@ -43087,7 +43104,7 @@ use_preset_vocabulary: true
 近的
 近聞	jin ven
 近觀
-# 迓垃	ia laq
+迓垃	ia laq
 迓迓較
 返家	fe cia
 返校	fe yau
@@ -43491,7 +43508,7 @@ use_preset_vocabulary: true
 遊學	yeu ghoq
 遊戲	yeu shi
 遊樂	yeu loq
-遊玩	yeu woe
+遊玩
 遊盪
 遊碼頭
 遊行	yeu yin
@@ -45792,7 +45809,7 @@ use_preset_vocabulary: true
 電測
 電火
 電竈
-電玩	di woe
+電玩
 電發
 電磨
 電線木頭
