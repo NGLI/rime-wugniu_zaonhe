@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.05.23"
+version: "2020.05.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5941,7 +5941,7 @@ use_preset_vocabulary: true
 # 份	pin
 # 仿	baon
 伋	ciq
-# 伐	va
+伐	va	5%
 休	shiu	0%
 伢	nga
 伯	po	0%
@@ -6901,7 +6901,7 @@ use_preset_vocabulary: true
 拶	tseq
 拽	tse
 拽	yiq	0%
-# 拾	zhiq	0%
+拾	zhiq	1%
 # 拿	nau	0%
 挈	chiq
 挎	kho
@@ -9448,8 +9448,8 @@ use_preset_vocabulary: true
 齶	ngoq
 # 龕	khoe
 龜	chieu	0%
-# 龜	ciun
-# 龜	cion
+龜	ciun	0%
+龜	cion	0%
 龠	yaq
 乛	tseq
 蘢	lon
@@ -10954,7 +10954,7 @@ use_preset_vocabulary: true
 夂	tson
 灬	piau
 厃	yi
-# 廈	sa
+廈	sa
 渳	mhi
 攞	lhu
 儾	nhaon
@@ -11048,6 +11048,10 @@ use_preset_vocabulary: true
 咋	tsua	1%
 咋	za	1%
 禱	dau	6%
+何	gha	5%
+轄	huaq	10%
+頑	we	10%
+誰	ze	10%
 
 # 詞彙
 
@@ -15012,7 +15016,7 @@ use_preset_vocabulary: true
 兇信	shion shin
 兇惡	shion oq
 兇橫	shion wan
-兇頑	shion woe
+兇頑
 先予	shi yu
 先人	shi gnin
 先修
@@ -15684,7 +15688,7 @@ use_preset_vocabulary: true
 冤鬼	ioe kue
 冥思	min sy
 冥暗
-冥頑	min woe
+冥頑
 冬夏	ton gho
 冬夜
 冬寒
@@ -15889,7 +15893,7 @@ use_preset_vocabulary: true
 刁撒
 刁橫	tiau wan
 刁鑽觸揢
-刁頑	tiau woe
+刁頑
 分一	fen iq
 分下	fen gho
 # 分之	ven tsy
@@ -18797,6 +18801,7 @@ use_preset_vocabulary: true
 # 問詢	men shin
 問話	men gho
 問誰	men zoe
+問誰	men ze
 問起	men chi
 問路	men lu
 問這	ven tseq
@@ -20604,6 +20609,8 @@ use_preset_vocabulary: true
 大幹	du koe
 大度	da du
 大廈	da gho
+大廈	da shia
+大廈	da sa
 大廚	du zy
 大厰	du tshan
 大廳	du thin
@@ -25081,7 +25088,7 @@ use_preset_vocabulary: true
 愚弱
 愚苯
 愚見	yu ci
-愚頑	yu woe
+愚頑
 愛不	e peq
 愛了	e liau
 愛人	e gnin
@@ -25617,7 +25624,7 @@ use_preset_vocabulary: true
 所誤
 所說	su seq
 所變
-# 所轄	su yaq
+所轄
 所迫	su phaq
 所迷
 所造
@@ -26284,7 +26291,7 @@ use_preset_vocabulary: true
 拾荒	zeq huaon
 拾貝	zeq pe
 拾起	zeq chi
-# 拾起來	zhiq chi le
+拾起來	zhiq chi le
 拾趣	zeq chiu
 拾遺	zeq yi
 拾零	zeq lin
@@ -35206,8 +35213,7 @@ use_preset_vocabulary: true
 直言	zeq yi
 直說	zeq seq
 直講	zeq kaon
-# 直轄	zeq yaq
-# 直轄	zeq ghaq
+直轄
 直隸	zeq di
 相乘	shian zen
 相交	shian ciau
@@ -36626,7 +36632,7 @@ use_preset_vocabulary: true
 管訓
 管賬
 管起
-# 管轄	kuoe yaq
+管轄
 管顧
 箱等
 箴言	tsen yi
@@ -37275,7 +37281,7 @@ use_preset_vocabulary: true
 統攝	thon seq
 統率	thon liq
 統禦
-# 統轄	thon yaq
+統轄
 絲光	sy kuaon
 絲弦
 絲瓜	sy ko
@@ -39621,7 +39627,7 @@ use_preset_vocabulary: true
 華岡	gho kaon
 華工	gho kon
 華府	gho fu
-華廈	gho gho
+華廈
 華強	gho jian
 華彩	gho tshe
 華德	gho teq
@@ -41472,7 +41478,7 @@ use_preset_vocabulary: true
 說詞	seq zy
 說話	seq gho
 說說	seq seq
-說誰	seq zoe
+說誰
 說課	seq khu
 說謊	seq huaon
 說起	seq chi
@@ -41488,22 +41494,24 @@ use_preset_vocabulary: true
 說鬼話	seq ciu gho
 說點	seq ti
 說客	soe khaq
-誰不	zoe peq
+誰不
 誰也	zoe gha
-誰人	zoe gnin
-誰又	zoe yeu
-誰叫	zoe ciau
+誰也	ze gha
+誰人
+誰又
+誰叫
 誰家	zoe cia
-誰將	zoe cian
+誰家	ze cia
+誰將
 誰對
 誰想
 誰手
-誰會	zoe we
+誰會
 誰沒
-誰無	zoe wu
+誰無
 誰看
-誰能	zoe nen
-誰說	zoe seq
+誰能
+誰說
 課下	khu gho
 課內	khu ne
 課員	khu yoe
@@ -42988,14 +42996,10 @@ use_preset_vocabulary: true
 輸錯
 輻射	foq zo
 輾轉	tsoe tsoe
-# 轄下	yaq gho
-# 轄制	yaq tsy
-# 轄區	yaq chiu
-# 轄地	yaq di
-# 轄下	ghaq gho
-# 轄制	ghaq tsy
-# 轄區	ghaq chiu
-# 轄地	ghaq di
+轄下
+轄制
+轄區
+轄地
 轉交	tsoe ciau
 轉介	tsoe ka
 轉任	tsoe zen
@@ -45172,7 +45176,7 @@ use_preset_vocabulary: true
 院的
 院級
 院裡
-# 院轄	yoe yaq
+院轄
 院部
 院長	yoe tsan
 院風
@@ -46109,23 +46113,23 @@ use_preset_vocabulary: true
 預見	yu ci
 預言	yu yi
 預防	yu vaon
-頑健	woe ji
-頑劣	woe liq
-頑固	woe ku
-頑強	woe jian
-頑愚	woe yu
-頑抗	woe khaon
-頑敵	woe diq
-頑昧	woe me
-頑民	woe min
-頑症	woe tsen
-頑癬	woe shi
-頑皮	woe bi
-頑石	woe zaq
-頑童	woe don
-頑逆	woe gniq
-頑鈍	woe den
-頑靡	woe mi
+頑健
+頑劣
+頑固
+頑強
+頑愚
+頑抗
+頑敵
+頑昧
+頑民
+頑症
+頑癬
+頑皮
+頑石
+頑童
+頑逆
+頑鈍
+頑靡
 頒行	pe yin
 頓了	ten liau
 頓住	ten zy
@@ -47427,8 +47431,8 @@ use_preset_vocabulary: true
 龜甲
 龜縮	kue soq
 龜背	kue pe
-# 龜裂	ciun liq
-# 龜裂	cion liq
+龜裂	ciun liq
+龜裂	cion liq
 龜足	kue tsoq
 龜頭	kue deu
 淅力索落	shiq liq soq loq
@@ -47484,7 +47488,8 @@ use_preset_vocabulary: true
 囋叭	tsa pa
 漨浡	bon beq
 商廈	saon gho
-# 商廈	saon sa
+商廈	saon shia
+商廈	saon sa
 渳老酒	mhi lau cieu
 醪酒	lau cieu
 浪漫	laon me
@@ -47505,3 +47510,12 @@ use_preset_vocabulary: true
 蟹衁	ha huaon
 蛋衁	de huaon
 踛起來	loq chi le
+
+# 補充詞彙
+何裏	gha li	1000
+何裏一種	gha li iq tson	100
+何裏一隻	gha li iq tsaq	100
+何裏個	gha li gheq	100
+何裏墶	gha li taq	100
+何裏搭	gha li taq	100
+何裏面	gha li mi	100
