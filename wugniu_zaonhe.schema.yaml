@@ -4,14 +4,16 @@
 schema:
   schema_id: wugniu_zaonhe
   name: 吳語（上海）
-  version: "0.31"
+  version: "0.32"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
     - 神死慟瞑 <411325365@qq.com> (dict)
+    - 沪语角 <930702500@qq.com> (dict)
     - 雪心居士 <sihsin@live.com> (schema)
     - Electric Sheep <shinzoqchiuq@outlook.com> (dict, schema)
   description: |
-    上海吳語注音輸入方案吳語學堂版
+    採用學堂式吳語拼音
+    上海中派（分尖團）
     https://www.wugniu.com/
     https://github.com/NGLI/rime-wugniu_zaonhe/
   dependencies:
@@ -70,6 +72,9 @@ speller:
     - derive/([gk])ni(?=[aoue])/ny/
     - derive/er/r/
 
+    # 尖團不分
+    - derive/ts(h?)i/c$1i/
+    - derive/^(s|z)i/$1hi/
     # 干官不分
     - derive/uoe/oe/
     - derive/woe/ghoe/
