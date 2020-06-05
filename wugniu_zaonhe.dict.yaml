@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.05.31"
+version: "2020.06.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7595,7 +7595,7 @@ use_preset_vocabulary: true
 猄	cin
 猊	gni
 獼	mi
-# 猜	tshe
+猜	tshe
 猞	so
 猢	weq
 猢	wu
@@ -33285,7 +33285,7 @@ use_preset_vocabulary: true
 無父	wu vu
 無物	wu veq
 無狀	wu zaon
-無猜	wu tshoe
+無猜
 無理	wu li
 無瑕	wu shia
 無用	wu yon
@@ -33936,7 +33936,9 @@ use_preset_vocabulary: true
 猛響
 猜摸
 猜謎	tshoe mi
+猜謎	tshe mi
 猜謎謎子	tshoe me me tsy
+猜謎謎子	tshe me me tsy
 猜透
 猝然	tsheq zoe
 猝發	tsheq faq
@@ -40968,6 +40970,8 @@ use_preset_vocabulary: true
 覺民	ciuq min
 覺猜	cioq tshoe
 覺猜	ciuq tshoe
+覺猜	cioq tshe
+覺猜	ciuq tshe
 覺着	cioq zaq
 覺着	ciuq zaq
 覺着	koq zaq
