@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.06.05"
+version: "2020.06.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11053,6 +11053,8 @@ use_preset_vocabulary: true
 頑	we	10%
 誰	ze	10%
 殉	sin
+畀	peq
+湯	than	0%
 
 # 詞彙
 
@@ -47525,3 +47527,4 @@ use_preset_vocabulary: true
 何裏墶	gha li taq	100
 何裏搭	gha li taq	100
 何裏面	gha li mi	100
+湯湯渧	than than ti
