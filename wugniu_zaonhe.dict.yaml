@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.06.09"
+version: "2020.06.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2145,7 +2145,7 @@ use_preset_vocabulary: true
 嬌	ciau
 澆	ciau
 繳	ciau
-糾	ciau
+# 糾	ciau
 姣	ciau
 絞	ciau
 狡	ciau
@@ -5246,7 +5246,7 @@ use_preset_vocabulary: true
 屬	zoq
 辱	zoq
 續	zoq
-射	zoq	0%
+# 射	zoq	0%
 勺	zoq
 𧮙	zoq
 胳	koq
@@ -5954,7 +5954,7 @@ use_preset_vocabulary: true
 # 佚	diq
 佛	beq	0%
 佛	biq	0%
-# 佝	heu
+佝	heu
 # 佝	kheu
 佟	don
 佤	wa
@@ -6184,8 +6184,8 @@ use_preset_vocabulary: true
 呐	naq
 呔	te
 呔	tha
-# 呢	nhe
-# 呢	nheq
+呢	nhe
+呢	nheq
 呣	m
 呣	mh
 呣	meu
@@ -6349,7 +6349,7 @@ use_preset_vocabulary: true
 嘧	miq
 # 嘩	gho
 # 嘩	ua
-嘬	tshe
+嘬	tshe	0%
 嘬	tsoq
 嘭	ban
 # 嘲	tsau
@@ -6602,10 +6602,10 @@ use_preset_vocabulary: true
 寮	liau
 # 射	ya	0%
 # 射	yiq	0%
-# 射	za	0%
+射	za	0%
 # 將	tshian
-# 尉	yuq	0%
-# 尉	yoq	0%
+尉	yuq	0%
+尉	yoq	0%
 尐	tsiq
 尕	ga
 尜	ga
@@ -6636,8 +6636,8 @@ use_preset_vocabulary: true
 峂	don
 峋	sin
 峒	don
-峥	zan
-峥	zen
+# 峥	zan
+# 峥	zen
 峧	ciau
 峪	ioq
 峴	yi
@@ -7087,7 +7087,7 @@ use_preset_vocabulary: true
 曱	khaq
 曷	gheq
 曼	me
-朆	vhen
+朆	ven
 # 月	ngeq	0%
 朊	gnioe
 朐	jiu	0%
@@ -8026,7 +8026,7 @@ use_preset_vocabulary: true
 糲	li
 糵	gniq
 糽	din
-# 糾	cieu
+糾	cieu
 # 約	iau
 # 約	tiq
 # 紅	kon
@@ -8848,7 +8848,7 @@ use_preset_vocabulary: true
 遘	keu
 遝	deq
 # 遨	ngau
-# 遮	tsa	0%
+遮	tsa	0%
 遴	lin
 # 遺	we
 # 邁	ma
@@ -11055,6 +11055,20 @@ use_preset_vocabulary: true
 殉	sin
 畀	peq
 湯	than	0%
+崢	tsen
+瞐	moq
+靐	bin
+舙	gho
+𡂿	eu
+𡂿	gheu
+黜	tshoq	5%
+䞤	geu
+眓	huaq
+䟿	loq
+爾	n	5%
+㬟	ven
+奢	shia	0%
+颬	ho
 
 # 詞彙
 
@@ -14123,7 +14137,7 @@ use_preset_vocabulary: true
 作雪
 佝僂	keu leu
 # 佝瞀	kheu meu
-# 佝背	heu pe
+佝背	heu pe
 你丫	nhi o
 你也	nhi gha
 你仍	nhi gnin
@@ -21152,7 +21166,7 @@ use_preset_vocabulary: true
 套間	thau ci
 奘力	zaon liq
 奘貓	tsaon mhau
-# 奢遮	sia tsa
+奢遮	shia tsa
 奢侈
 奢侈品
 奢想
@@ -21355,7 +21369,7 @@ use_preset_vocabulary: true
 好吃吃
 好吃飯
 好吧	hau ba
-# 好呢	hau nhe
+好呢	hau nhe
 好唻
 好商好量
 好啊	hau a
@@ -22489,8 +22503,8 @@ use_preset_vocabulary: true
 射偏	zo phi
 射出	zo tsheq
 射到	zo tau
-# 射尿	za sy
-射屙	zo u
+射尿	za sy
+射屙	za u
 射干	zo koe
 射影	zo in
 射手	zo seu
@@ -22590,8 +22604,8 @@ use_preset_vocabulary: true
 專車	tsoe tsho
 專頁
 尉官	ue kuoe
-# 尉遲	yuq zy
-# 尉遲	yoq zy
+尉遲	yuq zy
+尉遲	yoq zy
 尊為
 尊貴	tsen kue
 尊長	tsen tsan
@@ -25351,7 +25365,7 @@ use_preset_vocabulary: true
 懷特	we deq
 懷王	we waon
 懷疑	wa gni
-# 懷疑伊呢	wa gni yi nhe
+懷疑伊呢	wa gni yi nhe
 懷着	we zaq
 懷胎	wa the
 懷舊	wa jieu
@@ -28528,7 +28542,7 @@ use_preset_vocabulary: true
 晚清	ue tshin
 晚潮	ue zau
 晚熟	ue zoq
-晚爺
+晚爺	me ya
 晚班	ue pe
 晚生	ue sen
 晚睡	ue zoe
@@ -28719,7 +28733,7 @@ use_preset_vocabulary: true
 曉喻
 曉得個	shiau teq gheq
 曉得個懷	shiau teq gheq wa
-# 曉得呢	shiau teq nhe
+曉得呢	shiau teq nhe
 曉得過
 曉敏
 曉月	shiau yuq
@@ -29333,7 +29347,7 @@ use_preset_vocabulary: true
 有可能	yeu khu nen
 有名氣
 有否	yeu feu
-# 有呢	yeu nhe
+有呢	yeu nhe
 有味	yeu vi
 有哪	yeu na
 有售
@@ -35498,7 +35512,7 @@ use_preset_vocabulary: true
 睏扁頭	khuen pi deu
 睏晏早	khuen e tsau
 睏晏覺	khuen e kau
-睏痴夢懂	khuen tshy mon ton
+睏痴懵懂	khuen tshy mon ton
 睏痴脫
 睏落寣
 睏衣
@@ -36866,8 +36880,8 @@ use_preset_vocabulary: true
 系緊
 系縛	yi voq
 系譜	yi pu
-# 糾分	cieu fen
-# 糾合	cieu gheq
+糾分	cieu fen
+糾合	cieu gheq
 糾治
 糾眾
 紀念	ci gni
@@ -38469,7 +38483,7 @@ use_preset_vocabulary: true
 肚瀉	du sia
 肚痛	du thon
 肚皮	du bi
-# 肚皮射	du bi za
+肚皮射	du bi za
 肚皮痛	du bi thon
 肚皮眼	du bi nge
 肚皮餓	du bi ngu
@@ -38478,7 +38492,7 @@ use_preset_vocabulary: true
 肚腸根	du zan ken
 肚腸癢	du zan yan
 肚臍	du zi
-# 肚裏射	du li za
+肚裏射	du li za
 肚裏痛	du li thon
 肚裡	du li
 肚量	du lian
@@ -47520,6 +47534,7 @@ use_preset_vocabulary: true
 踛起來	loq chi le
 
 # 補充詞彙
+
 何裏	gha li	1000
 何裏一種	gha li iq tson	100
 何裏一隻	gha li iq tsaq	100
@@ -47528,3 +47543,17 @@ use_preset_vocabulary: true
 何裏搭	gha li taq	100
 何裏面	gha li mi	100
 湯湯渧	than than ti
+鋥鋥亮	zan zan lian
+鏖糟	au tsau
+暗黜黜	oe tsheq tsheq
+暗黜黜	oe tshoq tshoq
+䶕牙	bo nga
+盪茶杯	daon zo pe
+睏勢懵懂	khuen sy mon ton
+㫰衣裳	laon i zaon
+晚孃	me gnian
+馬蘭頭	mo le deu
+韌糾糾	gnin cieu cieu
+拖帉	thu fen
+碗盞	uoe tse
+亨八冷	han paq lan
