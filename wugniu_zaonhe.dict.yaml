@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.06.11"
+version: "2020.06.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3173,7 +3173,7 @@ use_preset_vocabulary: true
 釧	tshoe
 顫	tshoe
 雖	soe
-奢	soe
+# 奢	soe
 酸	soe
 痠	soe
 拴	soe
@@ -6521,9 +6521,9 @@ use_preset_vocabulary: true
 奐	huoe
 奘	tsaon
 奘	zaon
-# 奢	so
+奢	so
 # 奢	zo	0%
-# 奢	sia	0%
+奢	shia	0%
 # 奧	ioq
 奭	saq
 # 女	zy
@@ -11066,7 +11066,6 @@ use_preset_vocabulary: true
 䟿	loq
 爾	n	5%
 㬟	ven
-奢	shia	0%
 颬	ho
 拉	la	1%
 帉	fen
