@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.06.14"
+version: "2020.06.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2813,7 +2813,7 @@ use_preset_vocabulary: true
 散	se
 饊	se
 傘	se
-舍	se
+舍	se	5%
 罪	ze	0%
 才	ze
 財	ze
@@ -8231,7 +8231,7 @@ use_preset_vocabulary: true
 # 臭	shieu
 舄	siq
 舋	shin
-# 舍	soe
+舍	soe	1%
 舐	zy
 舖	phu
 舛	tshoe
@@ -22310,6 +22310,8 @@ use_preset_vocabulary: true
 宿營	soq yin
 宿疾	soq ziq
 宿舍	soq so
+宿舍	soq se
+宿舍	soq soe
 宿醉	soq tsoe
 寂悄
 寂照
