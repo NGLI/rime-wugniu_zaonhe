@@ -6705,7 +6705,7 @@ use_preset_vocabulary: true
 庠	zian
 庤	zy
 庥	shieu
-# 度	doq	0%
+度	doq	0%
 庳	bi
 廋	seu
 廎	chin
@@ -23772,8 +23772,8 @@ use_preset_vocabulary: true
 度理
 度身
 度電
-# 度君子	doq ciun tsy
-# 度君子	doq cion tsy
+度君子	doq ciun tsy
+度君子	doq cion tsy
 座兒	zu er
 座廁
 座臺
@@ -47563,3 +47563,38 @@ use_preset_vocabulary: true
 亨八冷	han paq lan
 鬍蘇	wu su
 牙蘇	nga su
+以己之心度人之心	i ci tsy sin doq gnin tsy sin
+以己之心度人之心	i ci tsy sin doq zen tsy sin
+以己度人	i ci doq gnin
+以己度人	i ci doq zen
+卜度	poq doq
+參度	tshoe doq
+品度	phin doq
+圖度	du doq
+審己度人	sen ci doq gnin
+審己度人	sen ci doq zen
+審度	sen doq
+審時度勢	sen zy doq sy
+度德量力	doq teq lian liq
+度長絜大	doq zan yiq du
+忖度	tshen doq
+想度	sian doq
+意度	i doq
+意度	i du
+推度	the doq
+揆度	gue doq
+揆情度理	gue zin doq li
+揣度	tshoe doq
+料度	liau doq
+測度	tsheq doq
+猜度	tshoe doq
+猜度	tshe doq
+籌度	zeu doq
+臆度	i doq
+落度	loq doq
+裁度	ze doq
+評度	bin doq
+量度	lian du
+量度	lian doq
+隨時度勢	zoe zy doq sy
+量時度力	lian zy doq liq
