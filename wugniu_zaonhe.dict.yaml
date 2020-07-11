@@ -8672,7 +8672,7 @@ use_preset_vocabulary: true
 讞	gni
 谿	chi
 # 豈	khe
-# 豎	sy
+豎	sy	0%
 豞	heu
 豨	shi
 豳	pin
@@ -30753,7 +30753,7 @@ use_preset_vocabulary: true
 橫裏向	wan li shian
 橫觀	wan kuoe
 橫豎	wan zy
-# 橫豎橫	wan sy wan
+橫豎橫	wan sy wan
 橫豎橫	wan zy wan
 橫財	wan ze
 橫貫	wan kue
