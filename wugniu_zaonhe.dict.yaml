@@ -3164,7 +3164,7 @@ use_preset_vocabulary: true
 脆	tshoe
 翠	tshoe
 萃	tshoe
-粹	tshoe	0%
+粹	tshoe
 瘁	tshoe
 慘	tshoe
 闡	tshoe
@@ -5533,7 +5533,7 @@ use_preset_vocabulary: true
 扼	ngeq
 兀	ngeq
 杌	ngeq
-核	ngeq
+核	ngeq	5%
 喝	heq
 赫	heq	0%
 郝	heq
@@ -5541,6 +5541,7 @@ use_preset_vocabulary: true
 合	gheq
 闔	gheq
 核	gheq
+覈	gheq
 閡	gheq
 劾	gheq
 遏	eq
@@ -7138,7 +7139,7 @@ use_preset_vocabulary: true
 # 栲	khau
 # 核	weq	0%
 # 核	gaq	0%
-覈	gaq
+# 覈	gaq
 # 桄	kuaon
 框	khuaon
 桉	oe
@@ -30214,9 +30215,9 @@ use_preset_vocabulary: true
 核酸
 核驗
 # 核帳	gaq tsan
-# 核苗頭	gaq moi deu
-# 覈苗頭	gaq moi deu
-覈帳	gaq tsan
+# 核苗頭	gaq miau deu
+# 覈苗頭	gaq miau deu
+# 覈帳	gaq tsan
 根株
 根機
 根蔓	ken me
@@ -39977,13 +39978,13 @@ use_preset_vocabulary: true
 # 蔓菁	moe tsin
 蔗田
 蔘茸
-# 蔚成	ue zen
-# 蔚爲	ue we
-# 蔚然	ue zoe
-# 蔚縣	ue yoe
-# 蔚色	ue seq
-# 蔚藍	ue le
-# 蔚起	ue chi
+蔚成	we zen
+蔚爲	we we
+蔚然	we zoe
+蔚縣	we yoe
+蔚色	we seq
+蔚藍	we le
+蔚起	we chi
 蔣家	tsian ka
 蔥爆	tshon bau
 蔥郁
