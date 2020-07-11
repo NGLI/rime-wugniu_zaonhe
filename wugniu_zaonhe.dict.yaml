@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.06.15"
+version: "2020.07.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -31200,12 +31200,12 @@ use_preset_vocabulary: true
 毀盡
 毀約	hue iaq
 毈命
-# 毋寧	vu gnin
-# 毋庸	vu yon
-# 毋忘	vu waon
-# 毋躁	vu tsau
-# 毋需	vu siu
-# 毋須	vu siu
+毋寧	wu gnin
+毋庸	wu yon
+毋忘	wu waon
+毋躁	wu tsau
+毋需	wu siu
+毋須	wu siu
 母女	mhu gniu
 母教	mhu ciau
 母校	mhu yau
