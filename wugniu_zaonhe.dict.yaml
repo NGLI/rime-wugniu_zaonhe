@@ -11369,7 +11369,7 @@ use_preset_vocabulary: true
 三峽	se yaq
 三幅
 三弟	se di
-三弦
+三絃
 三思	se sy
 三把火
 三拳兩腳
@@ -11839,7 +11839,7 @@ use_preset_vocabulary: true
 不周	peq tseu
 不和	peq wu
 不咎	peq jieu
-不咽	peq i
+不嚥	peq i
 不唯	peq vi
 不問	peq ven
 不啻	peq sy
@@ -12184,7 +12184,7 @@ use_preset_vocabulary: true
 世博會	sy poq we
 世嘉	sy cia
 世家	sy ka
-世界杯
+世界盃
 世相
 世行	sy ghaon
 世說	sy seq
@@ -12849,7 +12849,7 @@ use_preset_vocabulary: true
 二度	gni du
 二式	gni seq
 二弟	gni di
-二弦	gni yi
+二絃	gni yi
 二心	gni sin
 二房	gni vaon
 二手	gni seu
@@ -13998,7 +13998,7 @@ use_preset_vocabulary: true
 低映	ti ian
 低格
 低渦	ti u
-低濕
+低溼
 低着	ti zaq
 低聲	ti sen
 低能	ti nen
@@ -14386,7 +14386,7 @@ use_preset_vocabulary: true
 保得
 保息
 保收
-保濕
+保溼
 保理
 保甲	pau ciaq
 保真
@@ -14644,7 +14644,7 @@ use_preset_vocabulary: true
 假案	ka oe
 假條	ka diau
 假死	ka sy
-假煙	ka i
+假菸	ka i
 假爺頭	ka ya deu
 假牙	ka nga
 假痴假呆	ka tshy ka nge
@@ -15476,7 +15476,7 @@ use_preset_vocabulary: true
 公冶	kon yi
 公分	kon fen
 公務員	kon vu yoe
-公厘
+公釐
 公孫	kon sen
 公害	kon ghe
 公家	kon cia
@@ -17335,9 +17335,9 @@ use_preset_vocabulary: true
 卻變
 厄困
 厄普
-厘定
-厘正
-厘米
+釐定
+釐正
+釐米
 厚呢	gheu gni
 厚大	gheu da
 厚望	gheu maon
@@ -17861,7 +17861,7 @@ use_preset_vocabulary: true
 可望	khu maon
 可樂	khu loq
 可比	khu pi
-可濕
+可溼
 可爲
 可產
 可發
@@ -17916,7 +17916,7 @@ use_preset_vocabulary: true
 司南	sy noe
 司長	sy tsan
 司馬	sy mo
-叼煙
+叼菸
 叼着	tiau zaq
 叼起
 叼鑽促掐
@@ -18197,7 +18197,7 @@ use_preset_vocabulary: true
 君恩
 吞下	then gho
 吞剝
-吞咽	then i
+吞嚥	then i
 吞聲	then sen
 吞頭
 吞頭勢
@@ -18277,8 +18277,8 @@ use_preset_vocabulary: true
 吸了	shiq liau
 吸住	shiq zy
 吸毒	shiq doq
-吸濕
-吸煙
+吸溼
+吸菸
 吸着	shiq zaq
 吸頭
 吸食	shiq zeq
@@ -18467,7 +18467,7 @@ use_preset_vocabulary: true
 和合	wu gheq
 和它
 和對
-和弦
+和絃
 和成
 和會	wu we
 和樂	wu loq
@@ -18530,9 +18530,9 @@ use_preset_vocabulary: true
 咳血	kheq shiuq
 咳血	kheq shioq
 咸水
-咽下	i gho
-咽住	i zy
-咽哽	i kan
+嚥下	i gho
+咽住	iq zy
+咽哽	iq kan
 咽喉	i gheu
 咽炎	i yi
 咽頭	i deu
@@ -18552,7 +18552,7 @@ use_preset_vocabulary: true
 哀個辰光	e gheq zen kuaon
 哀叫	e ciau
 哀呼
-哀咽	e i
+哀咽	e iq
 哀哀
 哀哉	e tse
 哀啓
@@ -18668,7 +18668,7 @@ use_preset_vocabulary: true
 哭作臂把
 哭出烏拉	khoq tsheq u lha
 哭叫	khoq ciau
-哭咽	khoq i
+哭咽	khoq iq
 哭啼
 哭眼
 哭聲	khoq sen
@@ -18683,7 +18683,7 @@ use_preset_vocabulary: true
 哼唱	hen tshaon
 哼歌	hen ku
 哼着	hen zaq
-哽咽	kan i
+哽咽	kan iq
 哽塞	kan seq
 哽着	kan zaq
 唇吻
@@ -18881,9 +18881,9 @@ use_preset_vocabulary: true
 喀什	khaq zeq
 喀吧	khaq ba
 喂喂	ue ue
-喂得	ue teq
-喂畜	ue tshoq
-喂馬	ue mo
+餵得	ue teq
+餵畜	ue tshoq
+餵馬	ue mo
 善人	zoe gnin
 善哉	zoe tse
 善忘	zoe waon
@@ -18983,7 +18983,7 @@ use_preset_vocabulary: true
 喫掉
 喫水
 喫法
-喫煙
+喫菸
 喫的
 喫相
 喫着	chiq zaq
@@ -19057,7 +19057,7 @@ use_preset_vocabulary: true
 單幫	te paon
 單幹	te koe
 單座	te zu
-單弦	te yi
+單絃	te yi
 單弱	te zaq
 單張	te tsan
 單手	te seu
@@ -19142,11 +19142,11 @@ use_preset_vocabulary: true
 嗔怨	tshen ioe
 嗔怪	tshen kua
 嗔恚	tshen ue
-嗚咽	u i
+嗚咽	u iq
 嗚啦	u lha
 嗜喝	zy heq
 嗜喱
-嗜煙
+嗜菸
 嗜睡
 嗜飲
 嗟悔
@@ -19288,9 +19288,6 @@ use_preset_vocabulary: true
 嚡裏墶
 嚡裏搭
 嚡裏面
-嚥下	i gho
-嚥喉
-嚥頭
 嚦嚦
 嚴加	gni ka
 嚴州
@@ -20744,7 +20741,7 @@ use_preset_vocabulary: true
 大炮	da phau
 大炮	du phau
 大爲	da we
-大煙	da i
+大菸	da i
 大煠蟹	du zaq ha
 大燈	da ten
 大爺	da ya
@@ -21018,7 +21015,7 @@ use_preset_vocabulary: true
 太松
 太淡
 太淺	tha tshi
-太濕
+太溼
 太濫
 太爽
 太玄
@@ -22252,7 +22249,7 @@ use_preset_vocabulary: true
 家祠	ka zy
 家祭	ka tsi
 家禽	ka jin
-家私	ka sy
+傢俬	ka sy
 家系	ka yi
 家系	cia yi
 家累	cia le
@@ -22356,7 +22353,7 @@ use_preset_vocabulary: true
 寒宵
 寒微	ghoe vi
 寒毛凜凜
-寒煙
+寒菸
 寒痹
 寒舍	ghoe so
 寒苦	ghoe khu
@@ -22984,7 +22981,7 @@ use_preset_vocabulary: true
 尿桶	kniau don
 尿檢	kniau ci
 尿液	kniau yiq
-尿濕	kniau seq
+尿溼	kniau seq
 尿炕	kniau khaon
 尿素	kniau su
 尿脬	sy phau
@@ -23662,7 +23659,7 @@ use_preset_vocabulary: true
 幼齡
 幽人	ieu gnin
 幽光	ieu kuaon
-幽咽	ieu i
+幽咽	ieu iq
 幽夢	ieu maon
 幽嫻
 幽微	ieu vi
@@ -23867,7 +23864,7 @@ use_preset_vocabulary: true
 弄掉
 弄斷	lon doe
 弄死	lon sy
-弄濕
+弄溼
 弄火
 弄白相
 弄破	lon phu
@@ -23997,10 +23994,10 @@ use_preset_vocabulary: true
 弟新婦	di sin vu
 弦月	yi yuq
 弦月	yi yoq
-弦樂	yi yaq
-弦歌
-弦聲	yi sen
-弦音
+絃樂	yi yaq
+絃歌
+絃聲	yi sen
+絃音
 弧光	wu kuaon
 弧底
 弧月	wu yuq
@@ -24053,7 +24050,7 @@ use_preset_vocabulary: true
 強勢	jian sy
 強化	jian ho
 強取	jian tshiu
-強咽	jian i
+強嚥	jian i
 強嘴	jian tsy
 強固	jian ku
 強國	jian koq
@@ -24264,7 +24261,7 @@ use_preset_vocabulary: true
 很會	hen we
 很浮
 很淺	hen tshi
-很濕
+很溼
 很疏	hen su
 很白
 很硬
@@ -24909,12 +24906,12 @@ use_preset_vocabulary: true
 患苦	we khu
 您也	gnin gha
 您我
-悲咽	pe i
+悲咽	pe iq
 悲哉	pe tse
 悲壯	pe tsaon
 悲慘	pe tshoe
 悲戚
-悲淒
+悲悽
 悲烈
 悲痠
 悲苦	pe khu
@@ -25243,7 +25240,7 @@ use_preset_vocabulary: true
 慚作
 慢一眼
 慢了	me liau
-慢咽	me i
+慢嚥	me i
 慢慢叫	me me ciau
 慢條	me diau
 慢牛
@@ -25500,7 +25497,7 @@ use_preset_vocabulary: true
 戒掉
 戒條
 戒毒
-戒煙
+戒菸
 戒網
 戒護
 戒賭
@@ -25752,7 +25749,7 @@ use_preset_vocabulary: true
 打比	tan pi
 打滑跶	tan waq daq
 打漁
-打濕
+打溼
 打炮	tan phau
 打疊	tan diq
 打白客
@@ -26028,9 +26025,9 @@ use_preset_vocabulary: true
 抽千
 抽去	tsheu chi
 抽吸
-抽咽	tsheu i
+抽咽	tsheu iq
 抽查	tsheu zo
-抽煙
+抽菸
 抽牙
 抽球
 抽綠
@@ -26158,8 +26155,8 @@ use_preset_vocabulary: true
 拍照相
 拍馬	phaq mo
 拐子
-拐杖
-拐棍	kua kuen
+柺杖
+柺棍	kua kuen
 拒不	jiu peq
 拒繳	jiu ciau
 拒賄
@@ -26417,7 +26414,7 @@ use_preset_vocabulary: true
 挨着	e zaq
 挨罵	e mo
 挨肩擦背	a ci tshaq pe
-# 挨辰光	nga zen kuaon
+捱辰光	nga zen kuaon
 挨近	e jin
 挨過	e ku
 挨邊	e pi
@@ -26509,7 +26506,7 @@ use_preset_vocabulary: true
 捱苦	nga khu
 捱近
 捲子
-捲煙
+捲菸
 捲鬚	cioe siu
 捷轉頭
 捻軍	kni ciun
@@ -27160,7 +27157,7 @@ use_preset_vocabulary: true
 撥儂
 撥入
 撥叫	peq ciau
-撥弦
+撥絃
 撥我
 撥拉	peq lha
 撥河
@@ -27626,7 +27623,7 @@ use_preset_vocabulary: true
 敨開
 敬仰	cin knian
 敬挽
-敬煙
+敬菸
 敬祝	cin tsoq
 敬聘
 敲下	khau gho
@@ -27865,7 +27862,7 @@ use_preset_vocabulary: true
 斷定	doe din
 斷層	doe zen
 # 斷崖	doe nga
-斷弦	doe yi
+斷絃	doe yi
 斷後	doe gheu
 斷想	doe sian
 斷手	doe seu
@@ -28172,7 +28169,7 @@ use_preset_vocabulary: true
 旭日	shioq zeq
 旭日	shiuq zeq
 旱澇
-旱煙
+旱菸
 旱雷
 旱魔
 旱龍
@@ -28753,7 +28750,7 @@ use_preset_vocabulary: true
 曬圖	sa du
 曬場	sa zan
 曬成	sa zen
-曬煙	sa i
+曬菸	sa i
 曬種	sa tson
 曬臺	sa de
 曬藥	sa yaq
@@ -29914,7 +29911,7 @@ use_preset_vocabulary: true
 板是
 板板
 板桌
-板煙筒
+板菸筒
 板着	pe zaq
 板硬襯
 板脫
@@ -29931,7 +29928,7 @@ use_preset_vocabulary: true
 枕上
 枕在
 枕墊
-枕席
+枕蓆
 枕芯
 枕藉	tsen ziq
 林下	lin gho
@@ -31502,7 +31499,7 @@ use_preset_vocabulary: true
 汏頭	da deu
 汕大	se da
 汗毛淋淋
-汗濕
+汗溼
 汗背心	ghoe pe sin
 汗腳
 汗臭	ghoe tsheu
@@ -31786,7 +31783,7 @@ use_preset_vocabulary: true
 沾光	tsoe kuaon
 沾到
 沾染	tsoe gni
-沾濕
+沾溼
 沾衣
 沾黏
 沿兒	yi er
@@ -31936,7 +31933,7 @@ use_preset_vocabulary: true
 洋涇
 洋涇浜
 洋炮	yan phau
-洋煙
+洋菸
 洋白眼
 洋白頭
 洋籼米
@@ -32121,7 +32118,7 @@ use_preset_vocabulary: true
 浸於	tsin yu
 浸染	tsin gni
 浸滿
-浸濕
+浸溼
 涅波	gniq pu
 涅盤
 消亡	siau waon
@@ -32145,7 +32142,7 @@ use_preset_vocabulary: true
 液化	yiq ho
 涵蓋	ghoe ke
 涸乾	ghoq koe
-涼席
+涼蓆
 涼牀
 涼拌	lian boe
 涼月	lian yuq
@@ -32160,24 +32157,24 @@ use_preset_vocabulary: true
 涿雨	toq yu
 涿鹿	tsoq loq
 淋巴	lin pa
-淋濕
+淋溼
 淋管
 淋透
 淌出	thaon tsheq
 淌汗	thaon ghoe
 # 淌游	tshaon yeu
 淑女	zoq gniu
-淒切
-淒咽	tshi i
-淒婉
-淒惻
-淒慘	tshi tshoe
-淒楚
+悽切
+悽咽	tshi iq
+悽婉
+悽惻
+悽慘	tshi tshoe
+悽楚
 淒清
-淒然
-淒絕
-淒美
-淒苦	tshi khu
+悽然
+悽絕
+悽美
+悽苦	tshi khu
 淒豔
 淒迷
 淒風
@@ -32300,7 +32297,7 @@ use_preset_vocabulary: true
 淹死	i sy
 淹殺	i saq
 淹溺	i gniq
-淹濕
+淹溼
 淺學	tshi ghoq
 淺層	tshi zen
 淺易	tshi i
@@ -32547,7 +32544,7 @@ use_preset_vocabulary: true
 溫牀
 溫暾水
 溫服
-溫濕
+溫溼
 溫炕	uen khaon
 溫莎	uen so
 溫藥
@@ -32744,7 +32741,7 @@ use_preset_vocabulary: true
 潤了	zen liau
 潤唇
 潤澤	zen zeq
-潤濕
+潤溼
 潤燥
 潤物	zen veq
 潤綠
@@ -32754,7 +32751,7 @@ use_preset_vocabulary: true
 潭子	de tsy
 潭水	de sy
 潭頭	de deu
-潮濕
+潮溼
 潮熱
 潮紅	zau ghon
 潮聲	zau sen
@@ -32801,24 +32798,24 @@ use_preset_vocabulary: true
 濃湯	gnion thaon
 濃陰	gnion in
 濃霜
-濕了	seq liau
-濕土
-濕地
-濕墨
-濕婆
-濕度
-濕氣
-濕法
-濕潤
-濕疹
-濕的
-濕租
-濕軟
-濕透
+溼了	seq liau
+溼土
+溼地
+溼墨
+溼婆
+溼度
+溼氣
+溼法
+溼潤
+溼疹
+溼的
+溼租
+溼軟
+溼透
 濟南	tsi noe
 濟度
 濟慈
-濡濕
+濡溼
 濤哥
 濤聲	dau sen
 濤聲依舊	dau sen i jieu
@@ -32836,7 +32833,7 @@ use_preset_vocabulary: true
 濱江	pin kaon
 濺射	tsi zo
 濺溢
-濺濕
+濺溼
 濾膜
 瀆神	doq zen
 瀆職	doq tseq
@@ -33418,38 +33415,38 @@ use_preset_vocabulary: true
 煙上
 煙冷清清
 煙南	i noe
-煙味	i vi
-煙嘴
-煙墩
-煙捲
-煙斗
-煙杆
+菸味	i vi
+菸嘴
+菸墩
+菸捲
+菸斗
+菸杆
 煙村
 煙柳
 煙棒
-煙毒	i doq
-煙民
+菸毒	i doq
+菸民
 煙波	i pu
-煙灰
+菸灰
 煙熏
-煙癖
+菸癖
 煙窗
 煙紙
 煙紙店
-煙絲
-煙缸
-煙臭	i tsheu
-煙草
-煙葉	i yiq
-煙蒂
-煙袋
-煙農
-煙酒
-煙錢
+菸絲
+菸缸
+菸臭	i tsheu
+菸草
+菸葉	i yiq
+菸蒂
+菸袋
+菸農
+菸酒
+菸錢
 煙霞	i ia
 煙青
-煙頭
-煙鬼	i ciu
+菸頭
+菸鬼	i ciu
 煞住	saq zy
 煞口
 煞尾	saq vi
@@ -33629,7 +33626,7 @@ use_preset_vocabulary: true
 營生	yin sen
 營級
 營長	yin tsan
-燥濕
+燥溼
 燧石	zoe zaq
 燭光	tsoq kuaon
 燭淚	tsoq li
@@ -34190,7 +34187,7 @@ use_preset_vocabulary: true
 理虧	li khue
 理觀
 理解	li cia
-琴弦
+琴絃
 琴聲	jin sen
 琴調	jin diau
 琿春	hue tshen
@@ -36104,7 +36101,7 @@ use_preset_vocabulary: true
 禁娼
 禁戒	cin ka
 禁毒	cin doq
-禁煙
+禁菸
 禁物	cin veq
 禁辦
 禍害	wu ghe
@@ -36269,7 +36266,7 @@ use_preset_vocabulary: true
 種下	tson gho
 種些	tson si
 種是
-種煙
+種菸
 種瓜	tson ko
 種秧
 種羣
@@ -36623,7 +36620,7 @@ use_preset_vocabulary: true
 箍兒	ku er
 箍頭官腳
 箍頭紮腳
-箏弦
+箏絃
 箔條	boq diau
 算准
 算呀
@@ -36644,7 +36641,7 @@ use_preset_vocabulary: true
 管卡
 管家	kuoe ka
 管帳
-管弦
+管絃
 管教	kuoe ciau
 管樂	kuoe yaq
 管湧
@@ -36692,7 +36689,7 @@ use_preset_vocabulary: true
 篩選	sa si
 篷布
 篷車	bon tsho
-篾席
+篾蓆
 篾笆
 篾蓆
 簇居
@@ -36818,7 +36815,7 @@ use_preset_vocabulary: true
 精於	tsin yu
 精本
 精潮
-精濕
+精溼
 精瘦
 精白
 精的
@@ -37062,7 +37059,7 @@ use_preset_vocabulary: true
 紙厰
 紙撚
 紙條	tsy diau
-紙煙
+紙菸
 紙硯
 紙筋
 紙簍
@@ -37140,7 +37137,7 @@ use_preset_vocabulary: true
 細分	si fen
 細加	si ka
 細化	si ho
-細咽	si i
+細咽	si iq
 細器
 細土
 細帳
@@ -37222,7 +37219,7 @@ use_preset_vocabulary: true
 結夥	ciq hu
 結尾	ciq vi
 結巴	ciq pa
-結彩
+結綵
 結扣
 結棍	ciq kuen
 結欠
@@ -37305,7 +37302,7 @@ use_preset_vocabulary: true
 統禦
 統轄
 絲光	sy kuaon
-絲弦
+絲絃
 絲瓜	sy ko
 絲瓜筋	sy ko cin
 絲發
@@ -38022,7 +38019,7 @@ use_preset_vocabulary: true
 老幼稚
 老底子
 老弟	lau di
-老弦
+老絃
 老愛人	lau e gnin
 老戶頭
 老捨
@@ -38848,7 +38845,7 @@ use_preset_vocabulary: true
 腰胸
 腰腿
 腰裏
-腰酸
+腰痠
 腰間	iau ci
 腱鞘	ji siau
 腳下	ciaq gho
@@ -39525,7 +39522,7 @@ use_preset_vocabulary: true
 草尖
 草屋	tshau oq
 草屯	tshau den
-草席
+草蓆
 草庵
 草把
 草棚棚
@@ -39906,7 +39903,7 @@ use_preset_vocabulary: true
 葡京	bu cin
 董貞
 董雷
-葦席
+葦蓆
 葬花
 葷小菜
 蒔秧
@@ -43376,7 +43373,7 @@ use_preset_vocabulary: true
 這條	tseq diau
 這比	tseq pi
 這水
-這煙
+這菸
 這番	tseq fe
 這當
 這纔
@@ -44351,7 +44348,7 @@ use_preset_vocabulary: true
 銷假	siau ka
 銷價
 銷到
-銷煙
+銷菸
 銷燬
 # 銷鑠	siau saq
 鋁制
@@ -44954,7 +44951,7 @@ use_preset_vocabulary: true
 防滑	vaon waq
 防漏	vaon leu
 防潮	vaon zau
-防濕	vaon seq
+防溼	vaon seq
 防火	vaon hu
 防灰	vaon hue
 防災	vaon tse
@@ -45220,7 +45217,7 @@ use_preset_vocabulary: true
 除對
 除患
 除惡	zy oq
-除濕
+除溼
 除疑
 除臭	zy tsheu
 除舊
@@ -45289,7 +45286,7 @@ use_preset_vocabulary: true
 陰涼天氣	in lian thi chi
 陰涼頭	in lian deu
 陰溝洞
-陰濕	in seq
+陰溼	in seq
 陰爻	in yau
 陰狠	in hen
 陰私	in sy
@@ -45570,7 +45567,7 @@ use_preset_vocabulary: true
 雙屏	saon bin
 雙幅
 雙底
-雙拐
+雙柺
 雙搶	saon tshian
 雙日	saon gniq
 雙月	saon yuq
@@ -45669,7 +45666,7 @@ use_preset_vocabulary: true
 難住	ne zy
 難分	ne fen
 難卻
-難咽	ne i
+難嚥	ne i
 難啃
 難喫
 難如
@@ -46339,7 +46336,7 @@ use_preset_vocabulary: true
 風涼日腳	fon lian gniq ciaq
 風涼言話	fon lian ghe gho
 風涼鞋子
-風濕
+風溼
 風燭
 風球
 風聞	fon ven
@@ -46416,7 +46413,7 @@ use_preset_vocabulary: true
 食欲	zeq yuq
 食水	zeq sy
 食油	zeq yeu
-食煙	zeq i
+食菸	zeq i
 食物	zeq veq
 食用	zeq yon
 食療	zeq liau
@@ -46460,7 +46457,7 @@ use_preset_vocabulary: true
 飲食	in zeq
 飲馬	in mo
 飲鴆
-飼喂	zy ue
+飼餵	zy ue
 飽了	pau liau
 飽吸
 飽學	pau ghoq
@@ -47155,7 +47152,7 @@ use_preset_vocabulary: true
 鹵雞
 鹵鴨
 鹹味	ghe vi
-鹹濕
+鹹溼
 鹹酸飯
 鹹魚	ghe ng
 鹼化	ke ho
@@ -47364,7 +47361,7 @@ use_preset_vocabulary: true
 鼻污乾	biq u koe
 鼻涕水
 鼻涕蟲
-鼻煙
+鼻菸
 鼻甲
 鼻頭洞
 鼾聲	hoe sen
