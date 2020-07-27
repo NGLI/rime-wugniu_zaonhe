@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.07.11"
+version: "2020.07.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3556,7 +3556,7 @@ use_preset_vocabulary: true
 鮝	sian
 鯗	sian
 享	shian
-晌	sian
+響	shian
 饗	shian
 餉	sian
 嚮	shian
@@ -7062,7 +7062,7 @@ use_preset_vocabulary: true
 昴	mau
 昵	gniq
 # 昶	tshaon
-# 晌	san
+晌	san
 晗	ghoe
 晞	shi
 晟	zen
@@ -9179,7 +9179,6 @@ use_preset_vocabulary: true
 韍	feq
 韞	iun
 韞	ion
-響	shian
 頇	hoe
 頊	shioq
 頏	khaon
@@ -28501,7 +28500,7 @@ use_preset_vocabulary: true
 晉見	tsin ci
 晉語
 晉陞
-# 晌午	san wu
+晌午	san wu
 晌心
 晌飯
 晏嬰	i in
