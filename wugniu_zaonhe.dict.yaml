@@ -20,6 +20,7 @@
 ---
 name: wugniu_zaonhe
 version: "2020.07.27"
+version: "2020.11.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -45171,18 +45172,18 @@ use_preset_vocabulary: true
 陛下	bi gho
 陝北	soe poq
 陝南	soe noe
-陞任	sen zen
-陞位
-陞學	sen ghoq
-陞官
-陞格
-陞檔
-陞爲
-陞級
-陞職
-陞讀	sen doq
-陞遷
-陞限
+升任	sen zen
+升位
+升學	sen ghoq
+升官
+升格
+升檔
+升爲
+升級
+升職
+升讀	sen doq
+升遷
+升限
 陡急
 陡昇
 院中
