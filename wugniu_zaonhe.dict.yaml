@@ -19,7 +19,6 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.07.27"
 version: "2020.11.29"
 sort: by_weight
 use_preset_vocabulary: true
@@ -16806,7 +16805,6 @@ use_preset_vocabulary: true
 化境	ho cin
 化外	ho nga
 化妝	ho tsaon
-化學	ho ghoq
 化學	ho yaq
 化導	ho dau
 化工	ho kon
@@ -17895,6 +17893,7 @@ use_preset_vocabulary: true
 史事
 史地
 史學	sy ghoq
+史學	sy yaq
 史家	sy ka
 史稱
 史跡
@@ -18675,6 +18674,7 @@ use_preset_vocabulary: true
 哭聲	khoq sen
 哲人	tseq gnin
 哲學	tseq ghoq
+哲學	tseq yaq
 哲思	tseq sy
 哼一句	hen iq ciu
 哼了	hen liau
@@ -19483,6 +19483,7 @@ use_preset_vocabulary: true
 國圖
 國大	koq da
 國學	koq ghoq
+國學	koq yaq
 國家	koq cia
 國平
 國強	koq jian
@@ -27720,6 +27721,7 @@ use_preset_vocabulary: true
 文場	ven zan
 文契	ven chi
 文學	ven ghoq
+文學	ven yaq
 文思	ven sy
 文戲	ven shi
 文教	ven ciau
@@ -27801,6 +27803,7 @@ use_preset_vocabulary: true
 新大	sin da
 新娘娘
 新學	sin ghoq
+新學	sin yaq
 新官上任	sin kuoe zaon zen
 新官人	sin kuoe gnin
 新家	sin ka
@@ -32692,6 +32695,7 @@ use_preset_vocabulary: true
 漢奸	hoe ke
 漢姆	hoe mh
 漢學	hoe ghoq
+漢學	hoe yaq
 漢朝	hoe zau
 漢江	hoe kaon
 漢網
@@ -36060,6 +36064,7 @@ use_preset_vocabulary: true
 神女	zen gniu
 神妖鬼怪	zen iau ciu kua
 神學	zen ghoq
+神學	zen yaq
 神將	zen tsian
 神工
 神志無主	zen tsy wu tsy
@@ -36116,6 +36121,7 @@ use_preset_vocabulary: true
 禦旨
 禪境
 禪學	zoe ghoq
+禪學	zoe yaq
 禪法
 禪系
 禪語
@@ -36937,6 +36943,7 @@ use_preset_vocabulary: true
 紅嫩	ghon nen
 紅字	ghon zy
 紅學	ghon ghoq
+紅學	ghon yaq
 紅客	ghon khaq
 紅巖	ghon nge
 紅布	ghon pu
@@ -37828,6 +37835,7 @@ use_preset_vocabulary: true
 美媚
 美孚
 美學	mhe ghoq
+美學	mhe yaq
 美差	mhe tsho
 美帝
 美惡	mhe oq
@@ -44115,6 +44123,7 @@ use_preset_vocabulary: true
 醫壇
 醫大	i da
 醫學	i ghoq
+醫學	i yaq
 醫家	i ka
 醫王
 醫生	i san
