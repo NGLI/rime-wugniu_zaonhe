@@ -138,7 +138,7 @@ stroke:
 custom_phrase:
   dictionary: ""
   user_dict: custom_phrase # 用戶詞典名
-  db_class: stabledb       # 詞典類型爲文本格式
+  db_class: stabledb       # 詞典類型爲只讀格式
   enable_completion: false
   enable_sentence: false
   initial_quality: 1

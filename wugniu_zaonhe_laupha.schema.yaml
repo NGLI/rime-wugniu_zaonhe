@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_zaonhe_laupha
   name: 吳語（上海老派）
-  version: "0.2.0"
+  version: "0.2.1"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
     - Electric Sheep <shinzoqchiuq@outlook.com> (schema)
@@ -123,7 +123,7 @@ stroke:
 custom_phrase:
   dictionary: ""
   user_dict: custom_phrase # 用戶詞典名
-  db_class: stabledb       # 詞典類型爲文本格式
+  db_class: stabledb       # 詞典類型爲只讀格式
   enable_completion: false
   enable_sentence: false
   initial_quality: 1
