@@ -30,6 +30,7 @@
 - [模糊音](https://ngli.github.io/使用/模糊音.html)
 - [輸入提示](https://ngli.github.io/使用/输入提示.html)
 - [反查](https://ngli.github.io/使用/反查.html)
+- [自定義短語](https://ngli.github.io/使用/自定义短语.html)
 
 ## 參考資料
 
