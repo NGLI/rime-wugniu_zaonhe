@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_zaonhe_laupha
   name: 吳語（上海老派）
-  version: "0.2.1"
+  version: "0.3.0"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
     - Electric Sheep <shinzoqchiuq@outlook.com> (schema)
@@ -82,10 +82,6 @@ speller:
     - derive/oe/eo/
     # 容錯 ao => oa
     - derive/ao/oa/
-    # 容錯 y- => ghi-
-    - derive/yi|y(?=[aeou])/ghi/
-    # 容錯 w- => ghu-
-    - derive/wu|w(?=[aeo])/ghu/
 
 # 主翻譯器 吳拼
 translator:
