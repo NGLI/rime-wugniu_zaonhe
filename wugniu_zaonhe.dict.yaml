@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2020.11.29"
+version: "2022.01.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -563,7 +563,7 @@ use_preset_vocabulary: true
 劑	tsi
 計	ci
 繼	ci
-系	ci
+繫	ci	1%
 寄	ci
 冀	ci
 驥	ci
@@ -8090,7 +8090,6 @@ use_preset_vocabulary: true
 繒	tsen
 # 織	tsiq	0%
 # 織	tsy	0%
-繫	ci
 繫	yi
 繫	shi
 繯	we
@@ -19212,6 +19211,7 @@ use_preset_vocabulary: true
 嘸啥幾時	m sa ci zy
 嘸啥話頭	m sa gho deu
 嘸啥關係	m sa kue yi
+嘸啥關係	m sa kue shi
 嘸大嘸小	m du m siau
 嘸心想	m sin sian
 嘸戲唱	m shi tshaon
@@ -19221,6 +19221,7 @@ use_preset_vocabulary: true
 嘸沒勒	m meq leq
 嘸沒言話	m meq ghe gho
 嘸沒關係	m meq kue yi
+嘸沒關係	m meq kue shi
 嘸清頭	m tshin deu
 嘸纏頭	m zoe deu
 嘸腳蟹	m ciaq ha
@@ -38328,10 +38329,8 @@ use_preset_vocabulary: true
 聯奏
 聯會	li we
 聯衆
-聯系	li shi
-聯係	li shi
 聯線
-聯繫	li yi
+聯繫	li shi
 聯華	li gho
 聯覺	li cioq
 聯覺	li ciuq
@@ -44925,7 +44924,7 @@ use_preset_vocabulary: true
 關懷	kue we
 關於	kue yu
 關係	kue shi
-關繫	kue shi
+關係	kue yi
 關禁
 關脫
 關防	kue vaon
@@ -47605,3 +47604,4 @@ use_preset_vocabulary: true
 量度	lian doq
 隨時度勢	zoe zy doq sy
 量時度力	lian zy doq liq
+係數	yi su
