@@ -17,15 +17,15 @@
 
 [rime-wugniu_zaonhe Wiki](https://github.com/NGLI/rime-wugniu_zaonhe/wiki)
 
-## 安裝方法
+## [安裝方法](https://ngli.github.io/安装方法/安装方法.html)
 
-- [Windows](https://ngli.github.io/安装方法/Windows.html)
+- [Windows](https://ngli.github.io/安装方法/Windows.html)（[視頻](https://www.bilibili.com/video/BV1db411S7gf)）
 - [macOS](https://ngli.github.io/安装方法/macOS.html)
 - [Linux](https://ngli.github.io/安装方法/Linux.html)
 - [Android](https://ngli.github.io/安装方法/Android.html)
 - [iOS](https://ngli.github.io/安装方法/iOS.html)
 
-## 使用
+## [使用](https://ngli.github.io/使用/使用.html)
 
 - [模糊音](https://ngli.github.io/使用/模糊音.html)
 - [輸入提示](https://ngli.github.io/使用/输入提示.html)
