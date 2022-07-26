@@ -4,13 +4,13 @@
 schema:
   schema_id: wugniu_zaonhe
   name: 吳語（上海）
-  version: "0.35"
+  version: "0.36"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
     - 神死慟瞑 <411325365@qq.com> (dict)
     - 沪语角 <930702500@qq.com> (dict)
     - 雪心居士 <sihsin@live.com> (schema)
-    - Electric Sheep <shinzoqchiuq@outlook.com> (dict, schema)
+    - Shin Zoqchiuq <shinzoqchiuq@outlook.com> (dict, schema)
   description: |
     採用學堂式吳語拼音
     上海中派（分尖團）
