@@ -50,6 +50,16 @@
 
 https://www.wugniu.com/
 
+## 其他輸入方案
+
+- [上海話輸入方案（錢拼、滬二、法吳、NRSS）](https://github.com/shinzoqchiuq/rime-shanghainese)
+  將本倉庫的上海（中派）輸入方案轉寫爲另外四種拼音方案（錢拼、滬二、法吳、NRSS）。
+- [Rime 吳語輸入方案](https://github.com/rime/rime-wugniu)
+  使用吳語拉丁式注音法（法吳）的上海話輸入方案，音系爲人造上海話音系，與歷史上存在過的任一上海話口音均不相同。
+- [吳語協會式上海話輸入法](https://github.com/wugniu/rime-yahwe_zaonhe)
+  將 [Rime 吳語輸入方案](https://github.com/rime/rime-wugniu) 改爲吳語協會式拼音，並合入了松江話輸入方案中的詞彙。
+
+
 ## 鳴謝
 
 - [Rime](https://rime.im/)
