@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2022.01.04"
+version: "2023.02.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -813,7 +813,7 @@ use_preset_vocabulary: true
 漩	zi
 奚	yi
 系	yi
-伊	yi	0%
+伊	yi	90000
 移	yi
 簃	yi
 姨	yi
@@ -873,7 +873,7 @@ use_preset_vocabulary: true
 又	yi	0%
 漪	i
 猗	i
-伊	i
+伊	i	4667
 醫	i
 依	i
 衣	i
