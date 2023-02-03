@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2023.02.02"
+version: "2023.02.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -444,7 +444,7 @@ use_preset_vocabulary: true
 殿	di
 澱	di
 淀	di
-鈿	di
+鈿	di	10000
 佃	di
 甸	di
 靛	di
@@ -538,7 +538,7 @@ use_preset_vocabulary: true
 尖	tsi
 殲	tsi
 兼	ci
-搛	ci
+搛	ci	5000
 蒹	ci
 艱	ci
 間	ci
@@ -1295,7 +1295,7 @@ use_preset_vocabulary: true
 塢	u
 唩	u
 午	u	5%
-涴	u
+涴	u	2000
 驢	liu
 閭	liu
 櫚	liu
@@ -1491,7 +1491,7 @@ use_preset_vocabulary: true
 哪	na
 奶	na
 艿	na
-㑚	na
+㑚	na	90000
 拉	lha
 喇	la
 垃	la
@@ -1768,7 +1768,7 @@ use_preset_vocabulary: true
 捨	so
 赦	so
 曬	so
-茶	zo
+茶	zo	10000
 搽	zo
 查	zo
 乍	zo
@@ -2354,7 +2354,7 @@ use_preset_vocabulary: true
 受	zeu
 綬	zeu
 授	zeu
-壽	zeu
+壽	zeu	3000
 柔	zeu
 揉	zeu
 蹂	zeu
@@ -2651,7 +2651,7 @@ use_preset_vocabulary: true
 推	the
 胎	the
 苔	the
-坍	the
+坍	the	1257
 攤	the
 灘	the
 癱	the
@@ -2920,7 +2920,7 @@ use_preset_vocabulary: true
 曖	e
 璦	e
 隘	e
-晏	e
+晏	e	10000
 監	cie
 奸	cie
 艦	cie
@@ -3107,8 +3107,8 @@ use_preset_vocabulary: true
 段	doe
 緞	doe
 篿	doe
-囡	nhoe
-囡	noe
+囡	nhoe	1000
+囡	noe	1000
 男	noe
 南	noe
 楠	noe
@@ -3701,7 +3701,7 @@ use_preset_vocabulary: true
 朗	laon
 浪	laon
 螂	laon
-㫰	laon
+㫰	laon	1000
 𧻴	laon
 臧	tsaon
 贓	tsaon
@@ -3781,7 +3781,7 @@ use_preset_vocabulary: true
 崗	kaon
 杠	kaon
 槓	kaon
-講	kaon
+講	kaon	170166
 降	kaon
 虹	kaon
 康	khaon
@@ -3794,7 +3794,7 @@ use_preset_vocabulary: true
 伉	khaon
 吭	khaon
 囥	khaon
-戇	gaon
+戇	gaon	1000
 昂	ngaon
 𩠾	haon
 行	ghaon
@@ -4224,7 +4224,7 @@ use_preset_vocabulary: true
 盯	tin
 仃	tin
 疔	tin
-頂	tin
+頂	tin	60000
 鼎	tin
 酊	tin
 訂	tin
@@ -4440,7 +4440,7 @@ use_preset_vocabulary: true
 秦	zin
 盡	zin
 燼	zin
-尋	zin
+尋	zin	78886
 潯	zin
 巡	zin
 循	zin
@@ -4520,7 +4520,7 @@ use_preset_vocabulary: true
 鯤	khuen
 捆	khuen
 困	khuen
-睏	khuen
+睏	khuen	20000
 婚	huen
 昏	huen
 葷	huen
@@ -4647,9 +4647,9 @@ use_preset_vocabulary: true
 農	non
 膿	non
 齈	non
-儂	non
+儂	non	775056
 弄	lhon
-弄	lon
+弄	lon	40736
 籠	lon
 聾	lon
 礱	lon
@@ -5003,7 +5003,7 @@ use_preset_vocabulary: true
 掐	khaq
 恰	khaq
 客	khaq
-軋	gaq
+軋	gaq	5000
 額	ngaq
 齾	ngaq
 瞎	haq
@@ -5372,10 +5372,10 @@ use_preset_vocabulary: true
 聿	yoq
 鬱	ioq
 郁	ioq
-不	peq
+不	peq	100000
 缽	peq
 鉢	peq
-撥	peq
+撥	peq	331919
 潑	pheq
 鼻	beq
 鈸	beq
@@ -5396,16 +5396,16 @@ use_preset_vocabulary: true
 物	meq
 佛	feq
 佛	veq
-弗	veq
+弗	veq	590801
 拂	veq
 物	veq
-勿	veq
+勿	veq	100000
 氟	veq
 得	teq
 德	teq
 掇	teq
 裰	teq
-忒	theq
+忒	theq	48020
 脫	theq
 禿	theq
 特	deq
