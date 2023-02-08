@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2023.02.03"
+version: "2023.02.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -13558,6 +13558,7 @@ use_preset_vocabulary: true
 今日	cin gniq
 今是
 今晚	cin ue
+今朝	cin tsau
 今朝仔	cin tsau tsy
 今期	cin ji
 今生	cin sen
@@ -28253,8 +28254,9 @@ use_preset_vocabulary: true
 明晚	min ue
 明月	min yuq
 明月	min yoq
+明朝	min tsau
+明朝	min zau
 明朝	men tsau
-明朝	men zau
 明朝仔	min tsau tsy
 明朝仔	men tsau tsy
 明朝會	min tsau we
