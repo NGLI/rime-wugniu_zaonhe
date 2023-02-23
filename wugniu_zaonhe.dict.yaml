@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2023.02.08"
+version: "2023.02.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1009,7 +1009,7 @@ use_preset_vocabulary: true
 附	vu
 駙	vu
 婦	vu
-負	vu	0%
+負	vu
 阜	vu
 伏	vu
 孵	vu
@@ -12105,7 +12105,7 @@ use_preset_vocabulary: true
 不讓	peq gnian
 不象	peq zian
 不貞	peq tsen
-不負	peq veu
+不負
 不費	peq fi
 不走	peq tseu
 不起	peq chi
@@ -16648,7 +16648,7 @@ use_preset_vocabulary: true
 勝於	sen yu
 勝景	sen cin
 勝朝	sen zau
-勝負	sen veu
+勝負
 勞倦
 勞動大姐	lau don da tsia
 勞動大姐	lau don da tsi
@@ -18399,7 +18399,7 @@ use_preset_vocabulary: true
 告缺
 告罪	kau zoe
 告訴我
-告負	kau veu
+告負
 告運
 呢喃	gni noe
 呢噥	gni non
@@ -23102,7 +23102,7 @@ use_preset_vocabulary: true
 屢獲
 屢經
 屢試
-屢負	liu veu
+屢負
 層排
 層數
 層疊	zen diq
@@ -25331,7 +25331,7 @@ use_preset_vocabulary: true
 應能	in nen
 應許	in shiu
 應該講	in ke kaon
-應負	in veu
+應負
 應身
 懊憦
 懦夫	nu fu
@@ -25996,7 +25996,7 @@ use_preset_vocabulary: true
 抱撼
 抱着	bau zaq
 抱裙
-抱負	bau veu
+抱負
 抲魚	kho ng
 抵京
 抵估
@@ -27238,7 +27238,7 @@ use_preset_vocabulary: true
 擔老
 擔肩胛	te ci kaq
 擔菜
-擔負	te veu
+擔負
 擗筋
 據他
 據查	ciu zo
@@ -28975,7 +28975,7 @@ use_preset_vocabulary: true
 最聽
 最能	tsoe nen
 最薄	tsoe boq
-最負	tsoe veu
+最負
 最貴	tsoe ciu
 最醜
 最長	tsoe zan
@@ -30855,7 +30855,7 @@ use_preset_vocabulary: true
 欺生	chi san
 欺瞞	chi moe
 欺蒙
-欺負	chi veu
+欺負	chi vu
 欺軟
 欽仰	chin knian
 欽差	chin tsha
@@ -32381,7 +32381,7 @@ use_preset_vocabulary: true
 減肥	ke vi
 減虧	ke khue
 減讓
-減負	ke veu
+減負
 渠慣
 渡橋
 渡江	du kaon
@@ -36238,7 +36238,7 @@ use_preset_vocabulary: true
 稀粥	shi tsoq
 稀薄	shi boq
 稅率	soe liq
-稅負	soe veu
+稅負
 稅費	soe fi
 稅項
 程朱	zen tsy
@@ -38561,7 +38561,7 @@ use_preset_vocabulary: true
 肩挑
 肩胛	ci kaq
 肩膀	ci paon
-肩負	ci veu
+肩負
 肪櫥
 肯去	khen chi
 肯於	khen yu
@@ -38626,7 +38626,7 @@ use_preset_vocabulary: true
 背角	pe koq
 背誦	be zon
 背書	be sy
-背負	pe veu
+背負
 背起	pe chi
 背運	pe yun
 背運	pe yon
@@ -39085,7 +39085,7 @@ use_preset_vocabulary: true
 自謂
 自譴
 自豪感	zy ghau koe
-自負	zy veu
+自負
 自責	zy tseq
 自費	zy fi
 自造
@@ -39607,7 +39607,7 @@ use_preset_vocabulary: true
 莫要
 莫說	moq seq
 莫讓
-莫負	moq veu
+莫負
 莫鬧
 莽夫	maon fu
 菁華	tsin gho
@@ -40215,7 +40215,7 @@ use_preset_vocabulary: true
 虧空	khue khon
 虧累	khue le
 虧耗	khue hau
-虧負	khue veu
+虧負
 虯勁	jieu cin
 虯枝	jieu tsy
 虯毛
@@ -40856,7 +40856,7 @@ use_preset_vocabulary: true
 要誰
 要講	iau kaon
 要變
-要負	iau veu
+要負
 要貨
 要轉
 要這
@@ -42057,42 +42057,41 @@ use_preset_vocabulary: true
 貝拉	pe lha
 貝納
 貞淑
-負上	veu zaon
+負上
 負值	veu zeq
-負債	veu tsa
-負傷	veu saon
-負屈	veu chiuq
-負屈	veu chioq
-負心	veu sin
-負情	veu zin
-負擔	veu te
+負債
+負傷
+負屈
+負心
+負情
+負擔
 負數	veu su
-負方	veu faon
-負於	veu yu
-負有	veu yeu
-負案	veu oe
-負極	veu jiq
-負欠	veu chi
-負氣	veu chi
-負片	veu phi
-負疚	veu cieu
-負的	veu tiq
-負笈	veu jiq
-負約	veu iaq
-負累	veu le
-負罪	veu zoe
-負義	veu gni
-負荊	veu cin
-負荷	veu wu
-負薪	veu sin
-負號	veu ghau
-負責	veu tseq
-負起	veu chi
-負載	veu tse
-負重	veu zon
-負隅	veu gniu
-負電	veu di
-負面	veu mi
+負方
+負於
+負有
+負案
+負極
+負欠
+負氣
+負片
+負疚
+負的
+負笈
+負約
+負累
+負罪
+負義
+負荊
+負荷
+負薪
+負號
+負責
+負起
+負載
+負重
+負隅
+負電
+負面
 財大	ze da
 財會	ze we
 財爻
@@ -42724,7 +42723,7 @@ use_preset_vocabulary: true
 身相
 身纏
 身胚
-身負	sen veu
+身負
 身退
 身長	sen zan
 身陷	sen ghe
@@ -43068,7 +43067,7 @@ use_preset_vocabulary: true
 辛烯
 辛烷
 辛苦	sin khu
-辜負	ku veu
+辜負
 辟啪
 辟支
 # 辟邪	piq zia
@@ -43479,7 +43478,7 @@ use_preset_vocabulary: true
 連衫褲
 連襠碼子
 連讀	li doq
-連負	li veu
+連負
 連軸
 連那
 連長	li tsan
@@ -44175,7 +44174,7 @@ use_preset_vocabulary: true
 重紐
 重罪	zon zoe
 重讀	zon doq
-重負	zon veu
+重負
 重責	zon tseq
 重陽糕
 重韻
@@ -46201,7 +46200,7 @@ use_preset_vocabulary: true
 頗覺	phu cioq
 頗覺	phu ciuq
 頗讓
-頗負	phu veu
+頗負
 頗費	phu fi
 領司
 領圈	lin chioe
@@ -46698,7 +46697,7 @@ use_preset_vocabulary: true
 馮婦	von vu
 馮特	von deq
 馮鞏	von kon
-馱負	du veu
+馱負
 馴化	shiun ho
 馴化	shion ho
 馴獸
