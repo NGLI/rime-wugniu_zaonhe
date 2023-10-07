@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2023.02.23"
+version: "2023.10.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -46008,7 +46008,7 @@ use_preset_vocabulary: true
 # 面頰	mi kaq
 面顴
 面顴骨
-# 革頻道	kaq bin dau
+革頻道	kaq bin dau
 革去	keq chi
 革命	keq min
 革履	keq liu
