@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2023.10.07"
+version: "2023.11.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4642,13 +4642,13 @@ use_preset_vocabulary: true
 慟	don
 侗	don
 烔	don
-弄	nhon	0%
-弄	non	0%
+弄	nhon	1%
+弄	non	5%
 農	non
 膿	non
 齈	non
 儂	non	775056
-弄	lhon
+弄	lhon	5%
 弄	lon	40736
 籠	lon
 聾	lon
