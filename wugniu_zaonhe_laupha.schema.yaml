@@ -22,7 +22,7 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: simplification
+  - name: wugniu_zaonhe_simp
     reset: 1
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
@@ -129,6 +129,9 @@ reverse_lookup:
   tags: [luna_pinyin, stroke]      # 掛在翻譯器luna_pinyin和stroke上
   overwrite_comment: true          # 覆蓋其他提示
   dictionary: wugniu_zaonhe_laupha # 反查所得爲吳拼
+
+simplifier:
+  option_name: wugniu_zaonhe_simp
 
 punctuator:
   import_preset: symbols # 句讀處理器，統一從外部導入
