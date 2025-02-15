@@ -4,7 +4,7 @@
 schema:
   schema_id: wugniu_zaonhe_laupha
   name: 吳語（上海老派）
-  version: "0.3.1"
+  version: "0.3.2"
   author:
     - 吳飛得 <fededemarco@gmail.com> (dict)
     - Shin Zoqchiuq <shinzoqchiuq@outlook.com> (schema)
