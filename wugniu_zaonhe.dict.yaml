@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2025.02.15"
+version: "2026.01.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -10952,7 +10952,7 @@ use_preset_vocabulary: true
 夂	tson
 灬	piau
 厃	yi
-廈	sa
+# 廈	sa
 渳	mhi
 攞	lhu
 儾	nhaon
@@ -20628,7 +20628,7 @@ use_preset_vocabulary: true
 大度	da du
 大廈	da gho
 大廈	da shia
-大廈	da sa
+# 大廈	da sa
 大廚	du zy
 大厰	du tshan
 大廳	du thin
@@ -47526,7 +47526,7 @@ use_preset_vocabulary: true
 漨浡	bon beq
 商廈	saon gho
 商廈	saon shia
-商廈	saon sa
+# 商廈	saon sa
 渳老酒	mhi lau tsieu
 醪酒	lau tsieu
 浪漫	laon me
