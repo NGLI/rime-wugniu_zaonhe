@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2026.01.07"
+version: "2026.01.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -22406,9 +22406,13 @@ use_preset_vocabulary: true
 寧夏	gnin gho
 寧心
 寧日	gnin zeq
+寧波	gnin pu
 寧波	gnin poq
+寧波人	gnin pu gnin
 寧波人	gnin poq gnin
+寧波言話	gnin pu ghe gho
 寧波言話	gnin poq ghe gho
+寧波灘黃	gnin pu the waon
 寧波灘黃	gnin poq the waon
 寧神
 審問	sen men
