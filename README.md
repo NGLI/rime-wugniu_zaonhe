@@ -74,5 +74,5 @@ https://www.wugniu.com/
 [吳語學堂](https://www.wugniu.com/)：
 
 - QQ羣：955201855
-- 微信公衆號：wugniu_com
+- 微信公衆號 / 抖音號 / 小紅書號：wugniu_com
 - 微博：[吴语学堂微博](https://weibo.com/u/6541762299)
