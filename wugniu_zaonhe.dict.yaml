@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2026.01.12"
+version: "2026.03.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6746,7 +6746,8 @@ use_preset_vocabulary: true
 # 徘	ba
 徜	zaon
 徠	le
-# 微	mhi	0%
+微	mhi	0%
+微	mi	0%
 # 徵	tsy	0%
 徼	ciau
 忉	tau
@@ -24468,6 +24469,10 @@ use_preset_vocabulary: true
 微幅	vi foq
 微弱	vi zaq
 微微	vi vi
+微微小	mhi mhi siau
+微微小	mi mi siau
+微微大	mhi mhi du
+微微頭	mhi mhi deu
 微恙	vi yan
 微息	vi siq
 微明	vi min
