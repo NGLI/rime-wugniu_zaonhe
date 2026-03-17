@@ -8252,7 +8252,7 @@ use_preset_vocabulary: true
 艤	gni
 艨	mon
 艫	lu
-# 艮	gen
+艮	gen	0%
 艴	beq
 艽	jieu
 艽	kau
@@ -24248,8 +24248,8 @@ use_preset_vocabulary: true
 待查	de zo
 待薄	de boq
 待辦
-# 很脾氣	gen bi chi
-# 很頭脾氣	gen deu bi chi
+艮脾氣	gen bi chi
+艮頭脾氣	gen deu bi chi
 很不	hen peq
 很亂
 很了	hen liau
@@ -38280,7 +38280,7 @@ use_preset_vocabulary: true
 耿介	ken ka
 耿直	ken zeq
 耿耿	ken ken
-# 耿頭耿腦	gen deu gen nau
+艮頭艮腦	gen deu gen nau
 聆教	lin ciau
 聊了	liau liau
 聊生	liau sen
