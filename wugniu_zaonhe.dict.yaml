@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2026.03.17"
+version: "2026.03.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8324,7 +8324,7 @@ use_preset_vocabulary: true
 莞	woe
 # 莢	kaq
 莨	laon
-莨	liaon
+# 莨	liaon
 莪	ngu
 莰	khe
 # 菀	iuq
@@ -40076,7 +40076,7 @@ use_preset_vocabulary: true
 薩芬
 薪炭
 薯條	zy diau
-薯莨	zy liaon
+# 薯莨	zy liaon
 薯蕷
 薰染	shiun gni
 薰染	shion gni
