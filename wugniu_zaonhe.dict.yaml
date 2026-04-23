@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2026.03.26"
+version: "2026.04.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7877,7 +7877,7 @@ use_preset_vocabulary: true
 碣	jiq
 碣	iaq
 碥	pi
-# 碰	phan	0%
+碰	phan	0%
 碱	ke
 碲	ti
 碴	za
@@ -26685,12 +26685,18 @@ use_preset_vocabulary: true
 掰來掰去	pe le pe chi
 掰出來
 掽僵
-掽勿攏
+掽弗攏	phan veq lon
+掽勿攏	phan veq lon
+碰弗攏	phan veq lon
+碰勿攏	phan veq lon
+掽攏來	phan lon le
+碰攏來	phan lon le
 掽杯
 掽檯子
 掽檯落凳
 掽釘子
 掽頂
+碰頂	phan tin
 揀了	ke liau
 揀嘴	ke tsy
 揀擇	ke zeq
@@ -35877,6 +35883,8 @@ use_preset_vocabulary: true
 硬強	ngan jian
 硬拚	ngan phin
 硬掽硬
+硬碰硬	ngan ban ngan
+硬碰硬	ngan phan ngan
 硬撼
 硬橫	ngan wan
 硬着	ngan zaq
