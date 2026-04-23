@@ -11069,6 +11069,7 @@ use_preset_vocabulary: true
 颬	ho
 拉	la	1%
 帉	fen
+眉	me	0%
 
 # 詞彙
 
@@ -47424,7 +47425,7 @@ use_preset_vocabulary: true
 齊物	zi veq
 齊王	zi waon
 齊發	zi faq
-齊眉	zi mi
+齊眉	zi me
 齊耳	zi er
 齊聚	zi ziu
 齊聲	zi sen
@@ -47627,3 +47628,5 @@ use_preset_vocabulary: true
 隨時度勢	zoe zy doq sy
 量時度力	lian zy doq liq
 係數	yi su
+畫眉鳥	gho me kniau
+畫眉	gho me
