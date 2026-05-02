@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2026.04.23"
+version: "2026.05.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -47630,3 +47630,5 @@ use_preset_vocabulary: true
 係數	yi su
 畫眉鳥	gho me kniau
 畫眉	gho me
+孛萄
+孛孛跳
