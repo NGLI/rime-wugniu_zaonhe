@@ -13,9 +13,11 @@
 
 - [Rime 吳語輸入方案](https://github.com/rime/rime-wugniu)
 
-## 幫助文檔
+## [音系及拼音方案](https://github.com/NGLI/rime-wugniu_zaonhe/wiki/音系及拼音方案)
 
-[rime-wugniu_zaonhe Wiki](https://github.com/NGLI/rime-wugniu_zaonhe/wiki)
+- [上海（中派）](https://github.com/NGLI/rime-wugniu_zaonhe/wiki/音系及拼音方案#上海（中派）)
+- [上海（老派）](https://github.com/NGLI/rime-wugniu_zaonhe/wiki/音系及拼音方案#上海（老派）)
+- [松江](https://github.com/NGLI/rime-wugniu_zaonhe/wiki/音系及拼音方案#松江)
 
 ## [安裝方法](https://ngli.github.io/安装方法/安装方法.html)
 
@@ -50,7 +52,7 @@
 
 https://www.wugniu.com/
 
-## 其他輸入方案
+## 其他
 
 - [上海話輸入方案（錢拼、滬二、法吳、NRSS）](https://github.com/shinzoqchiuq/rime-shanghainese)
 
@@ -68,6 +70,9 @@ https://www.wugniu.com/
 - [Rime](https://rime.im/)
 - [Trime](https://github.com/osfans/trime)
 - [iRime](https://github.com/jimmy54/iRime)
+- [「仓」输入法](https://github.com/imfuxiao/Hamster)
+- [fcitx5-rime](https://github.com/fcitx/fcitx5-rime)
+- [fcitx5-android](https://github.com/fcitx5-android)
 
 ## 聯繫
 
