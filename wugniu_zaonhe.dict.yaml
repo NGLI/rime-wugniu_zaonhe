@@ -19,7 +19,7 @@
 
 ---
 name: wugniu_zaonhe
-version: "2026.05.02"
+version: "2026.06.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8131,7 +8131,7 @@ use_preset_vocabulary: true
 翃	ghon
 翊	yiq
 翕	shiq
-# 翟	zaq
+翟	zaq	0%
 翥	tsy
 翦	tsi
 翬	hue
