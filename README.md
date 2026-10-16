@@ -12,6 +12,7 @@
 參考了以下項目：
 
 - [Rime 吳語輸入方案](https://github.com/rime/rime-wugniu)
+- [Shanghainese Word Frequency](https://doi.org/10.6084/m9.figshare.34001649)
 
 ## [音系及拼音方案](https://github.com/NGLI/rime-wugniu_zaonhe/wiki/音系及拼音方案)
 

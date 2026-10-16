@@ -16,10 +16,13 @@
 #   吳語越音 <zhufya@mail.ustc.edu.cn> : (GPLv3)
 #   Rime 吳語輸入方案
 #   https://github.com/rime/rime-wugniu
+# - Verbavia (https://verbavia.com/) : (CC0-1.0)
+#   Shanghainese Word Frequency
+#   https://doi.org/10.6084/m9.figshare.34001649
 
 ---
 name: wugniu_zaonhe
-version: "2026.06.05"
+version: "2026.10.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11448,7 +11451,7 @@ use_preset_vocabulary: true
 上午	zaon wu
 上半日	zaon poe gniq
 上即
-上去	zaon chi
+上去	zaon chi	40000
 上又	zaon yeu
 上取
 上可
@@ -13342,7 +13345,7 @@ use_preset_vocabulary: true
 交鋒	ciau fon
 交錢	kau zi
 交錯	kau tshu
-交關	ciau kue
+交關	ciau kue	90000
 交關贊	ciau kue tse
 交際	ciau tsi
 交集	ciau ziq
@@ -13436,7 +13439,7 @@ use_preset_vocabulary: true
 人字	gnin zy
 人定	gnin din
 人客	gnin khaq
-人家	gnin ka
+人家	gnin ka	300000
 人寰	gnin gue
 人就	gnin zieu
 人居	gnin ciu
@@ -13835,7 +13838,7 @@ use_preset_vocabulary: true
 伊尹	i yin
 伊川	i tshoe
 伊想	yi sian
-伊拉	yi la
+伊拉	yi la	300000
 伊拉	yi lha
 伊拉個	yi la gheq
 伊拉個	yi lha gheq
@@ -15839,7 +15842,7 @@ use_preset_vocabulary: true
 出伏	tsheq voq
 出倉
 出個	tsheq ku
-出去	tsheq chi
+出去	tsheq chi	60000
 出名氣
 出啥新個事體	tsheq sa sin gheq zy thi
 出圈	tsheq chioe
@@ -18599,7 +18602,7 @@ use_preset_vocabulary: true
 哈爾賓
 哈蟆
 哈赫	ha heq
-哎喲	e yau
+哎喲	e yau	40000
 員司	yoe sy
 員外	yoe nga
 員山	yoe se
@@ -18648,7 +18651,7 @@ use_preset_vocabulary: true
 哪管	na kuoe
 哪篇	na phi
 哪肯	na khen
-哪能	na nen
+哪能	na nen	150000
 哪能加	na nen ka
 哪能回事體	na nen we zy thi
 哪能想個	na nen sian gheq
@@ -18868,7 +18871,7 @@ use_preset_vocabulary: true
 啥意思	sa i sy
 啥歌
 啥派
-啥物事	sa meq zy
+啥物事	sa meq zy	40000
 啥犯着	sa ve zaq
 啥網址
 啥辰光	sa zen kuaon
@@ -19823,7 +19826,7 @@ use_preset_vocabulary: true
 垃圾癟三	la si piq se
 垃壗	laq he
 垃想	laq sian
-垃拉	laq laq
+垃拉	laq laq	300000
 垃末	laq meq
 垃該	laq ke
 垃陌生頭	laq maq san deu
@@ -22715,7 +22718,7 @@ use_preset_vocabulary: true
 小一眼
 小乖人	siau kua gnin
 小乘	siau zen
-小人	siau gnin
+小人	siau gnin	150000
 小人道理	siau gnin dau li
 小仇	siau zeu
 小他
@@ -23060,7 +23063,7 @@ use_preset_vocabulary: true
 屋舍	oq so
 屋苑	oq ioe
 屋裏
-屋裏向
+屋裏向		90000
 屋角	oq koq
 屋門	oq men
 屋面	oq mi
@@ -26657,7 +26660,7 @@ use_preset_vocabulary: true
 推刨
 推問	the ven
 推坐
-推扳	the pe
+推扳	the pe	8000
 推扳勿起	the pe veq chi
 推扳貨	the pe hu
 推拉	the lha
@@ -27021,7 +27024,7 @@ use_preset_vocabulary: true
 搿一搶	geq iq tshian
 搿代
 搿件
-搿個	geq gheq
+搿個	geq gheq	300000
 搿個是	geq gheq zy
 搿先
 搿句	geq ciu
@@ -27046,7 +27049,7 @@ use_preset_vocabulary: true
 搿種路名
 搿種音
 搿總
-搿能	geq nen
+搿能	geq nen	150000
 搿能介	geq nen ka
 搿能個	geq nen gheq
 搿腰
@@ -29045,7 +29048,7 @@ use_preset_vocabulary: true
 會勿會	we veq we
 會彈	we de
 會後	we gheu
-會得	we teq
+會得	we teq	40000
 會心	we sin
 會想	we sian
 會意	we i
@@ -29494,7 +29497,7 @@ use_preset_vocabulary: true
 有身孕
 有車	yeu tsho
 有較
-有辰光	yeu zen kuaon
+有辰光	yeu zen kuaon	60000
 有近
 有迭個	yeu diq gheq
 有這
@@ -33880,7 +33883,7 @@ use_preset_vocabulary: true
 物鏡	veq cin
 物類	veq le
 物體	veq thi
-物事	meq zy
+物事	meq zy	150000
 牲口	sen kheu
 牲畜	sen tshoq
 牲禮	sen li
@@ -35406,8 +35409,8 @@ use_preset_vocabulary: true
 真不	tsen peq
 真人	tsen gnin
 真係
-真個	tsen ku
-真個	tsen gheq
+真個	tsen ku	0
+真個	tsen gheq	90000
 真假	tsen ka
 真僞
 真壞	tsen wa
@@ -39071,8 +39074,8 @@ use_preset_vocabulary: true
 自圓
 自大	zy da
 自學	zy ghoq
-自家	zy cia
-自家	zy ka
+自家	zy cia	0
+自家	zy ka	150000
 自家人	zy ka gnin
 自家道理	zy ka dau li
 自強	zy jian
@@ -40372,7 +40375,7 @@ use_preset_vocabulary: true
 蠻多	mhe tu
 蠻大	mhe du
 蠻夷	me yi
-蠻好	mhe hau
+蠻好	mhe hau	90000
 蠻好	me hau
 蠻子	me tsy
 蠻幹	me koe
@@ -40646,7 +40649,7 @@ use_preset_vocabulary: true
 裊娜	gniau na
 裊裊
 裌衣
-裏向
+裏向		150000
 裏向頭
 裏首
 補丁	pu tin
@@ -41017,9 +41020,9 @@ use_preset_vocabulary: true
 覺猜	ciuq tshoe
 覺猜	cioq tshe
 覺猜	ciuq tshe
-覺着	cioq zaq
-覺着	ciuq zaq
-覺着	koq zaq
+覺着	cioq zaq	0
+覺着	ciuq zaq	0
+覺着	koq zaq	90000
 覺算	cioq soe
 覺算	ciuq soe
 覺識	cioq seq
@@ -43117,7 +43120,7 @@ use_preset_vocabulary: true
 辯解	bi cia
 辯訴
 辯說	bi seq
-辰光	zen kuaon
+辰光	zen kuaon	300000
 辱譎
 農人	non gnin
 農化	non ho
@@ -43514,7 +43517,7 @@ use_preset_vocabulary: true
 週期	tseu ji
 進剿
 進化	tsin ho
-進去	tsin chi
+進去	tsin chi	90000
 進場	tsin zan
 進學	tsin ghoq
 進屋	tsin oq
@@ -45078,7 +45081,7 @@ use_preset_vocabulary: true
 阿扁	a pi
 阿拉	a la
 阿拉	a lha
-阿拉	aq laq
+阿拉	aq laq	500000
 阿拉個	aq laq gheq
 阿拉勿來	aq laq veq le
 阿敏	aq mhin
@@ -47632,3 +47635,66 @@ use_preset_vocabulary: true
 畫眉	gho me
 孛萄
 孛孛跳
+
+格末		300000
+就是		300000
+就是講		150000
+出來		150000
+以後		150000
+物事	meq zy	150000
+曉得		150000
+但是		150000
+勿好		150000
+乃末		90000
+老早		90000
+事體		90000
+起來		90000
+高頭		90000
+後頭		90000
+鈔票		90000
+真個	tsen gheq	90000
+總歸		90000
+地方		90000
+歡喜		90000
+開始		90000
+可以		90000
+好像		90000
+埃個		60000
+樣子		60000
+一樣		60000
+下來		60000
+一直		60000
+多少		60000
+當中		60000
+已經		60000
+基本		40000
+勿大		40000
+問題		40000
+勒海		40000
+或者		40000
+然後		40000
+勿過		8000
+老好		8000
+埃面		8000
+勿同		8000
+實際浪		8000
+勿管		8000
+價鈿		8000
+勿錯		8000
+搿樣		8000
+勿得了		8000
+除脫		8000
+挨末		8000
+勿如		8000
+一天到夜		8000
+一淘		8000
+搿末		8000
+勿光		8000
+勿止		8000
+勿好意思		8000
+總個來講		8000
+女小囡		8000
+早夜		8000
+男小囡		8000
+勿願		8000
+勿同意		8000
